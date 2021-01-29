@@ -1,0 +1,1001 @@
+US Population Rank,City,State,2019 Population,Ten_Year_Population_Growth
+1,New York, New York,"8,336,817",4.00%
+2,Los Angeles, California,"3,979,576",7.40%
+3,Chicago, Illinois,"2,693,976",-6.90%
+4,Houston, Texas,"2,320,268",17.30%
+5,Phoenix, Arizona,"1,680,992",26.60%
+6,Philadelphia, Pennsylvania,"1,584,064",4.60%
+7,San Antonio, Texas,"1,547,253",32.90%
+8,San Diego, California,"1,423,851",16.00%
+9,Dallas, Texas,"1,343,573",12.80%
+10,San Jose, California,"1,021,795",13.00%
+11,Austin, Texas,"978,908",45.60%
+12,Jacksonville, Florida,"911,507",23.70%
+13,Fort Worth, Texas,"909,585",66.50%
+14,Columbus, Ohio,"898,553",25.50%
+15,Charlotte, North Carolina,"885,708",55.40%
+16,San Francisco, California,"881,549",13.40%
+17,Indianapolis, Indiana,"876,384",12.00%
+18,Seattle, Washington,"753,675",33.60%
+19,Denver, Colorado,"727,211",30.70%
+20,Washington, District of Columbia,"705,749",23.40%
+21,Boston, Massachusetts,"692,600",17.30%
+22,El Paso, Texas,"681,728",20.70%
+23,Nashville-Davidson, Tennessee,"670,820",22.80%
+24,Detroit, Michigan,"670,031",-29.10%
+25,Oklahoma City, Oklahoma,"655,057",29.00%
+26,Portland, Oregon,"654,741",23.50%
+27,Las Vegas, Nevada,"651,319",34.40%
+28,Memphis, Tennessee,"651,073",-5.60%
+29,Louisville/Jefferson County, Kentucky,"617,638",11.40%
+30,Baltimore, Maryland,"593,490",-8.50%
+31,Milwaukee, Wisconsin,"590,157",-1.10%
+32,Albuquerque, New Mexico,"560,513",24.40%
+33,Tucson, Arizona,"548,073",11.90%
+34,Fresno, California,"531,576",23.40%
+35,Mesa, Arizona,"518,012",28.50%
+36,Sacramento, California,"513,624",25.50%
+37,Atlanta, Georgia,"506,811",20.20%
+38,Kansas City, Missouri,"495,327",11.90%
+39,Colorado Springs, Colorado,"478,221",32.00%
+40,Omaha, Nebraska,"478,192",16.60%
+41,Raleigh, North Carolina,"474,069",63.30%
+42,Miami, Florida,"467,963",28.80%
+43,Long Beach, California,"462,628",0.00%
+44,Virginia Beach, Virginia,"449,974",5.40%
+45,Oakland, California,"433,031",8.00%
+46,Minneapolis, Minnesota,"429,606",12.30%
+47,Tulsa, Oklahoma,"401,190",2.10%
+48,Tampa, Florida,"399,700",31.40%
+49,Arlington, Texas,"398,854",19.10%
+50,New Orleans, Louisiana,"390,144",-19.30%
+51,Wichita, Kansas,"389,938",10.60%
+52,Bakersfield, California,"384,145",56.80%
+53,Cleveland, Ohio,"381,009",-20.00%
+54,Aurora, Colorado,"379,289",36.50%
+55,Anaheim, California,"350,365",6.40%
+56,Honolulu, Hawaii,"345,064",-6.90%
+57,Santa Ana, California,"332,318",-1.80%
+58,Riverside, California,"331,360",28.20%
+59,Corpus Christi, Texas,"326,586",17.70%
+60,Lexington-Fayette, Kentucky,"323,152",23.70%
+61,Henderson, Nevada,"320,189",78.60%
+62,Stockton, California,"312,697",27.80%
+63,St. Paul, Minnesota,"308,096",7.40%
+64,Cincinnati, Ohio,"303,940",-8.20%
+65,St. Louis, Missouri,"300,576",-13.30%
+66,Pittsburgh, Pennsylvania,"300,286",-10.00%
+67,Greensboro, North Carolina,"296,710",29.80%
+68,Lincoln, Nebraska,"289,102",26.90%
+69,Anchorage, Alaska,"288,000",10.50%
+70,Plano, Texas,"287,677",28.30%
+71,Orlando, Florida,"287,442",47.60%
+72,Irvine, California,"287,401",95.90%
+73,Newark, New Jersey,"282,011",3.40%
+74,Durham, North Carolina,"278,993",47.70%
+75,Chula Vista, California,"274,492",56.30%
+76,Toledo, Ohio,"272,779",-13.00%
+77,Fort Wayne, Indiana,"270,402",6.40%
+78,St. Petersburg, Florida,"265,351",6.60%
+79,Laredo, Texas,"262,491",46.20%
+80,Jersey City, New Jersey,"262,075",9.10%
+81,Chandler, Arizona,"261,165",45.40%
+82,Madison, Wisconsin,"259,680",23.60%
+83,Lubbock, Texas,"258,862",29.20%
+84,Scottsdale, Arizona,"258,069",26.30%
+85,Reno, Nevada,"255,601",38.90%
+86,Buffalo, New York,"255,284",-12.60%
+87,Gilbert, Arizona,"254,114",116.60%
+88,Glendale, Arizona,"252,381",13.70%
+89,North Las Vegas, Nevada,"251,974",113.50%
+90,Winston-Salem, North Carolina,"247,945",22.60%
+91,Chesapeake, Virginia,"244,835",22.20%
+92,Norfolk, Virginia,"242,742",3.60%
+93,Fremont, California,"241,110",18.00%
+94,Garland, Texas,"239,928",11.00%
+95,Irving, Texas,"239,798",24.90%
+96,Hialeah, Florida,"233,339",3.10%
+97,Richmond, Virginia,"230,436",16.50%
+98,Boise City, Idaho,"228,959",17.00%
+99,Spokane, Washington,"222,081",12.70%
+100,Baton Rouge, Louisiana,"220,236",-3.50%
+101,Tacoma,?ashington,"217,827",12.30%
+102,San Bernardino,?alifornia,"215,784",14.10%
+103,Modesto,?alifornia,"215,196",13.10%
+104,Fontana,?alifornia,"214,547",46.20%
+105,Des Moines,?owa,"214,237",7.30%
+106,Moreno Valley,?alifornia,"213,055",48.70%
+107,Santa Clarita,?alifornia,"212,979",36.80%
+108,Fayetteville,?orth Carolina,"211,657",6.10%
+109,Birmingham,?labama,"209,403",-13.40%
+110,Oxnard,?alifornia,"208,881",21.70%
+111,Rochester,?ew York,"205,695",-6.20%
+112,Port St. Lucie,?lorida,"201,846",126.30%
+113,Grand Rapids,?ichigan,"201,013",1.50%
+114,Huntsville,?labama,"200,574",25.20%
+115,Salt Lake City,?tah,"200,567",10.30%
+116,Frisco,?exas,"200,490",468.20%
+117,Yonkers,?ew York,"200,370",2.10%
+118,Amarillo,?exas,"199,371",14.50%
+119,Glendale,?alifornia,"199,303",2.00%
+120,Huntington Beach,?alifornia,"199,223",4.80%
+121,McKinney,?exas,"199,177",255.70%
+122,Montgomery,?labama,"198,525",-1.50%
+123,Augusta-Richmond County,?eorgia,"197,888",1.40%
+124,Aurora,?llinois,"197,757",36.80%
+125,Akron,?hio,"197,597",-8.80%
+126,Little Rock,?rkansas,"197,312",7.60%
+127,Tempe,?rizona,"195,805",23.20%
+128,Columbus,?eorgia,"195,769",4.90%
+129,Overland Park,?ansas,"195,494",28.80%
+130,Grand Prairie,?exas,"194,543",51.80%
+131,Tallahassee,?lorida,"194,500",27.10%
+132,Cape Coral,?lorida,"194,495",88.20%
+133,Mobile,?labama,"188,720",-5.00%
+134,Knoxville,?ennessee,"187,603",6.40%
+135,Shreveport,?ouisiana,"187,112",-6.70%
+136,Worcester,?assachusetts,"185,428",7.40%
+137,Ontario,?alifornia,"185,010",16.60%
+138,Vancouver,?ashington,"184,463",25.80%
+139,Sioux Falls,?outh Dakota,"183,793",46.30%
+140,Chattanooga,?ennessee,"182,799",16.60%
+141,Brownsville,?exas,"182,781",27.40%
+142,Fort Lauderdale,?lorida,"182,437",6.60%
+143,Providence,?hode Island,"179,883",3.40%
+144,Newport News,?irginia,"179,225",-0.50%
+145,Rancho Cucamonga,?alifornia,"177,603",37.50%
+146,Santa Rosa,?alifornia,"176,753",18.40%
+147,Peoria,?rizona,"175,961",58.50%
+148,Oceanside,?alifornia,"175,742",8.50%
+149,Elk Grove,?alifornia,"174,775",113.90%
+150,Salem,?regon,"174,365",26.40%
+151,Pembroke Pines,?lorida,"173,591",25.50%
+152,Eugene,?regon,"172,622",24.10%
+153,Garden Grove,?alifornia,"171,644",3.70%
+154,Cary,?orth Carolina,"170,282",74.80%
+155,Fort Collins,?olorado,"170,243",41.70%
+156,Corona,?alifornia,"169,868",31.60%
+157,Springfield,?issouri,"167,882",10.20%
+158,Jackson,?ississippi,"160,628",-13.20%
+159,Alexandria,?irginia,"159,428",23.10%
+160,Hayward,?alifornia,"159,203",12.90%
+161,Clarksville,?ennessee,"158,146",52.10%
+162,Lakewood,?olorado,"157,935",9.30%
+163,Lancaster,?alifornia,"157,601",32.20%
+164,Salinas,?alifornia,"155,465",8.30%
+165,Palmdale,?alifornia,"155,079",31.90%
+166,Hollywood,?lorida,"154,817",10.80%
+167,Springfield,?assachusetts,"153,606",1.10%
+168,Macon-Bibb County,?eorgia,"153,159",0.00%
+169,Kansas City,?ansas,"152,960",4.20%
+170,Sunnyvale,?alifornia,"152,703",15.80%
+171,Pomona,?alifornia,"151,691",2.40%
+172,Killeen,?exas,"151,666",68.20%
+173,Escondido,?alifornia,"151,625",12.80%
+174,Pasadena,?exas,"151,227",6.50%
+175,Naperville,?llinois,"148,449",14.70%
+176,Bellevue,?ashington,"148,164",31.70%
+177,Joliet,?llinois,"147,344",36.10%
+178,Murfreesboro,?ennessee,"146,900",107.30%
+179,Midland,?exas,"146,038",53.70%
+180,Rockford,?llinois,"145,609",-4.00%
+181,Paterson,?ew Jersey,"145,233",-2.70%
+182,Savannah,?eorgia,"144,464",8.80%
+183,Bridgeport,?onnecticut,"144,399",3.40%
+184,Torrance,?alifornia,"143,592",3.80%
+185,McAllen,?exas,"143,268",33.80%
+186,Syracuse,?ew York,"142,327",-2.50%
+187,Surprise,?rizona,"141,664",337.90%
+188,Denton,?exas,"141,541",69.20%
+189,Roseville,?alifornia,"141,500",74.00%
+190,Thornton,?olorado,"141,464",69.80%
+191,Miramar,?lorida,"141,191",89.30%
+192,Pasadena,?alifornia,"141,029",4.80%
+193,Mesquite,?exas,"140,937",12.70%
+194,Olathe,?ansas,"140,545",49.70%
+195,Dayton,?hio,"140,407",-15.30%
+196,Carrollton,?exas,"139,248",26.30%
+197,Waco,?exas,"139,236",21.40%
+198,Orange,?alifornia,"138,669",6.70%
+199,Fullerton,?alifornia,"138,632",9.50%
+200,Charleston,?outh Carolina,"137,566",38.90%
+201,West Valley City, Utah,"135,248",23.80%
+202,Visalia, California,"134,605",40.70%
+203,Hampton, Virginia,"134,510",-8.10%
+204,Gainesville, Florida,"133,997",18.50%
+205,Warren, Michigan,"133,943",-3.00%
+206,Coral Springs, Florida,"133,759",11.70%
+207,Cedar Rapids, Iowa,"133,562",9.60%
+208,Round Rock, Texas,"133,372",119.80%
+209,Sterling Heights, Michigan,"132,438",6.20%
+210,Kent, Washington,"132,319",64.10%
+211,Columbia, South Carolina,"131,674",10.30%
+212,Santa Clara, California,"130,365",27.30%
+213,New Haven, Connecticut,"130,250",5.20%
+214,Stamford, Connecticut,"129,638",10.30%
+215,Concord, California,"129,295",5.70%
+216,Elizabeth, New Jersey,"129,216",6.90%
+217,Athens-Clarke County, Georgia,"126,913",25.90%
+218,Thousand Oaks, California,"126,813",7.90%
+219,Lafayette, Louisiana,"126,185",12.70%
+220,Simi Valley, California,"125,613",12.10%
+221,Topeka, Kansas,"125,310",1.50%
+222,Norman, Oklahoma,"124,880",28.90%
+223,Fargo, North Dakota,"124,662",37.00%
+224,Wilmington, North Carolina,"123,744",37.80%
+225,Abilene, Texas,"123,420",6.50%
+226,Odessa, Texas,"123,334",36.20%
+227,Columbia, Missouri,"123,195",43.20%
+228,Pearland, Texas,"122,460",165.80%
+229,Victorville, California,"122,385",89.60%
+230,Hartford, Connecticut,"122,105",-1.60%
+231,Vallejo, California,"121,692",3.60%
+232,Allentown, Pennsylvania,"121,442",13.90%
+233,Berkeley, California,"121,363",17.70%
+234,Richardson, Texas,"121,323",31.40%
+235,Arvada, Colorado,"121,272",18.50%
+236,Ann Arbor, Michigan,"119,980",4.60%
+237,Rochester, Minnesota,"118,935",33.00%
+238,Cambridge, Massachusetts,"118,927",16.90%
+239,Sugar Land, Texas,"118,488",82.50%
+240,Lansing, Michigan,"118,210",-0.90%
+241,Evansville, Indiana,"117,979",-2.70%
+242,College Station, Texas,"117,911",71.10%
+243,Fairfield, California,"117,133",20.90%
+244,Clearwater, Florida,"116,946",6.70%
+245,Beaumont, Texas,"116,825",2.90%
+246,Independence, Missouri,"116,672",2.70%
+247,Provo, Utah,"116,618",10.30%
+248,West Jordan, Utah,"116,480",46.50%
+249,Murrieta, California,"116,223",124.30%
+250,Palm Bay, Florida,"115,552",45.10%
+251,El Monte, California,"115,487",-0.60%
+253,North Charleston, South Carolina,"115,382",41.20%
+252,Carlsbad, California,"115,382",45.20%
+254,Temecula, California,"114,761",67.00%
+255,Clovis, California,"114,584",63.80%
+256,Springfield, Illinois,"114,230",1.70%
+257,Meridian, Idaho,"114,161",210.80%
+258,Westminster, Colorado,"113,166",11.60%
+259,Costa Mesa, California,"113,003",3.20%
+260,High Point, North Carolina,"112,791",30.20%
+261,Manchester, New Hampshire,"112,673",5.00%
+262,Pueblo, Colorado,"112,361",10.00%
+263,Lakeland, Florida,"112,136",31.80%
+264,Pompano Beach, Florida,"112,118",11.70%
+265,West Palm Beach, Florida,"111,955",35.00%
+266,Antioch, California,"111,502",21.70%
+267,Everett, Washington,"111,475",15.70%
+268,Downey, California,"111,126",3.30%
+269,Lowell, Massachusetts,"110,997",5.50%
+270,Centennial, Colorado,"110,937",8.20%
+271,Elgin, Illinois,"110,849",16.70%
+272,Richmond, California,"110,567",10.90%
+273,Peoria, Illinois,"110,417",-2.30%
+274,Broken Arrow, Oklahoma,"110,198",36.50%
+275,Miami Gardens, Florida,"110,001",9.10%
+276,Billings, Montana,"109,577",19.10%
+277,Jurupa Valley, California,"109,527",0.00%
+278,Sandy Springs, Georgia,"109,452",28.80%
+279,Gresham, Oregon,"109,381",20.60%
+280,Lewisville, Texas,"109,212",39.30%
+281,Hillsboro, Oregon,"109,128",52.90%
+282,San Buenaventura (Ventura), California,"109,106",7.70%
+283,Greeley, Colorado,"108,649",38.60%
+284,Inglewood, California,"108,151",-4.00%
+285,Waterbury, Connecticut,"107,568",0.20%
+286,League City, Texas,"107,536",134.40%
+287,Santa Maria, California,"107,263",37.30%
+288,Tyler, Texas,"106,985",26.60%
+289,Davie, Florida,"106,306",29.30%
+290,Daly City, California,"106,280",2.50%
+291,Boulder, Colorado,"105,673",11.70%
+292,Allen, Texas,"105,623",134.20%
+293,West Covina, California,"105,101",-0.10%
+294,Sparks, Nevada,"105,006",56.90%
+295,Wichita Falls, Texas,"104,683",0.50%
+296,Green Bay, Wisconsin,"104,578",1.70%
+297,San Mateo, California,"104,430",12.60%
+298,Norwalk, California,"103,949",-0.50%
+299,Rialto, California,"103,526",11.50%
+300,Las Cruces, New Mexico,"103,432",40.50%
+301,Chico,?alifornia,"103,301",33.90%
+302,El Cajon,?alifornia,"102,708",8.00%
+303,Burbank,?alifornia,"102,511",2.00%
+304,South Bend,?ndiana,"102,026",-5.80%
+305,Renton,?ashington,"101,751",97.60%
+306,Vista,?alifornia,"101,638",12.90%
+307,Davenport,?owa,"101,590",3.40%
+308,Edinburg,?exas,"101,170",106.70%
+309,Tuscaloosa,?labama,"101,129",28.50%
+310,Carmel,?ndiana,"101,068",88.60%
+311,Spokane Valley,?ashington,"101,060",24.90%
+312,San Angelo,?exas,"101,004",14.20%
+313,Vacaville,?alifornia,"100,670",12.50%
+314,Bend,?regon,"100,421",90.80%
+315,Kenosha,?isconsin,"99,944",9.60%
+316,Boca Raton,?lorida,"99,805",20.00%
+317,Lee's Summit,?issouri,"99,357",39.90%
+318,Nampa,?daho,"99,277",81.20%
+319,Rio Rancho,?ew Mexico,"99,178",88.10%
+320,South Fulton,?eorgia,"99,155",0.00%
+321,Roanoke,?irginia,"99,143",4.50%
+322,Beaverton,?regon,"99,037",23.90%
+323,Yuma,?rizona,"98,285",24.20%
+324,Lawrence,?ansas,"98,193",21.80%
+325,Orem,?tah,"97,828",15.80%
+326,Longmont,?olorado,"97,261",34.60%
+327,San Marcos,?alifornia,"96,664",73.00%
+328,Albany,?ew York,"96,460",2.00%
+329,Sandy,?tah,"96,380",8.20%
+330,Concord,?orth Carolina,"96,341",70.10%
+331,Federal Way,?ashington,"96,289",13.00%
+332,Hesperia,?alifornia,"95,750",51.80%
+333,Brockton,?assachusetts,"95,708",1.30%
+334,Compton,?alifornia,"95,605",2.00%
+335,Flint,?ichigan,"95,538",-23.40%
+336,Erie,?ennsylvania,"95,508",-7.80%
+337,New Bedford,?assachusetts,"95,363",1.50%
+338,Fishers,?ndiana,"95,310",144.10%
+339,Sunrise,?lorida,"95,166",10.50%
+340,Roswell,?eorgia,"94,763",16.10%
+341,Menifee,?alifornia,"94,756",121.50%
+342,Tracy,?alifornia,"94,740",63.20%
+343,Plantation,?lorida,"94,580",13.80%
+344,Quincy,?assachusetts,"94,470",6.90%
+345,Portsmouth,?irginia,"94,398",-6.00%
+346,Mission Viejo,?alifornia,"94,381",0.80%
+347,Chino,?alifornia,"94,371",34.70%
+348,Lynn,?assachusetts,"94,299",5.70%
+349,Edmond,?klahoma,"94,054",37.10%
+350,Dearborn,?ichigan,"93,932",-3.90%
+351,Livonia,?ichigan,"93,665",-6.90%
+352,Yakima,?ashington,"93,637",12.10%
+353,South Gate,?alifornia,"93,444",-3.20%
+354,Greenville,?orth Carolina,"93,400",48.70%
+355,Lawton,?klahoma,"93,025",0.50%
+356,Kirkland,?ashington,"93,010",106.50%
+357,Asheville,?orth Carolina,"92,870",27.40%
+358,Deltona,?lorida,"92,757",32.30%
+359,Redding,?alifornia,"92,590",13.70%
+360,Bellingham,?ashington,"92,314",36.10%
+361,Suffolk,?irginia,"92,108",43.40%
+362,Indio,?alifornia,"91,765",82.30%
+363,Mount Pleasant,?outh Carolina,"91,684",87.50%
+364,Carson,?alifornia,"91,394",1.50%
+365,Santa Barbara,?alifornia,"91,364",1.90%
+366,Conroe,?exas,"91,079",134.00%
+367,Westminster,?alifornia,"90,643",2.70%
+368,Santa Monica,?alifornia,"90,401",7.10%
+369,New Braunfels,?exas,"90,209",133.80%
+370,Livermore,?alifornia,"90,189",21.90%
+371,Palm Coast,?lorida,"89,800",170.50%
+372,St. George,?tah,"89,587",78.50%
+373,Fall River,?assachusetts,"89,541",-2.70%
+374,Nashua,?ew Hampshire,"89,355",2.90%
+375,Champaign,?llinois,"88,909",26.10%
+376,Miami Beach,?lorida,"88,885",0.90%
+377,Norwalk,?onnecticut,"88,816",6.90%
+378,San Leandro,?alifornia,"88,815",11.30%
+379,O'Fallon,?issouri,"88,673",74.20%
+380,Newton,?assachusetts,"88,414",5.50%
+381,Reading,?ennsylvania,"88,375",8.60%
+382,Avondale,?rizona,"87,931",136.00%
+383,Fort Smith,?rkansas,"87,891",8.90%
+384,Citrus Heights,?alifornia,"87,796",2.80%
+385,Ogden,?tah,"87,773",13.10%
+386,Fayetteville,?rkansas,"87,590",47.40%
+387,Fort Myers,?lorida,"87,103",67.50%
+388,Goodyear,?rizona,"86,840",342.20%
+389,Bryan,?exas,"86,276",30.80%
+390,Waukegan,?llinois,"86,075",-2.50%
+391,Hawthorne,?alifornia,"86,068",2.20%
+392,Redwood City,?alifornia,"85,925",13.80%
+393,Hoover,?labama,"85,768",35.30%
+394,Bloomington,?ndiana,"85,755",20.60%
+395,Duluth,?innesota,"85,618",-0.70%
+396,Lake Forest,?alifornia,"85,531",12.40%
+397,Hemet,?alifornia,"85,334",43.60%
+398,Whittier,?alifornia,"85,098",1.50%
+399,Clifton,?ew Jersey,"85,052",7.50%
+400,Largo,?lorida,"84,948",13.90%
+401,Bloomington,?innesota,"84,943",-0.20%
+402,Danbury,?onnecticut,"84,694",12.70%
+403,Santa Fe,?ew Mexico,"84,683",33.80%
+404,Johns Creek,?eorgia,"84,579",39.40%
+405,Newport Beach,?alifornia,"84,534",6.90%
+406,Kennewick,?ashington,"84,347",41.90%
+407,Mission,?exas,"84,331",81.60%
+408,Milpitas,?alifornia,"84,196",33.90%
+409,Troy,?ichigan,"84,092",3.80%
+410,Chino Hills,?alifornia,"83,853",24.40%
+411,Alhambra,?alifornia,"83,750",-1.60%
+412,Merced,?alifornia,"83,676",29.40%
+413,Trenton,?ew Jersey,"83,203",-2.50%
+414,Franklin,?ennessee,"83,097",79.10%
+415,Medford,?regon,"83,072",25.20%
+416,Melbourne,?lorida,"83,029",13.50%
+417,Manteca,?alifornia,"83,028",64.70%
+418,Mountain View,?alifornia,"82,739",17.00%
+419,Sioux City,?owa,"82,651",-2.70%
+420,Lynchburg,?irginia,"82,168",25.80%
+421,Buena Park,?alifornia,"81,788",4.70%
+422,Pleasanton,?alifornia,"81,777",27.10%
+423,Longview,?exas,"81,631",11.90%
+424,Westland,?ichigan,"81,511",-5.90%
+425,Auburn,?ashington,"81,464",46.80%
+426,Cranston,?hode Island,"81,456",2.50%
+427,Somerville,?assachusetts,"81,360",4.90%
+428,Folsom,?alifornia,"81,328",54.20%
+429,Springdale,?rkansas,"81,125",69.50%
+430,Deerfield Beach,?lorida,"81,066",8.90%
+431,Warwick,?hode Island,"81,004",-5.70%
+432,Cicero,?llinois,"80,796",-5.40%
+433,Farmington Hills,?ichigan,"80,612",-1.70%
+434,Brooklyn Park,?innesota,"80,389",19.00%
+435,Lawrence,?assachusetts,"80,028",10.80%
+436,Plymouth,?innesota,"79,768",20.70%
+437,Buckeye,?rizona,"79,620",716.00%
+438,Georgetown,?exas,"79,604",178.30%
+439,Cedar Park,?exas,"79,462",204.10%
+440,Tustin,?alifornia,"79,348",17.10%
+441,Lakewood,?alifornia,"79,307",-0.10%
+442,Perris,?alifornia,"79,291",117.80%
+443,Flower Mound,?exas,"79,135",52.80%
+444,Pharr,?exas,"79,112",66.90%
+445,Loveland,?olorado,"78,877",52.00%
+446,Boynton Beach,?lorida,"78,679",29.80%
+447,New Rochelle,?ew York,"78,557",8.60%
+448,Temple,?exas,"78,439",42.00%
+449,Lake Charles,?ouisiana,"78,396",9.10%
+450,Jonesboro,?rkansas,"78,394",40.50%
+451,Napa,?alifornia,"78,130",7.20%
+452,Parma,?hio,"78,103",-8.60%
+453,Layton,?tah,"78,014",32.50%
+454,Alameda,?alifornia,"77,624",7.00%
+455,Warner Robins,?eorgia,"77,617",55.90%
+456,Rapid City,?outh Dakota,"77,503",29.00%
+457,Bloomington,?llinois,"77,330",17.70%
+458,Gastonia,?orth Carolina,"77,273",14.20%
+459,Baytown,?exas,"77,192",15.80%
+460,Upland,?alifornia,"77,140",12.00%
+461,Racine,?isconsin,"76,760",-6.20%
+462,Scranton,?ennsylvania,"76,653",1.00%
+463,South Jordan,?tah,"76,598",158.20%
+464,Bellflower,?alifornia,"76,435",4.70%
+465,Kalamazoo,?ichigan,"76,200",-1.00%
+466,San Ramon,?alifornia,"75,995",69.10%
+467,Bethlehem,?ennsylvania,"75,815",6.30%
+468,Wyoming,?ichigan,"75,667",8.70%
+469,Hammond,?ndiana,"75,522",-8.80%
+470,Missoula,?ontana,"75,516",30.80%
+471,Missouri City,?exas,"75,457",41.00%
+472,Pasco,?ashington,"75,432",121.50%
+473,Baldwin Park,?alifornia,"75,251",-0.90%
+474,Iowa City,?owa,"75,130",19.50%
+475,Rancho Cordova,?alifornia,"75,087",39.70%
+476,Rock Hill,?outh Carolina,"75,048",47.80%
+477,Flagstaff,?rizona,"75,038",41.30%
+478,Gary,?ndiana,"74,879",-26.90%
+479,St. Joseph,?issouri,"74,875",1.00%
+480,Arlington Heights,?llinois,"74,760",-2.20%
+481,Bolingbrook,?llinois,"74,545",30.80%
+482,Rochester Hills,?ichigan,"74,516",8.00%
+483,Framingham,?assachusetts,"74,416",0.00%
+484,Union City,?alifornia,"74,107",9.80%
+485,Appleton,?isconsin,"74,098",5.20%
+486,Turlock,?alifornia,"73,631",29.20%
+487,Camden,?ew Jersey,"73,562",-7.70%
+488,Bismarck,?orth Dakota,"73,529",31.70%
+489,Evanston,?llinois,"73,473",-0.90%
+490,Apple Valley,?alifornia,"73,453",34.50%
+491,Schaumburg,?llinois,"72,887",-3.20%
+492,Woodbury,?innesota,"72,828",55.00%
+493,Kissimmee,?lorida,"72,717",47.90%
+494,Southfield,?ichigan,"72,689",-7.10%
+495,Maple Grove,?innesota,"72,622",41.30%
+496,Pittsburg,?alifornia,"72,588",26.90%
+497,New Britain,?onnecticut,"72,495",1.30%
+498,Jacksonville,?orth Carolina,"72,436",10.10%
+499,Mansfield,?exas,"72,419",154.80%
+500,Waukesha,?isconsin,"72,299",10.00%
+501,Frederick, Maryland,"72,244",36.00%
+502,Albany, Georgia,"72,130",-5.90%
+503,Pawtucket, Rhode Island,"72,117",-1.20%
+504,Redmond, Washington,"71,929",57.60%
+505,Lauderhill, Florida,"71,868",7.30%
+506,Lafayette, Indiana,"71,721",16.70%
+507,Gulfport, Mississippi,"71,705",0.30%
+508,Redlands, California,"71,513",11.70%
+509,Weston, Florida,"71,166",40.00%
+510,St. Charles, Missouri,"71,028",17.00%
+511,Decatur, Illinois,"70,746",-13.60%
+512,North Port, Florida,"70,724",204.20%
+513,North Richland Hills, Texas,"70,670",26.20%
+514,Greenville, South Carolina,"70,635",24.50%
+515,Bowling Green, Kentucky,"70,543",42.40%
+516,Broomfield, Colorado,"70,465",78.10%
+517,Canton, Ohio,"70,447",-12.90%
+518,Marysville, Washington,"70,298",139.60%
+520,Wilmington, Delaware,"70,166",-3.50%
+519,Walnut Creek, California,"70,166",8.60%
+521,Camarillo, California,"69,888",21.50%
+522,Lynwood, California,"69,887",0.00%
+523,Lehi, Utah,"69,724",254.20%
+524,Passaic, New Jersey,"69,703",2.60%
+525,Homestead, Florida,"69,523",117.80%
+526,Delray Beach, Florida,"69,451",15.10%
+527,Davis, California,"69,413",17.30%
+528,Lake Elsinore, California,"69,283",136.70%
+529,Daytona Beach, Florida,"69,186",8.40%
+530,Dothan, Alabama,"68,941",18.20%
+531,Rocklin, California,"68,823",84.70%
+532,Eau Claire, Wisconsin,"68,802",10.70%
+533,Rogers, Arkansas,"68,669",72.00%
+534,Castle Rock, Colorado,"68,484",227.20%
+535,St. Cloud, Minnesota,"68,462",14.50%
+536,Bossier City, Louisiana,"68,159",20.60%
+537,Rockville, Maryland,"68,079",42.30%
+538,Muncie, Indiana,"67,999",-4.00%
+539,Gaithersburg, Maryland,"67,985",28.60%
+540,Union City, New Jersey,"67,982",1.30%
+541,West Des Moines, Iowa,"67,899",43.90%
+542,South San Francisco, California,"67,789",11.80%
+543,Yorba Linda, California,"67,644",14.40%
+544,Conway, Arkansas,"67,638",54.80%
+545,Lodi, California,"67,586",17.50%
+546,Palatine, Illinois,"67,482",1.70%
+547,Ankeny, Iowa,"67,355",144.10%
+548,Mount Vernon, New York,"67,345",-1.50%
+549,Rowlett, Texas,"67,339",49.20%
+550,Waterloo, Iowa,"67,328",-2.00%
+551,Lakeville, Minnesota,"67,317",54.40%
+552,Alpharetta, Georgia,"67,213",44.20%
+553,Jackson, Tennessee,"67,191",12.10%
+554,Yuba City, California,"67,010",31.10%
+555,Oshkosh, Wisconsin,"67,004",5.70%
+556,Victoria, Texas,"66,916",10.50%
+557,Johnson City, Tennessee,"66,906",19.40%
+558,Redondo Beach, California,"66,749",5.10%
+559,Tamarac, Florida,"66,721",19.20%
+560,Laguna Niguel, California,"66,385",5.60%
+561,Eagan, Minnesota,"66,372",4.10%
+562,Kenner, Louisiana,"66,340",-5.70%
+563,Auburn, Alabama,"66,259",42.90%
+564,Ames, Iowa,"66,258",30.10%
+565,Portland, Maine,"66,215",3.10%
+566,North Little Rock, Arkansas,"65,903",8.70%
+567,Sammamish, Washington,"65,892",89.30%
+568,Madera, California,"65,860",50.70%
+569,Shawnee, Kansas,"65,807",35.30%
+570,Jupiter, Florida,"65,791",64.90%
+571,Doral, Florida,"65,741",211.10%
+572,Blaine, Minnesota,"65,607",44.20%
+573,Tulare, California,"65,496",42.70%
+574,Youngstown, Ohio,"65,469",-19.80%
+575,Wellington, Florida,"65,398",68.40%
+576,Pflugerville, Texas,"65,380",171.70%
+577,Palo Alto, California,"65,364",11.50%
+578,Schenectady, New York,"65,273",5.70%
+579,Harlingen, Texas,"65,022",10.50%
+580,Bayonne, New Jersey,"64,897",4.90%
+581,Eden Prairie, Minnesota,"64,893",17.40%
+582,Port Orange, Florida,"64,842",39.20%
+583,Dublin, California,"64,826",111.50%
+584,San Marcos, Texas,"64,776",77.80%
+585,Noblesville, Indiana,"64,668",115.10%
+586,Santa Cruz, California,"64,608",15.60%
+587,Janesville, Wisconsin,"64,575",6.80%
+588,San Clemente, California,"64,558",27.60%
+589,Brentwood, California,"64,474",160.60%
+590,East Orange, New Jersey,"64,367",-7.70%
+591,Cheyenne, Wyoming,"64,235",20.20%
+592,Eastvale, California,"64,157",0.00%
+593,Chapel Hill, North Carolina,"64,051",33.30%
+594,Haverhill, Massachusetts,"64,014",8.20%
+595,Lorain, Ohio,"63,855",-7.00%
+596,Grand Junction, Colorado,"63,597",39.30%
+597,Springfield, Oregon,"63,230",18.10%
+598,Coon Rapids, Minnesota,"62,998",2.00%
+599,Idaho Falls, Idaho,"62,888",23.00%
+600,North Miami, Florida,"62,822",5.10%
+601,Encinitas, California,"62,709",7.70%
+602,Skokie, Illinois,"62,700",-1.00%
+603,Leander, Texas,"62,608",641.00%
+604,Waltham, Massachusetts,"62,495",5.50%
+605,Council Bluffs, Iowa,"62,166",6.50%
+606,Hamilton, Ohio,"62,082",2.40%
+607,Moore, Oklahoma,"62,055",50.30%
+608,Pico Rivera, California,"62,027",-2.30%
+609,Montebello, California,"61,954",-0.40%
+610,Millcreek, Utah,"61,450",0.00%
+611,Sanford, Florida,"61,448",56.70%
+612,National City, California,"61,394",13.00%
+613,Burnsville, Minnesota,"61,339",1.70%
+614,Coconut Creek, Florida,"61,248",38.40%
+615,Lakewood, Washington,"61,037",4.40%
+616,Taylor, Michigan,"60,922",-7.60%
+617,Novi, Michigan,"60,896",28.20%
+618,Marietta, Georgia,"60,867",-0.90%
+619,Ocala, Florida,"60,786",27.80%
+620,Terre Haute, Indiana,"60,622",1.80%
+621,Woodland, California,"60,548",21.70%
+622,Petaluma, California,"60,520",10.30%
+623,La Habra, California,"60,513",1.70%
+624,Malden, Massachusetts,"60,470",7.40%
+625,Commerce City, Colorado,"60,336",185.30%
+626,Owensboro, Kentucky,"60,131",10.80%
+627,Bristol, Connecticut,"59,947",-0.50%
+628,West Allis, Wisconsin,"59,890",-1.90%
+629,Taylorsville, Utah,"59,805",1.70%
+630,Utica, New York,"59,750",-1.10%
+631,Monterey Park, California,"59,669",-0.80%
+632,Bonita Springs, Florida,"59,637",80.40%
+633,Porterville, California,"59,599",29.70%
+634,Greenwood, Indiana,"59,458",61.80%
+635,Bartlett, Tennessee,"59,440",34.40%
+637,Vineland, New Jersey,"59,439",6.50%
+636,Bradenton, Florida,"59,439",18.70%
+638,Pontiac, Michigan,"59,438",-12.10%
+639,Meriden, Connecticut,"59,395",1.90%
+640,Gardena, California,"59,329",2.40%
+641,Apex, North Carolina,"59,300",179.20%
+642,Royal Oak, Michigan,"59,277",-1.10%
+643,Cupertino, California,"59,276",12.60%
+644,Lancaster, Pennsylvania,"59,265",4.30%
+645,La Mesa, California,"59,249",8.10%
+646,Gilroy, California,"59,032",41.50%
+647,St. Clair Shores, Michigan,"58,984",-6.30%
+648,Des Plaines, Illinois,"58,899",3.10%
+649,Springfield, Ohio,"58,877",-10.60%
+650,Corvallis, Oregon,"58,856",19.00%
+651,Margate, Florida,"58,796",8.90%
+652,Bowie, Maryland,"58,643",12.20%
+653,Casa Grande, Arizona,"58,632",117.60%
+654,Caldwell, Idaho,"58,481",111.50%
+655,San Rafael, California,"58,440",4.10%
+656,Great Falls, Montana,"58,434",2.30%
+657,Sarasota, Florida,"58,285",10.90%
+658,Richland, Washington,"58,225",49.50%
+659,St. Peters, Missouri,"58,212",13.00%
+660,Hendersonville, Tennessee,"58,113",41.50%
+661,White Plains, New York,"58,109",9.00%
+662,Huntersville, North Carolina,"58,098",122.20%
+663,Santee, California,"58,081",9.40%
+664,Kokomo, Indiana,"58,020",23.70%
+665,Arcadia, California,"57,939",8.90%
+666,Casper, Wyoming,"57,931",16.50%
+667,Dubuque, Iowa,"57,882",0.30%
+668,Orland Park, Illinois,"57,857",12.50%
+669,Weymouth Town, Massachusetts,"57,746",0.00%
+670,Parker, Colorado,"57,706",133.20%
+671,Palm Beach Gardens, Florida,"57,704",58.90%
+672,Hanford, California,"57,703",37.50%
+673,Huntington Park, California,"57,509",-6.30%
+674,Taunton, Massachusetts,"57,464",2.30%
+675,Midwest City, Oklahoma,"57,407",5.70%
+676,Medford, Massachusetts,"57,341",3.00%
+677,Euless, Texas,"57,197",23.60%
+678,Shoreline, Washington,"57,027",7.20%
+679,Smyrna, Georgia,"56,666",27.20%
+680,Pocatello, Idaho,"56,637",9.80%
+681,Valdosta, Georgia,"56,457",22.30%
+682,Carson City, Nevada,"55,916",6.40%
+683,Lake Havasu City, Arizona,"55,865",31.70%
+684,Grand Forks, North Dakota,"55,839",13.30%
+685,Blue Springs, Missouri,"55,829",15.10%
+686,Southaven, Mississippi,"55,780",89.00%
+687,Tinley Park, Illinois,"55,773",13.20%
+688,Diamond Bar, California,"55,720",-1.10%
+689,New Brunswick, New Jersey,"55,676",15.20%
+690,Lenexa, Kansas,"55,625",37.70%
+691,Brookhaven, Georgia,"55,554",0.00%
+692,Novato, California,"55,516",16.10%
+693,Tigard, Oregon,"55,514",29.60%
+694,Highland, California,"55,417",23.50%
+695,Fountain Valley, California,"55,357",0.50%
+696,Dearborn Heights, Michigan,"55,353",-5.10%
+697,Albany, Oregon,"55,338",34.70%
+698,Grapevine, Texas,"55,281",29.50%
+699,Apple Valley, Minnesota,"55,135",20.00%
+700,Chicopee, Massachusetts,"55,126",0.70%
+701,Hempstead, New York,"55,113",3.60%
+702,Oak Lawn, Illinois,"55,022",-0.30%
+703,Cathedral City, California,"55,007",28.00%
+704,Bentonville, Arkansas,"54,909",170.30%
+705,Stonecrest, Georgia,"54,903",0.00%
+706,Kettering, Ohio,"54,855",-4.80%
+707,Colton, California,"54,824",14.10%
+708,Anderson, Indiana,"54,765",-8.10%
+709,West Haven, Connecticut,"54,620",4.20%
+710,Burlington, North Carolina,"54,606",18.80%
+711,Manhattan, Kansas,"54,604",19.40%
+712,St. Cloud, Florida,"54,579",148.40%
+713,Normal, Illinois,"54,469",19.30%
+714,Decatur, Alabama,"54,445",0.60%
+715,Berwyn, Illinois,"54,391",0.70%
+716,Port Arthur, Texas,"54,280",-5.80%
+717,Kingsport, Tennessee,"54,127",19.20%
+718,Minnetonka, Minnesota,"54,064",5.70%
+719,Rosemead, California,"54,058",0.80%
+720,Paramount, California,"53,955",-2.50%
+721,Rocky Mount, North Carolina,"53,922",-8.30%
+722,Yucaipa, California,"53,921",30.10%
+723,Watsonville, California,"53,856",15.70%
+724,Elyria, Ohio,"53,757",-4.10%
+725,Leesburg, Virginia,"53,727",87.00%
+726,Mount Prospect, Illinois,"53,719",-4.40%
+727,Pinellas Park, Florida,"53,637",13.70%
+728,Delano, California,"53,573",34.80%
+729,Bellevue, Nebraska,"53,544",20.20%
+730,West Sacramento, California,"53,519",66.90%
+731,Apopka, Florida,"53,447",92.10%
+732,Palm Desert, California,"53,275",19.40%
+733,Milford, Connecticut,"53,195",4.90%
+734,Little Elm, Texas,"53,126",1076.90%
+735,Revere, Massachusetts,"53,073",12.00%
+736,Peabody, Massachusetts,"53,070",9.70%
+737,Wylie, Texas,"53,067",239.60%
+738,Harrisonburg, Virginia,"53,016",31.10%
+739,DeSoto, Texas,"52,988",40.00%
+740,Pensacola, Florida,"52,975",-5.50%
+741,Olympia, Washington,"52,882",22.60%
+742,Edina, Minnesota,"52,857",11.50%
+743,Wheaton, Illinois,"52,745",-5.00%
+744,West New York, New Jersey,"52,723",14.60%
+745,Hoboken, New Jersey,"52,677",36.10%
+746,Lacey, Washington,"52,592",66.00%
+747,Summerville, South Carolina,"52,549",85.80%
+748,Coeur d'Alene, Idaho,"52,414",50.00%
+749,Oak Park, Illinois,"52,381",-0.20%
+750,Elkhart, Indiana,"52,358",-0.40%
+751,Maricopa, Arizona,"52,127",2882.00%
+752,Kentwood, Michigan,"51,898",14.20%
+753,Madison, Alabama,"51,593",73.10%
+754,Smyrna, Tennessee,"51,586",85.50%
+755,Glendora, California,"51,544",4.10%
+756,Logan, Utah,"51,542",20.60%
+757,Burien, Washington,"51,500",61.80%
+758,Perth Amboy, New Jersey,"51,390",8.40%
+759,Herriman, Utah,"51,348",1481.80%
+760,Grand Island, Nebraska,"51,267",17.70%
+761,Placentia, California,"51,233",9.70%
+762,La Crosse, Wisconsin,"51,227",-1.30%
+763,Battle Creek, Michigan,"51,093",-4.20%
+764,Beaumont, California,"51,063",347.10%
+765,Collierville, Tennessee,"51,040",54.70%
+766,West Lafayette, Indiana,"50,996",77.60%
+767,Florissant, Missouri,"50,952",-5.40%
+768,Hoffman Estates, Illinois,"50,932",2.40%
+769,Joplin, Missouri,"50,925",11.50%
+770,Queen Creek, Arizona,"50,890",1468.70%
+771,Aliso Viejo, California,"50,887",27.20%
+772,Kannapolis, North Carolina,"50,841",35.90%
+773,Methuen, Massachusetts,"50,706",15.30%
+774,Galveston, Texas,"50,446",-12.20%
+775,Mishawaka, Indiana,"50,363",7.10%
+776,Plainfield, New Jersey,"50,317",5.10%
+777,Newark, Ohio,"50,315",8.60%
+778,Stillwater, Oklahoma,"50,299",28.10%
+779,Twin Falls, Idaho,"50,197",43.60%
+780,Texas City, Texas,"50,094",19.90%
+781,Azusa, California,"49,974",11.40%
+782,Cerritos, California,"49,859",-3.30%
+783,Bozeman, Montana,"49,831",77.40%
+784,Coral Gables, Florida,"49,700",16.30%
+785,Enid, Oklahoma,"49,688",5.90%
+786,Lakewood, Ohio,"49,678",-12.00%
+787,Lawrence, Indiana,"49,462",26.50%
+788,Wilson, North Carolina,"49,459",9.70%
+789,Portage, Michigan,"49,445",10.00%
+790,Dunwoody, Georgia,"49,356",0.00%
+791,Poway, California,"49,323",2.20%
+792,Harrisburg, Pennsylvania,"49,271",0.80%
+793,San Jacinto, California,"49,215",105.90%
+794,Troy, New York,"49,154",-0.10%
+795,Newark, California,"49,149",15.10%
+796,Cuyahoga Falls, Ohio,"49,106",-0.60%
+797,Downers Grove, Illinois,"49,057",-1.20%
+798,Bedford, Texas,"49,049",3.80%
+799,Dublin, Ohio,"49,037",54.80%
+800,Marana, Arizona,"49,030",240.90%
+801,Cypress,?alifornia,"49,006",5.10%
+802,Murray,?tah,"48,917",7.30%
+803,Middletown,?hio,"48,807",-5.40%
+804,Ceres,?alifornia,"48,706",39.70%
+805,St. Louis Park,?innesota,"48,662",10.10%
+806,Draper,?tah,"48,587",90.40%
+807,Palm Springs,?alifornia,"48,518",12.90%
+808,Kyle,?exas,"48,393",708.10%
+809,Lincoln,?alifornia,"48,275",311.00%
+810,Ocoee,?lorida,"48,263",94.50%
+811,Burleson,?exas,"48,225",119.50%
+812,La Mirada,?alifornia,"48,183",2.60%
+813,Farmers Branch,?exas,"48,158",75.10%
+814,East Lansing,?ichigan,"48,145",3.30%
+815,Jeffersonville,?ndiana,"48,126",60.60%
+816,Wauwatosa,?isconsin,"48,118",2.10%
+817,Saginaw,?ichigan,"48,115",-21.80%
+818,Littleton,?olorado,"48,065",18.80%
+819,Columbus,?ndiana,"48,046",22.20%
+820,Sheboygan,?isconsin,"47,965",-5.40%
+821,Cedar Hill,?exas,"47,930",46.20%
+822,Rancho Santa Margarita,?alifornia,"47,896",1.80%
+823,Beavercreek,?hio,"47,741",24.30%
+824,Niagara Falls,?ew York,"47,720",-14.00%
+825,East Providence,?hode Island,"47,618",-2.30%
+826,Roswell,?ew Mexico,"47,551",5.20%
+827,Chesterfield,?issouri,"47,538",1.40%
+828,San Luis Obispo,?alifornia,"47,459",6.90%
+829,Covina,?alifornia,"47,450",1.10%
+830,Bothell,?ashington,"47,415",55.60%
+831,Minot,?orth Dakota,"47,382",29.50%
+832,Glenview,?llinois,"47,308",9.50%
+833,Monroe,?ouisiana,"47,294",-10.70%
+834,Charlottesville,?irginia,"47,266",17.80%
+835,Mentor,?hio,"47,262",-6.10%
+836,Keller,?exas,"47,213",68.70%
+837,Roseville,?ichigan,"47,018",-2.10%
+838,Elmhurst,?llinois,"46,746",8.40%
+839,Mansfield,?hio,"46,599",-9.80%
+840,Titusville,?lorida,"46,580",13.60%
+842,Salina,?ansas,"46,550",1.60%
+841,Euclid,?hio,"46,550",-11.50%
+843,Charleston,?est Virginia,"46,536",-12.70%
+844,Prescott Valley,?rizona,"46,515",90.40%
+845,Everett,?assachusetts,"46,451",21.30%
+846,Middletown,?onnecticut,"46,258",1.20%
+847,Biloxi,?ississippi,"46,212",-8.80%
+848,Alexandria,?ouisiana,"46,180",-0.70%
+849,Fort Pierce,?lorida,"46,103",14.40%
+850,Winter Garden,?lorida,"46,051",196.20%
+851,Oro Valley,?rizona,"46,044",40.50%
+852,Morgan Hill,?alifornia,"45,952",34.50%
+853,Rockwall,?exas,"45,888",143.60%
+854,Hattiesburg,?ississippi,"45,863",-0.50%
+855,Coachella,?alifornia,"45,743",100.00%
+856,Wake Forest,?orth Carolina,"45,629",248.90%
+857,Cleveland,?ennessee,"45,504",21.40%
+858,Attleboro,?assachusetts,"45,237",7.80%
+859,Oakland Park,?lorida,"45,202",7.20%
+860,Huntington,?est Virginia,"45,110",-12.80%
+861,Winter Haven,?lorida,"44,955",63.90%
+862,Strongsville,?hio,"44,660",1.70%
+863,Danville,?alifornia,"44,510",6.50%
+864,Barnstable Town,?assachusetts,"44,477",-7.40%
+865,Riverton,?tah,"44,440",75.50%
+866,The Colony,?exas,"44,438",64.10%
+867,Binghamton,?ew York,"44,399",-6.00%
+868,Urbandale,?owa,"44,379",50.40%
+869,Farmington,?ew Mexico,"44,372",15.40%
+870,Plainfield,?llinois,"44,308",222.30%
+871,Lombard,?llinois,"44,303",3.80%
+872,Prescott,?rizona,"44,299",28.90%
+873,North Lauderdale,?lorida,"44,262",14.70%
+874,Blacksburg,?irginia,"44,233",11.00%
+875,Hackensack,?ew Jersey,"44,188",3.10%
+876,Sayreville,?ew Jersey,"44,173",9.00%
+877,Altamonte Springs,?lorida,"44,143",6.80%
+878,El Centro,?alifornia,"44,079",15.60%
+879,Sherman,?exas,"44,002",24.90%
+880,Cleveland Heights,?hio,"43,992",-13.10%
+881,Bountiful,?tah,"43,981",6.20%
+882,York,?ennsylvania,"43,932",6.40%
+883,Peachtree Corners,?eorgia,"43,905",0.00%
+884,Haltom City,?exas,"43,874",12.10%
+885,Spring Hill,?ennessee,"43,769",430.40%
+886,Ormond Beach,?lorida,"43,759",19.70%
+887,Cutler Bay,?lorida,"43,718",44.20%
+888,Goose Creek,?outh Carolina,"43,665",38.30%
+889,Moorhead,?innesota,"43,652",34.40%
+890,Westfield,?ndiana,"43,649",182.30%
+891,Concord,?ew Hampshire,"43,627",7.00%
+892,Altoona,?ennsylvania,"43,364",-12.20%
+893,Rohnert Park,?alifornia,"43,291",4.60%
+894,Fond du Lac,?isconsin,"43,263",2.40%
+895,Brea,?alifornia,"43,255",21.70%
+896,Gainesville,?eorgia,"43,232",64.10%
+897,Salem,?assachusetts,"43,226",6.80%
+898,Sierra Vista,?rizona,"43,045",13.80%
+899,North Miami Beach,?lorida,"43,041",3.10%
+900,Freeport,?ew York,"42,956",-1.90%
+901,Mankato, Minnesota,"42,931",31.70%
+902,Gallatin, Tennessee,"42,918",82.10%
+903,Lompoc, California,"42,853",3.90%
+904,DeKalb, Illinois,"42,847",9.30%
+905,Burlington, Vermont,"42,819",7.40%
+906,San Bruno, California,"42,807",6.50%
+907,Brentwood, Tennessee,"42,783",62.40%
+908,Jefferson City, Missouri,"42,708",5.20%
+909,Edmonds, Washington,"42,605",7.70%
+910,Apache Junction, Arizona,"42,571",32.60%
+911,Fairfield, Ohio,"42,558",1.00%
+912,Oakley, California,"42,543",64.50%
+913,Linden, New Jersey,"42,361",7.30%
+914,Puyallup, Washington,"42,361",22.70%
+915,Huntsville, Texas,"42,241",20.10%
+916,Urbana, Illinois,"42,214",11.50%
+917,Beverly, Massachusetts,"42,174",5.80%
+918,State College, Pennsylvania,"42,160",9.80%
+919,Pittsfield, Massachusetts,"42,142",-7.70%
+920,Schertz, Texas,"42,042",99.70%
+921,Bell Gardens, California,"42,012",-4.70%
+922,Oviedo, Florida,"41,860",58.30%
+923,Grove City, Ohio,"41,820",51.20%
+924,Campbell, California,"41,793",7.30%
+925,Wentzville, Missouri,"41,784",459.50%
+926,Woonsocket, Rhode Island,"41,751",-3.50%
+927,La Quinta, California,"41,748",69.80%
+928,Leominster, Massachusetts,"41,716",0.50%
+929,Midland, Michigan,"41,701",-0.20%
+930,Weslaco, Texas,"41,629",44.60%
+931,Newnan, Georgia,"41,581",152.40%
+932,Shakopee, Minnesota,"41,570",97.10%
+933,Brighton, Colorado,"41,554",95.10%
+934,Rancho Palos Verdes, California,"41,530",0.70%
+935,Pine Bluff, Arkansas,"41,474",-24.60%
+936,Coppell, Texas,"41,421",13.20%
+937,Bremerton, Washington,"41,405",11.20%
+938,Moline, Illinois,"41,356",-5.90%
+939,Delaware, Ohio,"41,283",59.40%
+940,Findlay, Ohio,"41,225",5.10%
+941,Westfield, Massachusetts,"41,204",2.70%
+942,Hickory, North Carolina,"41,171",9.20%
+943,Shelton, Connecticut,"41,129",7.60%
+944,Greenacres, Florida,"41,117",44.00%
+945,Westerville, Ohio,"41,103",15.80%
+946,Manassas, Virginia,"41,085",17.70%
+947,Kearny, New Jersey,"41,058",1.30%
+948,Los Banos, California,"41,036",55.90%
+949,Spanish Fork, Utah,"40,913",97.20%
+950,Belleville, Illinois,"40,897",-3.40%
+951,Maplewood, Minnesota,"40,885",15.50%
+952,Bullhead City, Arizona,"40,884",20.30%
+953,Florence, Alabama,"40,797",12.20%
+954,Wilkes-Barre, Pennsylvania,"40,766",-5.10%
+955,Hollister, California,"40,740",16.90%
+956,Bartlett, Illinois,"40,647",10.30%
+957,Fitchburg, Massachusetts,"40,638",4.10%
+958,Cape Girardeau, Missouri,"40,559",14.30%
+959,Cedar Falls, Iowa,"40,536",11.90%
+960,Lancaster, Ohio,"40,505",14.00%
+961,Buffalo Grove, Illinois,"40,494",-6.40%
+962,Royal Palm Beach, Florida,"40,396",83.80%
+963,Hutchinson, Kansas,"40,383",-3.40%
+964,Marion, Iowa,"40,359",51.90%
+965,Covington, Kentucky,"40,341",-6.10%
+966,Columbia, Tennessee,"40,335",21.10%
+967,Friendswood, Texas,"40,290",37.90%
+968,Indian Trail, North Carolina,"40,252",195.40%
+969,Woburn, Massachusetts,"40,228",7.50%
+970,Holyoke, Massachusetts,"40,117",0.50%
+971,Hagerstown, Maryland,"40,100",9.00%
+972,Montclair, California,"40,083",18.10%
+973,Danville, Virginia,"40,044",-17.00%
+974,Quincy, Illinois,"39,949",-1.80%
+975,San Gabriel, California,"39,899",0.00%
+976,Hilton Head Island, South Carolina,"39,861",17.30%
+977,Hallandale Beach, Florida,"39,847",15.90%
+978,Crystal Lake, Illinois,"39,829",3.80%
+979,Calexico, California,"39,825",45.60%
+980,Lake Oswego, Oregon,"39,822",11.50%
+981,Romeoville, Illinois,"39,746",79.90%
+982,Plant City, Florida,"39,744",31.50%
+983,Keizer, Oregon,"39,713",22.60%
+984,New Berlin, Wisconsin,"39,691",3.20%
+985,Chelsea, Massachusetts,"39,690",13.00%
+986,Sumter, South Carolina,"39,642",-2.40%
+987,La Puente, California,"39,614",-3.60%
+988,Roy, Utah,"39,613",19.00%
+989,Marlborough, Massachusetts,"39,597",8.10%
+990,Milton, Georgia,"39,587",155.00%
+991,Issaquah, Washington,"39,509",128.30%
+993,Streamwood, Illinois,"39,228",7.10%
+992,Lancaster, Texas,"39,228",50.80%
+994,Germantown, Tennessee,"39,225",3.70%
+995,Annapolis, Maryland,"39,223",8.90%
+996,Carol Stream, Illinois,"39,203",-3.10%
+997,Culver City, California,"39,185",0.70%
+998,Hobbs, New Mexico,"39,141",36.70%
+999,Lynnwood, Washington,"39,141",15.60%
+1000,Mooresville, North Carolina,"39,132",100.70%
