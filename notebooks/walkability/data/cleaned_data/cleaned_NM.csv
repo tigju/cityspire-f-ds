@@ -1,0 +1,13 @@
+State,City,Walk Score,Transit Score,Bike Score,Population
+NM,Albuquerque (the largest city in New Mexico),42,30,62,"545,852"
+NM,Las Cruces,35,--,46,"97,618"
+NM,Rio Rancho,16,--,32,"87,521"
+NM,Santa Fe,40,--,50,"67,947"
+NM,Roswell,32,--,48,"48,366"
+NM,Farmington,31,16,36,"45,877"
+NM,South Valley,22,--,44,"40,976"
+NM,Clovis,37,--,45,"37,775"
+NM,Hobbs,41,--,46,"34,122"
+NM,Alamogordo,26,--,41,"30,403"
+NM,Carlsbad,36,--,50,"26,138"
+NM,Gallup,28,--,33,"21,678"

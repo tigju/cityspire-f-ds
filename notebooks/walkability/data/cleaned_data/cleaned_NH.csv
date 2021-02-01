@@ -1,0 +1,9 @@
+State,City,Walk Score,Transit Score,Bike Score,Population
+NH,Manchester (the largest city in New Hampshire),49,--,42,"109,565"
+NH,Nashua,38,--,38,"86,494"
+NH,Concord,36,--,37,"42,695"
+NH,Dover,32,--,36,"29,987"
+NH,Rochester,22,--,33,"29,752"
+NH,Keene,43,--,51,"23,409"
+NH,Derry,29,--,38,"22,015"
+NH,Portsmouth,47,--,48,"20,779"

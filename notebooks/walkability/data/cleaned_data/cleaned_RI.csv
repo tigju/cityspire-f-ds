@@ -1,0 +1,10 @@
+State,City,Walk Score,Transit Score,Bike Score,Population
+RI,Providence (the largest city in Rhode Island),78,48,62,"178,042"
+RI,Warwick,34,26,40,"82,672"
+RI,Cranston,49,30,46,"80,387"
+RI,Pawtucket,69,37,52,"71,148"
+RI,East Providence,48,30,46,"47,037"
+RI,Woonsocket,52,26,37,"41,186"
+RI,Newport,65,31,54,"24,672"
+RI,Central Falls,79,34,52,"19,376"
+RI,Westerly,34,4,34,"17,936"

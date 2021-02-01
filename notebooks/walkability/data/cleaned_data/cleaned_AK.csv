@@ -1,0 +1,5 @@
+State,City,Walk Score,Transit Score,Bike Score,Population
+AK,Anchorage,28,21,52,"291,826"
+AK,Fairbanks,33,24,57,"31,535"
+AK,Juneau,22,18,35,"31,275"
+AK,Badger,2,--,35,"19,482"

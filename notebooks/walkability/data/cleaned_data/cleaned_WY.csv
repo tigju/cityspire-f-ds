@@ -1,0 +1,7 @@
+State,City,Walk Score,Transit Score,Bike Score,Population
+WY,Cheyenne,37,--,51,"59,466"
+WY,Casper,39,--,44,"55,316"
+WY,Laramie,34,--,67,"30,816"
+WY,Gillette,21,--,34,"29,087"
+WY,Rock Springs,29,--,32,"23,036"
+WY,Sheridan,30,--,45,"17,444"
