@@ -1,0 +1,8 @@
+State,City,Walk Score,Transit Score,Bike Score,Population
+ND,Fargo (the largest city in North Dakota),44,25,50,"105,549"
+ND,Bismarck,36,--,40,"61,272"
+ND,Grand Forks,48,--,61,"52,838"
+ND,Minot,39,--,38,"40,888"
+ND,West Fargo,28,--,39,"25,830"
+ND,Mandan,27,--,32,"18,331"
+ND,Dickinson,34,--,39,"17,787"

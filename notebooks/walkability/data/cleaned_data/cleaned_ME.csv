@@ -1,0 +1,10 @@
+State,City,Walk Score,Transit Score,Bike Score,Population
+ME,Portland (the largest city in Maine),61,4,68,"66,194"
+ME,Lewiston,45,--,42,"36,592"
+ME,Bangor,41,--,39,"33,039"
+ME,South Portland,41,--,62,"25,002"
+ME,Auburn,33,--,31,"23,055"
+ME,Biddeford,39,--,44,"21,277"
+ME,Augusta,25,--,30,"19,136"
+ME,Saco,23,--,40,"18,482"
+ME,Westbrook,32,--,47,"17,494"
