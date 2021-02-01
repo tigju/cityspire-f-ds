@@ -11,8 +11,9 @@ pytest = "*"
 fastapi = "*"
 uvicorn = {extras = ["standard"], version = "*"}
 sqlalchemy = "*"
-joblib = "*"
+joblib = "==1.0.0"
 pandas = "*"
+cython = "*"
 
 [requires]
 python_version = "3"

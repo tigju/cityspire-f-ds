@@ -24,5 +24,5 @@ async def rent(apartment: Apartment):
     Predict apartment rent from number of beds & baths 
     """
     price = model.predict(apartment.to_df())
-    return {'predicted_price': price}
+    return {'predicted_price': price[0]}
 
