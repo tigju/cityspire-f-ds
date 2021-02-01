@@ -1,0 +1,12 @@
+State,City,Walk Score,Transit Score,Bike Score,Population
+NE,Omaha (the largest city in Nebraska),47,27,44,"408,958"
+NE,Lincoln,43,24,61,"258,379"
+NE,Bellevue,31,--,30,"50,137"
+NE,Grand Island,40,--,52,"48,520"
+NE,Kearney,41,--,49,"30,787"
+NE,Fremont,45,--,50,"26,397"
+NE,Hastings,41,--,50,"24,907"
+NE,North Platte,36,--,44,"24,733"
+NE,Norfolk,43,--,45,"24,210"
+NE,Columbus,43,--,48,"22,111"
+NE,Papillion,39,--,45,"18,894"

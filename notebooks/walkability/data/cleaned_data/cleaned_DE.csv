@@ -1,0 +1,6 @@
+State,City,Walk Score,Transit Score,Bike Score,Population
+DE,Wilmington,75,50,53,"70,851"
+DE,Dover,34,29,48,"36,047"
+DE,Newark,40,27,60,"31,454"
+DE,Bear,27,--,37,"19,371"
+DE,Middletown,29,--,42,"18,871"

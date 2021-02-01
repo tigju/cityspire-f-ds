@@ -1,0 +1,11 @@
+State,City,Walk Score,Transit Score,Bike Score,Population
+WV,Charleston (the largest city in West Virginia),32,--,28,"51,400"
+WV,Huntington,48,--,44,"49,138"
+WV,Parkersburg,45,--,37,"31,492"
+WV,Morgantown,54,--,41,"29,660"
+WV,Wheeling,36,--,35,"28,486"
+WV,Weirton,26,--,20,"19,746"
+WV,Fairmont,42,--,26,"18,704"
+WV,Beckley,34,--,27,"17,614"
+WV,Martinsburg,48,--,39,"17,227"
+WV,Clarksburg,40,--,28,"16,578"
