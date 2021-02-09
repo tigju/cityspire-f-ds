@@ -6,6 +6,8 @@ from dotenv import load_dotenv
 from fastapi import APIRouter, Depends
 import sqlalchemy
 
+import pandas as pd
+
 router = APIRouter()
 
 
@@ -16,9 +18,10 @@ async def get_db() -> sqlalchemy.engine.base.Connection:
     DATABASE_URL=dialect://user:password@host/dbname
 
     Otherwise uses a SQLite database for initial local development.
+    , default='sqlite:///temporary.db'
     """
     load_dotenv()
-    database_url = os.getenv('DATABASE_URL', default='sqlite:///temporary.db')
+    database_url = os.getenv('DATABASE_URL')
     engine = sqlalchemy.create_engine(database_url)
     connection = engine.connect()
     try:
@@ -38,3 +41,21 @@ async def get_url(connection=Depends(get_db)):
     """
     url_without_password = repr(connection.engine.url)
     return {'database_url': url_without_password}
+
+
+
+@router.post('/predict-rental')
+async def read_data(city,connection=Depends(get_db)):
+
+    city = city.lower()
+    query = f"""
+            SELECT city, date, price
+                FROM historical_rentals 
+                WHERE city='{city}' AND date >= '2018-01-01'
+            """
+    df = pd.read_sql(query, connection)
+    if len(df)> 0:
+        return df.to_dict(orient='records')
+    else:
+        return f'City not found. Try major city'
+
