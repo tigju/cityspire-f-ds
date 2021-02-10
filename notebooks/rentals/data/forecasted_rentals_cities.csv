@@ -1,0 +1,2761 @@
+,city,date,price,state
+0,Akron,2020-12-01,913.1459678,Ohio
+1,Albany,2020-12-01,1325.452948,New York
+2,Albuquerque,2020-12-01,1208.463059,New Mexico
+3,Allentown,2020-12-01,1330.582095,Pennsylvania
+4,Anaheim,2020-12-01,2581.114949,California
+5,Atlanta,2020-12-01,1576.227326,Georgia
+6,Augusta,2020-12-01,1146.762177,Georgia
+7,Austin,2020-12-01,1538.4522,Texas
+8,Bakersfield,2020-12-01,1367.730549,California
+9,Baltimore,2020-12-01,1635.335905,Maryland
+10,Baton Rouge,2020-12-01,1168.435751,Louisiana
+11,Birmingham,2020-12-01,1098.125956,Alabama
+12,Boise City,2020-12-01,1349.269129,Idaho
+13,Boston,2020-12-01,2351.79704,Massachusetts
+14,Boulder,2020-12-01,2052.141586,Colorado
+15,Bradenton,2020-12-01,2135.030288,Florida
+16,Buffalo,2020-12-01,1134.68408,New York
+17,Charleston,2020-12-01,1542.477215,South Carolina
+18,Charlotte,2020-12-01,1504.87032,North Carolina
+19,Chattanooga,2020-12-01,1267.152309,Tennessee
+20,Chicago,2020-12-01,1684.348744,Illinois
+21,Cincinnati,2020-12-01,1304.63994,Ohio
+22,Cleveland,2020-12-01,1133.899068,Ohio
+23,Colorado Springs,2020-12-01,1548.034062,Colorado
+24,Columbia,2020-12-01,1168.712799,South Carolina
+25,Columbus,2020-12-01,1329.366208,Ohio
+26,Dallas,2020-12-01,1554.355705,Texas
+27,Dayton,2020-12-01,1037.349079,Ohio
+28,Daytona Beach,2020-12-01,1455.80089,Florida
+29,Denver,2020-12-01,1736.771209,Colorado
+30,Des Moines,2020-12-01,1135.612745,Iowa
+31,Detroit,2020-12-01,1293.198751,Michigan
+32,Durham,2020-12-01,1411.128292,North Carolina
+33,El Paso,2020-12-01,1181.284184,Texas
+34,Fort Collins,2020-12-01,1550.964181,Colorado
+35,Fort Lauderdale,2020-12-01,1930.645065,Florida
+36,Fort Myers,2020-12-01,1900.077114,Florida
+37,Fort Worth,2020-12-01,1554.355705,Texas
+38,Fresno,2020-12-01,1561.704302,California
+39,Gainesville,2020-12-01,1382.289291,Georgia
+40,Grand Rapids,2020-12-01,1254.405332,Michigan
+41,Greeley,2020-12-01,1571.282145,Colorado
+42,Greensboro,2020-12-01,1222.148978,North Carolina
+43,Greenville,2020-12-01,1296.049415,South Carolina
+44,Harrisburg,2020-12-01,1132.20718,Pennsylvania
+45,Hartford,2020-12-01,1377.760051,Connecticut
+46,Honolulu,2020-12-01,2107.913296,Hawaii
+47,Houston,2020-12-01,1479.705333,Texas
+48,Indianapolis,2020-12-01,1257.522784,Indiana
+49,Jackson,2020-12-01,1260.823258,Mississippi
+50,Jacksonville,2020-12-01,1374.960319,Florida
+51,Jefferson County,2020-12-01,990.4852666,Kentucky
+52,Kansas City,2020-12-01,1196.676191,Missouri
+53,Knoxville,2020-12-01,1342.574008,Tennessee
+54,Lakeland,2020-12-01,1451.411559,Florida
+55,Las Vegas,2020-12-01,1441.43842,Nevada
+56,Little Rock,2020-12-01,915.6212324,Arkansas
+57,Long Beach,2020-12-01,2581.114949,California
+58,Los Angeles,2020-12-01,2581.114949,California
+59,Louisville,2020-12-01,990.4852666,Kentucky
+60,Madison,2020-12-01,1342.191802,Wisconsin
+61,Melbourne,2020-12-01,1544.909371,Florida
+62,Memphis,2020-12-01,1301.335758,Tennessee
+63,Miami,2020-12-01,1930.645065,Florida
+64,Milwaukee,2020-12-01,1214.685353,Wisconsin
+65,Minneapolis,2020-12-01,1538.819647,Minnesota
+66,Nashville,2020-12-01,1603.608326,Tennessee
+67,New Haven,2020-12-01,1449.915614,Connecticut
+68,New Orleans,2020-12-01,1412.269733,Louisiana
+69,New York,2020-12-01,2658.138052,New York
+70,North Port,2020-12-01,2135.030288,Florida
+71,Ogden,2020-12-01,1365.486557,Utah
+72,Oklahoma City,2020-12-01,1082.057358,Oklahoma
+73,Omaha,2020-12-01,1231.795995,Nebraska
+74,Orlando,2020-12-01,1590.243284,Florida
+75,Philadelphia,2020-12-01,1608.712616,Pennsylvania
+76,Phoenix,2020-12-01,1523.79709,Arizona
+77,Pittsburgh,2020-12-01,1187.913828,Pennsylvania
+78,Port St. Lucie,2020-12-01,1730.747593,Florida
+79,Portland,2020-12-01,1656.945298,Oregon
+80,Providence,2020-12-01,1558.158912,Rhode Island
+81,Provo,2020-12-01,1352.6638,Utah
+82,Raleigh,2020-12-01,1501.797833,North Carolina
+83,Richmond,2020-12-01,1315.502613,Virginia
+84,Riverside,2020-12-01,2142.464804,California
+85,Rochester,2020-12-01,1148.8385,New York
+86,Sacramento,2020-12-01,1905.596283,California
+87,Salem,2020-12-01,1251.782424,North Carolina
+88,Salt Lake City,2020-12-01,1394.012136,Utah
+89,San Antonio,2020-12-01,1327.564336,Texas
+90,San Diego,2020-12-01,2315.359376,California
+91,San Francisco,2020-12-01,3107.656824,California
+92,San Jose,2020-12-01,3034.859739,California
+93,Sarasota,2020-12-01,2135.030288,Florida
+94,Scranton,2020-12-01,923.1471182,Pennsylvania
+95,Seattle,2020-12-01,1963.240043,Washington
+96,Spokane,2020-12-01,1319.803881,Washington
+97,Springfield,2020-12-01,1332.158162,Massachusetts
+98,St. Louis,2020-12-01,1146.577564,Missouri
+99,St. Paul,2020-12-01,1538.819647,Minnesota
+100,Stamford,2020-12-01,2147.451124,Connecticut
+101,Stockton,2020-12-01,2086.30623,California
+102,Syracuse,2020-12-01,1187.293576,New York
+103,Tampa,2020-12-01,1549.673793,Florida
+104,Toledo,2020-12-01,882.2840685,Ohio
+105,Tucson,2020-12-01,1226.9751,Arizona
+106,Tulsa,2020-12-01,1177.939184,Oklahoma
+107,United States,2020-12-01,1739.61517,United States
+108,Ventura,2020-12-01,2694.546997,California
+109,Virginia Beach,2020-12-01,1368.764102,Virginia
+110,Washington,2020-12-01,2061.842268,District of Columbia
+111,Wichita,2020-12-01,828.893167,Kansas
+112,Winston,2020-12-01,1251.782424,North Carolina
+113,Worcester,2020-12-01,1466.219228,Massachusetts
+114,Youngstown,2020-12-01,703.4761844,Ohio
+115,Akron,2021-01-01,915.0494015,Ohio
+116,Albany,2021-01-01,1331.891725,New York
+117,Albuquerque,2021-01-01,1216.504411,New Mexico
+118,Allentown,2021-01-01,1363.404501,Pennsylvania
+119,Anaheim,2021-01-01,2572.042204,California
+120,Atlanta,2021-01-01,1583.095711,Georgia
+121,Augusta,2021-01-01,1183.505459,Georgia
+122,Austin,2021-01-01,1532.163572,Texas
+123,Bakersfield,2021-01-01,1380.809701,California
+124,Baltimore,2021-01-01,1636.880864,Maryland
+125,Baton Rouge,2021-01-01,1178.700711,Louisiana
+126,Birmingham,2021-01-01,1101.095837,Alabama
+127,Boise City,2021-01-01,1354.81054,Idaho
+128,Boston,2021-01-01,2349.511165,Massachusetts
+129,Boulder,2021-01-01,2057.831589,Colorado
+130,Bradenton,2021-01-01,2142.378664,Florida
+131,Buffalo,2021-01-01,1144.969742,New York
+132,Charleston,2021-01-01,1553.487771,South Carolina
+133,Charlotte,2021-01-01,1509.106814,North Carolina
+134,Chattanooga,2021-01-01,1259.922398,Tennessee
+135,Chicago,2021-01-01,1674.319333,Illinois
+136,Cincinnati,2021-01-01,1302.908241,Ohio
+137,Cleveland,2021-01-01,1133.775517,Ohio
+138,Colorado Springs,2021-01-01,1559.721146,Colorado
+139,Columbia,2021-01-01,1197.164031,South Carolina
+140,Columbus,2021-01-01,1324.396365,Ohio
+141,Dallas,2021-01-01,1554.404719,Texas
+142,Dayton,2021-01-01,1110.748369,Ohio
+143,Daytona Beach,2021-01-01,1466.008831,Florida
+144,Denver,2021-01-01,1734.230582,Colorado
+145,Des Moines,2021-01-01,1138.327364,Iowa
+146,Detroit,2021-01-01,1301.512146,Michigan
+147,Durham,2021-01-01,1399.149468,North Carolina
+148,El Paso,2021-01-01,1177.249744,Texas
+149,Fort Collins,2021-01-01,1547.222987,Colorado
+150,Fort Lauderdale,2021-01-01,1930.235223,Florida
+151,Fort Myers,2021-01-01,1917.206031,Florida
+152,Fort Worth,2021-01-01,1554.404719,Texas
+153,Fresno,2021-01-01,1564.306696,California
+154,Gainesville,2021-01-01,1391.490942,Georgia
+155,Grand Rapids,2021-01-01,1249.15667,Michigan
+156,Greeley,2021-01-01,1588.264707,Colorado
+157,Greensboro,2021-01-01,1243.053143,North Carolina
+158,Greenville,2021-01-01,1299.396428,South Carolina
+159,Harrisburg,2021-01-01,1145.456919,Pennsylvania
+160,Hartford,2021-01-01,1382.398275,Connecticut
+161,Honolulu,2021-01-01,2104.775342,Hawaii
+162,Houston,2021-01-01,1477.681453,Texas
+163,Indianapolis,2021-01-01,1264.964433,Indiana
+164,Jackson,2021-01-01,1264.083335,Mississippi
+165,Jacksonville,2021-01-01,1378.577889,Florida
+166,Jefferson County,2021-01-01,988.4926988,Kentucky
+167,Kansas City,2021-01-01,1196.186478,Missouri
+168,Knoxville,2021-01-01,1350.140701,Tennessee
+169,Lakeland,2021-01-01,1454.731597,Florida
+170,Las Vegas,2021-01-01,1445.584006,Nevada
+171,Little Rock,2021-01-01,922.8466877,Arkansas
+172,Long Beach,2021-01-01,2572.042204,California
+173,Los Angeles,2021-01-01,2572.042204,California
+174,Louisville,2021-01-01,988.4926988,Kentucky
+175,Madison,2021-01-01,1349.216481,Wisconsin
+176,Melbourne,2021-01-01,1548.999206,Florida
+177,Memphis,2021-01-01,1312.509851,Tennessee
+178,Miami,2021-01-01,1930.235223,Florida
+179,Milwaukee,2021-01-01,1221.710774,Wisconsin
+180,Minneapolis,2021-01-01,1544.229901,Minnesota
+181,Nashville,2021-01-01,1606.097341,Tennessee
+182,New Haven,2021-01-01,1461.664121,Connecticut
+183,New Orleans,2021-01-01,1407.628632,Louisiana
+184,New York,2021-01-01,2617.785584,New York
+185,North Port,2021-01-01,2142.378664,Florida
+186,Ogden,2021-01-01,1367.962482,Utah
+187,Oklahoma City,2021-01-01,1084.242039,Oklahoma
+188,Omaha,2021-01-01,1243.958589,Nebraska
+189,Orlando,2021-01-01,1591.384076,Florida
+190,Philadelphia,2021-01-01,1606.956561,Pennsylvania
+191,Phoenix,2021-01-01,1528.716121,Arizona
+192,Pittsburgh,2021-01-01,1206.585375,Pennsylvania
+193,Port St. Lucie,2021-01-01,1748.657595,Florida
+194,Portland,2021-01-01,1656.750185,Oregon
+195,Providence,2021-01-01,1562.284369,Rhode Island
+196,Provo,2021-01-01,1358.349667,Utah
+197,Raleigh,2021-01-01,1501.706195,North Carolina
+198,Richmond,2021-01-01,1320.479011,Virginia
+199,Riverside,2021-01-01,2157.365084,California
+200,Rochester,2021-01-01,1164.183226,New York
+201,Sacramento,2021-01-01,1913.115864,California
+202,Salem,2021-01-01,1246.594191,North Carolina
+203,Salt Lake City,2021-01-01,1395.442551,Utah
+204,San Antonio,2021-01-01,1327.8968,Texas
+205,San Diego,2021-01-01,2321.041767,California
+206,San Francisco,2021-01-01,3067.741406,California
+207,San Jose,2021-01-01,3011.371752,California
+208,Sarasota,2021-01-01,2142.378664,Florida
+209,Scranton,2021-01-01,918.9642614,Pennsylvania
+210,Seattle,2021-01-01,1952.801607,Washington
+211,Spokane,2021-01-01,1334.584604,Washington
+212,Springfield,2021-01-01,1318.199734,Massachusetts
+213,St. Louis,2021-01-01,1153.470309,Missouri
+214,St. Paul,2021-01-01,1544.229901,Minnesota
+215,Stamford,2021-01-01,2150.913485,Connecticut
+216,Stockton,2021-01-01,2086.569376,California
+217,Syracuse,2021-01-01,1152.831051,New York
+218,Tampa,2021-01-01,1554.807163,Florida
+219,Toledo,2021-01-01,891.0771513,Ohio
+220,Tucson,2021-01-01,1233.913878,Arizona
+221,Tulsa,2021-01-01,1181.585754,Oklahoma
+222,United States,2021-01-01,1737.61243,United States
+223,Ventura,2021-01-01,2722.212807,California
+224,Virginia Beach,2021-01-01,1374.936103,Virginia
+225,Washington,2021-01-01,2053.414136,District of Columbia
+226,Wichita,2021-01-01,917.1516408,Kansas
+227,Winston,2021-01-01,1246.594191,North Carolina
+228,Worcester,2021-01-01,1462.129377,Massachusetts
+229,Youngstown,2021-01-01,844.0151129,Ohio
+230,Akron,2021-02-01,924.4064452,Ohio
+231,Albany,2021-02-01,1332.407669,New York
+232,Albuquerque,2021-02-01,1226.764109,New Mexico
+233,Allentown,2021-02-01,1362.522972,Pennsylvania
+234,Anaheim,2021-02-01,2571.266283,California
+235,Atlanta,2021-02-01,1589.6689,Georgia
+236,Augusta,2021-02-01,1150.899845,Georgia
+237,Austin,2021-02-01,1534.707989,Texas
+238,Bakersfield,2021-02-01,1389.529527,California
+239,Baltimore,2021-02-01,1640.44512,Maryland
+240,Baton Rouge,2021-02-01,1181.586754,Louisiana
+241,Birmingham,2021-02-01,1107.097574,Alabama
+242,Boise City,2021-02-01,1373.524445,Idaho
+243,Boston,2021-02-01,2341.274016,Massachusetts
+244,Boulder,2021-02-01,2041.526403,Colorado
+245,Bradenton,2021-02-01,2154.085657,Florida
+246,Buffalo,2021-02-01,1152.345318,New York
+247,Charleston,2021-02-01,1554.827721,South Carolina
+248,Charlotte,2021-02-01,1510.401459,North Carolina
+249,Chattanooga,2021-02-01,1282.727606,Tennessee
+250,Chicago,2021-02-01,1674.74384,Illinois
+251,Cincinnati,2021-02-01,1310.434787,Ohio
+252,Cleveland,2021-02-01,1144.843564,Ohio
+253,Colorado Springs,2021-02-01,1570.066874,Colorado
+254,Columbia,2021-02-01,1171.278764,South Carolina
+255,Columbus,2021-02-01,1338.265724,Ohio
+256,Dallas,2021-02-01,1554.736416,Texas
+257,Dayton,2021-02-01,1027.064295,Ohio
+258,Daytona Beach,2021-02-01,1477.677589,Florida
+259,Denver,2021-02-01,1734.511361,Colorado
+260,Des Moines,2021-02-01,1145.999336,Iowa
+261,Detroit,2021-02-01,1309.615913,Michigan
+262,Durham,2021-02-01,1407.178312,North Carolina
+263,El Paso,2021-02-01,1181.873631,Texas
+264,Fort Collins,2021-02-01,1559.638013,Colorado
+265,Fort Lauderdale,2021-02-01,1924.352794,Florida
+266,Fort Myers,2021-02-01,1911.324863,Florida
+267,Fort Worth,2021-02-01,1554.736416,Texas
+268,Fresno,2021-02-01,1576.245352,California
+269,Gainesville,2021-02-01,1404.226664,Georgia
+270,Grand Rapids,2021-02-01,1264.314624,Michigan
+271,Greeley,2021-02-01,1579.933887,Colorado
+272,Greensboro,2021-02-01,1248.776029,North Carolina
+273,Greenville,2021-02-01,1294.837872,South Carolina
+274,Harrisburg,2021-02-01,1151.555369,Pennsylvania
+275,Hartford,2021-02-01,1392.206153,Connecticut
+276,Honolulu,2021-02-01,2092.357144,Hawaii
+277,Houston,2021-02-01,1473.08184,Texas
+278,Indianapolis,2021-02-01,1274.111313,Indiana
+279,Jackson,2021-02-01,1248.64964,Mississippi
+280,Jacksonville,2021-02-01,1383.468654,Florida
+281,Jefferson County,2021-02-01,1007.44176,Kentucky
+282,Kansas City,2021-02-01,1208.189726,Missouri
+283,Knoxville,2021-02-01,1367.825739,Tennessee
+284,Lakeland,2021-02-01,1470.554998,Florida
+285,Las Vegas,2021-02-01,1455.377541,Nevada
+286,Little Rock,2021-02-01,925.9364637,Arkansas
+287,Long Beach,2021-02-01,2571.266283,California
+288,Los Angeles,2021-02-01,2571.266283,California
+289,Louisville,2021-02-01,1007.44176,Kentucky
+290,Madison,2021-02-01,1343.192353,Wisconsin
+291,Melbourne,2021-02-01,1557.211527,Florida
+292,Memphis,2021-02-01,1320.639726,Tennessee
+293,Miami,2021-02-01,1924.352794,Florida
+294,Milwaukee,2021-02-01,1224.290608,Wisconsin
+295,Minneapolis,2021-02-01,1545.209684,Minnesota
+296,Nashville,2021-02-01,1605.053641,Tennessee
+297,New Haven,2021-02-01,1461.304718,Connecticut
+298,New Orleans,2021-02-01,1409.384561,Louisiana
+299,New York,2021-02-01,2588.446578,New York
+300,North Port,2021-02-01,2154.085657,Florida
+301,Ogden,2021-02-01,1372.093336,Utah
+302,Oklahoma City,2021-02-01,1092.576401,Oklahoma
+303,Omaha,2021-02-01,1242.55313,Nebraska
+304,Orlando,2021-02-01,1594.533847,Florida
+305,Philadelphia,2021-02-01,1606.375624,Pennsylvania
+306,Phoenix,2021-02-01,1541.412724,Arizona
+307,Pittsburgh,2021-02-01,1184.257574,Pennsylvania
+308,Port St. Lucie,2021-02-01,1761.856558,Florida
+309,Portland,2021-02-01,1655.561813,Oregon
+310,Providence,2021-02-01,1594.596519,Rhode Island
+311,Provo,2021-02-01,1379.247641,Utah
+312,Raleigh,2021-02-01,1513.653468,North Carolina
+313,Richmond,2021-02-01,1326.430358,Virginia
+314,Riverside,2021-02-01,2176.814507,California
+315,Rochester,2021-02-01,1170.853381,New York
+316,Sacramento,2021-02-01,1923.388423,California
+317,Salem,2021-02-01,1268.594166,North Carolina
+318,Salt Lake City,2021-02-01,1405.985783,Utah
+319,San Antonio,2021-02-01,1329.944379,Texas
+320,San Diego,2021-02-01,2327.635775,California
+321,San Francisco,2021-02-01,3044.020821,California
+322,San Jose,2021-02-01,2974.586951,California
+323,Sarasota,2021-02-01,2154.085657,Florida
+324,Scranton,2021-02-01,935.73659,Pennsylvania
+325,Seattle,2021-02-01,1946.82244,Washington
+326,Spokane,2021-02-01,1333.358513,Washington
+327,Springfield,2021-02-01,1339.704653,Massachusetts
+328,St. Louis,2021-02-01,1154.616858,Missouri
+329,St. Paul,2021-02-01,1545.209684,Minnesota
+330,Stamford,2021-02-01,2173.76384,Connecticut
+331,Stockton,2021-02-01,2105.507195,California
+332,Syracuse,2021-02-01,1182.160735,New York
+333,Tampa,2021-02-01,1564.448961,Florida
+334,Toledo,2021-02-01,893.2896819,Ohio
+335,Tucson,2021-02-01,1247.061636,Arizona
+336,Tulsa,2021-02-01,1182.793138,Oklahoma
+337,United States,2021-02-01,1737.497148,United States
+338,Ventura,2021-02-01,2734.774831,California
+339,Virginia Beach,2021-02-01,1386.77011,Virginia
+340,Washington,2021-02-01,2045.75766,District of Columbia
+341,Wichita,2021-02-01,820.0098169,Kansas
+342,Winston,2021-02-01,1268.594166,North Carolina
+343,Worcester,2021-02-01,1481.366491,Massachusetts
+344,Youngstown,2021-02-01,706.0890736,Ohio
+345,Akron,2021-03-01,927.0881896,Ohio
+346,Albany,2021-03-01,1350.265428,New York
+347,Albuquerque,2021-03-01,1233.658469,New Mexico
+348,Allentown,2021-03-01,1378.338476,Pennsylvania
+349,Anaheim,2021-03-01,2587.576919,California
+350,Atlanta,2021-03-01,1602.581643,Georgia
+351,Augusta,2021-03-01,1167.203159,Georgia
+352,Austin,2021-03-01,1548.286654,Texas
+353,Bakersfield,2021-03-01,1393.363092,California
+354,Baltimore,2021-03-01,1651.945476,Maryland
+355,Baton Rouge,2021-03-01,1183.789415,Louisiana
+356,Birmingham,2021-03-01,1106.708992,Alabama
+357,Boise City,2021-03-01,1382.691723,Idaho
+358,Boston,2021-03-01,2371.583313,Massachusetts
+359,Boulder,2021-03-01,2070.971769,Colorado
+360,Bradenton,2021-03-01,2158.237065,Florida
+361,Buffalo,2021-03-01,1154.333034,New York
+362,Charleston,2021-03-01,1572.1949,South Carolina
+363,Charlotte,2021-03-01,1526.662042,North Carolina
+364,Chattanooga,2021-03-01,1289.595306,Tennessee
+365,Chicago,2021-03-01,1691.777939,Illinois
+366,Cincinnati,2021-03-01,1320.084801,Ohio
+367,Cleveland,2021-03-01,1145.119409,Ohio
+368,Colorado Springs,2021-03-01,1573.749339,Colorado
+369,Columbia,2021-03-01,1188.867713,South Carolina
+370,Columbus,2021-03-01,1344.996926,Ohio
+371,Dallas,2021-03-01,1567.847318,Texas
+372,Dayton,2021-03-01,1059.250026,Ohio
+373,Daytona Beach,2021-03-01,1472.111591,Florida
+374,Denver,2021-03-01,1753.113987,Colorado
+375,Des Moines,2021-03-01,1153.805485,Iowa
+376,Detroit,2021-03-01,1312.703453,Michigan
+377,Durham,2021-03-01,1420.982411,North Carolina
+378,El Paso,2021-03-01,1189.782436,Texas
+379,Fort Collins,2021-03-01,1573.749443,Colorado
+380,Fort Lauderdale,2021-03-01,1937.92148,Florida
+381,Fort Myers,2021-03-01,1916.560368,Florida
+382,Fort Worth,2021-03-01,1567.847318,Texas
+383,Fresno,2021-03-01,1588.175521,California
+384,Gainesville,2021-03-01,1397.876522,Georgia
+385,Grand Rapids,2021-03-01,1271.144968,Michigan
+386,Greeley,2021-03-01,1600.803758,Colorado
+387,Greensboro,2021-03-01,1252.586255,North Carolina
+388,Greenville,2021-03-01,1315.849258,South Carolina
+389,Harrisburg,2021-03-01,1155.477518,Pennsylvania
+390,Hartford,2021-03-01,1393.597616,Connecticut
+391,Honolulu,2021-03-01,2105.611542,Hawaii
+392,Houston,2021-03-01,1487.635166,Texas
+393,Indianapolis,2021-03-01,1278.979487,Indiana
+394,Jackson,2021-03-01,1273.804024,Mississippi
+395,Jacksonville,2021-03-01,1395.952366,Florida
+396,Jefferson County,2021-03-01,1006.165886,Kentucky
+397,Kansas City,2021-03-01,1215.592756,Missouri
+398,Knoxville,2021-03-01,1370.714947,Tennessee
+399,Lakeland,2021-03-01,1470.194135,Florida
+400,Las Vegas,2021-03-01,1465.993168,Nevada
+401,Little Rock,2021-03-01,930.753575,Arkansas
+402,Long Beach,2021-03-01,2587.576919,California
+403,Los Angeles,2021-03-01,2587.576919,California
+404,Louisville,2021-03-01,1006.165886,Kentucky
+405,Madison,2021-03-01,1354.762961,Wisconsin
+406,Melbourne,2021-03-01,1572.106694,Florida
+407,Memphis,2021-03-01,1329.917646,Tennessee
+408,Miami,2021-03-01,1937.92148,Florida
+409,Milwaukee,2021-03-01,1229.413538,Wisconsin
+410,Minneapolis,2021-03-01,1562.524166,Minnesota
+411,Nashville,2021-03-01,1624.893775,Tennessee
+412,New Haven,2021-03-01,1474.694115,Connecticut
+413,New Orleans,2021-03-01,1425.350178,Louisiana
+414,New York,2021-03-01,2628.12727,New York
+415,North Port,2021-03-01,2158.237065,Florida
+416,Ogden,2021-03-01,1367.079425,Utah
+417,Oklahoma City,2021-03-01,1100.287762,Oklahoma
+418,Omaha,2021-03-01,1252.993944,Nebraska
+419,Orlando,2021-03-01,1599.726703,Florida
+420,Philadelphia,2021-03-01,1624.25205,Pennsylvania
+421,Phoenix,2021-03-01,1559.725729,Arizona
+422,Pittsburgh,2021-03-01,1209.429246,Pennsylvania
+423,Port St. Lucie,2021-03-01,1776.386736,Florida
+424,Portland,2021-03-01,1672.573699,Oregon
+425,Providence,2021-03-01,1610.93576,Rhode Island
+426,Provo,2021-03-01,1370.077264,Utah
+427,Raleigh,2021-03-01,1519.89873,North Carolina
+428,Richmond,2021-03-01,1334.712609,Virginia
+429,Riverside,2021-03-01,2185.9215,California
+430,Rochester,2021-03-01,1175.715617,New York
+431,Sacramento,2021-03-01,1933.316736,California
+432,Salem,2021-03-01,1277.01817,North Carolina
+433,Salt Lake City,2021-03-01,1421.460669,Utah
+434,San Antonio,2021-03-01,1341.063431,Texas
+435,San Diego,2021-03-01,2341.538157,California
+436,San Francisco,2021-03-01,3075.190429,California
+437,San Jose,2021-03-01,3022.944283,California
+438,Sarasota,2021-03-01,2158.237065,Florida
+439,Scranton,2021-03-01,933.8433983,Pennsylvania
+440,Seattle,2021-03-01,1978.449472,Washington
+441,Spokane,2021-03-01,1356.34945,Washington
+442,Springfield,2021-03-01,1347.333532,Massachusetts
+443,St. Louis,2021-03-01,1164.8494,Missouri
+444,St. Paul,2021-03-01,1562.524166,Minnesota
+445,Stamford,2021-03-01,2186.562581,Connecticut
+446,Stockton,2021-03-01,2125.05364,California
+447,Syracuse,2021-03-01,1194.354467,New York
+448,Tampa,2021-03-01,1577.021919,Florida
+449,Toledo,2021-03-01,893.1600738,Ohio
+450,Tucson,2021-03-01,1254.371025,Arizona
+451,Tulsa,2021-03-01,1188.676653,Oklahoma
+452,United States,2021-03-01,1752.428622,United States
+453,Ventura,2021-03-01,2740.987684,California
+454,Virginia Beach,2021-03-01,1390.890483,Virginia
+455,Washington,2021-03-01,2066.98495,District of Columbia
+456,Wichita,2021-03-01,839.9964883,Kansas
+457,Winston,2021-03-01,1277.01817,North Carolina
+458,Worcester,2021-03-01,1482.743143,Massachusetts
+459,Youngstown,2021-03-01,733.527061,Ohio
+460,Akron,2021-04-01,931.8920652,Ohio
+461,Albany,2021-04-01,1363.855454,New York
+462,Albuquerque,2021-04-01,1239.686852,New Mexico
+463,Allentown,2021-04-01,1379.710564,Pennsylvania
+464,Anaheim,2021-04-01,2587.47926,California
+465,Atlanta,2021-04-01,1608.836846,Georgia
+466,Augusta,2021-04-01,1173.275847,Georgia
+467,Austin,2021-04-01,1550.194072,Texas
+468,Bakersfield,2021-04-01,1402.752324,California
+469,Baltimore,2021-04-01,1655.80769,Maryland
+470,Baton Rouge,2021-04-01,1189.800186,Louisiana
+471,Birmingham,2021-04-01,1112.377326,Alabama
+472,Boise City,2021-04-01,1393.906082,Idaho
+473,Boston,2021-04-01,2376.013948,Massachusetts
+474,Boulder,2021-04-01,2069.763209,Colorado
+475,Bradenton,2021-04-01,2156.099821,Florida
+476,Buffalo,2021-04-01,1160.092653,New York
+477,Charleston,2021-04-01,1575.643121,South Carolina
+478,Charlotte,2021-04-01,1529.41383,North Carolina
+479,Chattanooga,2021-04-01,1308.266475,Tennessee
+480,Chicago,2021-04-01,1697.182468,Illinois
+481,Cincinnati,2021-04-01,1325.259436,Ohio
+482,Cleveland,2021-04-01,1154.688327,Ohio
+483,Colorado Springs,2021-04-01,1586.108669,Colorado
+484,Columbia,2021-04-01,1196.08849,South Carolina
+485,Columbus,2021-04-01,1354.137536,Ohio
+486,Dallas,2021-04-01,1571.400926,Texas
+487,Dayton,2021-04-01,1058.476629,Ohio
+488,Daytona Beach,2021-04-01,1479.849466,Florida
+489,Denver,2021-04-01,1756.516103,Colorado
+490,Des Moines,2021-04-01,1161.238111,Iowa
+491,Detroit,2021-04-01,1320.750312,Michigan
+492,Durham,2021-04-01,1426.902232,North Carolina
+493,El Paso,2021-04-01,1198.975012,Texas
+494,Fort Collins,2021-04-01,1587.4603,Colorado
+495,Fort Lauderdale,2021-04-01,1934.914487,Florida
+496,Fort Myers,2021-04-01,1916.89662,Florida
+497,Fort Worth,2021-04-01,1571.400926,Texas
+498,Fresno,2021-04-01,1589.969888,California
+499,Gainesville,2021-04-01,1403.161079,Georgia
+500,Grand Rapids,2021-04-01,1288.91193,Michigan
+501,Greeley,2021-04-01,1604.076475,Colorado
+502,Greensboro,2021-04-01,1256.21907,North Carolina
+503,Greenville,2021-04-01,1324.852937,South Carolina
+504,Harrisburg,2021-04-01,1161.262239,Pennsylvania
+505,Hartford,2021-04-01,1407.198985,Connecticut
+506,Honolulu,2021-04-01,2109.683136,Hawaii
+507,Houston,2021-04-01,1491.807757,Texas
+508,Indianapolis,2021-04-01,1288.486877,Indiana
+509,Jackson,2021-04-01,1276.613823,Mississippi
+510,Jacksonville,2021-04-01,1400.589705,Florida
+511,Jefferson County,2021-04-01,1009.992207,Kentucky
+512,Kansas City,2021-04-01,1223.481695,Missouri
+513,Knoxville,2021-04-01,1373.931235,Tennessee
+514,Lakeland,2021-04-01,1475.90737,Florida
+515,Las Vegas,2021-04-01,1471.664638,Nevada
+516,Little Rock,2021-04-01,937.8133733,Arkansas
+517,Long Beach,2021-04-01,2587.47926,California
+518,Los Angeles,2021-04-01,2587.47926,California
+519,Louisville,2021-04-01,1009.992207,Kentucky
+520,Madison,2021-04-01,1360.807328,Wisconsin
+521,Melbourne,2021-04-01,1569.126813,Florida
+522,Memphis,2021-04-01,1341.291765,Tennessee
+523,Miami,2021-04-01,1934.914487,Florida
+524,Milwaukee,2021-04-01,1236.782501,Wisconsin
+525,Minneapolis,2021-04-01,1569.223615,Minnesota
+526,Nashville,2021-04-01,1633.188878,Tennessee
+527,New Haven,2021-04-01,1490.647701,Connecticut
+528,New Orleans,2021-04-01,1425.351347,Louisiana
+529,New York,2021-04-01,2630.23021,New York
+530,North Port,2021-04-01,2156.099821,Florida
+531,Ogden,2021-04-01,1354.342628,Utah
+532,Oklahoma City,2021-04-01,1107.986014,Oklahoma
+533,Omaha,2021-04-01,1264.937002,Nebraska
+534,Orlando,2021-04-01,1604.043034,Florida
+535,Philadelphia,2021-04-01,1630.015941,Pennsylvania
+536,Phoenix,2021-04-01,1568.580047,Arizona
+537,Pittsburgh,2021-04-01,1211.514797,Pennsylvania
+538,Port St. Lucie,2021-04-01,1774.606195,Florida
+539,Portland,2021-04-01,1676.889089,Oregon
+540,Providence,2021-04-01,1620.756629,Rhode Island
+541,Provo,2021-04-01,1377.832962,Utah
+542,Raleigh,2021-04-01,1524.030758,North Carolina
+543,Richmond,2021-04-01,1343.44272,Virginia
+544,Riverside,2021-04-01,2199.685671,California
+545,Rochester,2021-04-01,1179.019508,New York
+546,Sacramento,2021-04-01,1946.224898,California
+547,Salem,2021-04-01,1282.527773,North Carolina
+548,Salt Lake City,2021-04-01,1424.069316,Utah
+549,San Antonio,2021-04-01,1345.475058,Texas
+550,San Diego,2021-04-01,2345.714696,California
+551,San Francisco,2021-04-01,3070.603062,California
+552,San Jose,2021-04-01,3027.300168,California
+553,Sarasota,2021-04-01,2156.099821,Florida
+554,Scranton,2021-04-01,935.5850236,Pennsylvania
+555,Seattle,2021-04-01,1985.876817,Washington
+556,Spokane,2021-04-01,1358.784569,Washington
+557,Springfield,2021-04-01,1356.157646,Massachusetts
+558,St. Louis,2021-04-01,1172.832636,Missouri
+559,St. Paul,2021-04-01,1569.223615,Minnesota
+560,Stamford,2021-04-01,2213.893274,Connecticut
+561,Stockton,2021-04-01,2132.045366,California
+562,Syracuse,2021-04-01,1203.271741,New York
+563,Tampa,2021-04-01,1581.892125,Florida
+564,Toledo,2021-04-01,904.8213048,Ohio
+565,Tucson,2021-04-01,1263.573333,Arizona
+566,Tulsa,2021-04-01,1191.496426,Oklahoma
+567,United States,2021-04-01,1757.843827,United States
+568,Ventura,2021-04-01,2740.215706,California
+569,Virginia Beach,2021-04-01,1397.670769,Virginia
+570,Washington,2021-04-01,2070.144597,District of Columbia
+571,Wichita,2021-04-01,844.264785,Kansas
+572,Winston,2021-04-01,1282.527773,North Carolina
+573,Worcester,2021-04-01,1489.446606,Massachusetts
+574,Youngstown,2021-04-01,730.0033424,Ohio
+575,Akron,2021-05-01,935.8152067,Ohio
+576,Albany,2021-05-01,1371.756482,New York
+577,Albuquerque,2021-05-01,1245.64899,New Mexico
+578,Allentown,2021-05-01,1394.288398,Pennsylvania
+579,Anaheim,2021-05-01,2587.917377,California
+580,Atlanta,2021-05-01,1615.975753,Georgia
+581,Augusta,2021-05-01,1186.824409,Georgia
+582,Austin,2021-05-01,1552.51667,Texas
+583,Bakersfield,2021-05-01,1409.775952,California
+584,Baltimore,2021-05-01,1664.311934,Maryland
+585,Baton Rouge,2021-05-01,1194.235254,Louisiana
+586,Birmingham,2021-05-01,1114.669062,Alabama
+587,Boise City,2021-05-01,1404.05105,Idaho
+588,Boston,2021-05-01,2377.334783,Massachusetts
+589,Boulder,2021-05-01,2078.089567,Colorado
+590,Bradenton,2021-05-01,2153.641169,Florida
+591,Buffalo,2021-05-01,1168.3526,New York
+592,Charleston,2021-05-01,1581.139401,South Carolina
+593,Charlotte,2021-05-01,1534.476223,North Carolina
+594,Chattanooga,2021-05-01,1311.940002,Tennessee
+595,Chicago,2021-05-01,1704.751669,Illinois
+596,Cincinnati,2021-05-01,1333.509906,Ohio
+597,Cleveland,2021-05-01,1160.561304,Ohio
+598,Colorado Springs,2021-05-01,1596.563812,Colorado
+599,Columbia,2021-05-01,1201.728648,South Carolina
+600,Columbus,2021-05-01,1362.943988,Ohio
+601,Dallas,2021-05-01,1575.861706,Texas
+602,Dayton,2021-05-01,1063.407611,Ohio
+603,Daytona Beach,2021-05-01,1502.213559,Florida
+604,Denver,2021-05-01,1764.423799,Colorado
+605,Des Moines,2021-05-01,1171.445858,Iowa
+606,Detroit,2021-05-01,1328.780885,Michigan
+607,Durham,2021-05-01,1433.111761,North Carolina
+608,El Paso,2021-05-01,1204.214461,Texas
+609,Fort Collins,2021-05-01,1597.079386,Colorado
+610,Fort Lauderdale,2021-05-01,1933.444722,Florida
+611,Fort Myers,2021-05-01,1921.253273,Florida
+612,Fort Worth,2021-05-01,1575.861706,Texas
+613,Fresno,2021-05-01,1601.919812,California
+614,Gainesville,2021-05-01,1405.93551,Georgia
+615,Grand Rapids,2021-05-01,1305.972006,Michigan
+616,Greeley,2021-05-01,1610.706024,Colorado
+617,Greensboro,2021-05-01,1266.770216,North Carolina
+618,Greenville,2021-05-01,1327.653229,South Carolina
+619,Harrisburg,2021-05-01,1165.994511,Pennsylvania
+620,Hartford,2021-05-01,1413.298361,Connecticut
+621,Honolulu,2021-05-01,2117.053927,Hawaii
+622,Houston,2021-05-01,1494.791076,Texas
+623,Indianapolis,2021-05-01,1298.194629,Indiana
+624,Jackson,2021-05-01,1282.278053,Mississippi
+625,Jacksonville,2021-05-01,1406.499011,Florida
+626,Jefferson County,2021-05-01,1018.113878,Kentucky
+627,Kansas City,2021-05-01,1230.829773,Missouri
+628,Knoxville,2021-05-01,1385.16141,Tennessee
+629,Lakeland,2021-05-01,1495.621249,Florida
+630,Las Vegas,2021-05-01,1478.036852,Nevada
+631,Little Rock,2021-05-01,938.1899008,Arkansas
+632,Long Beach,2021-05-01,2587.917377,California
+633,Los Angeles,2021-05-01,2587.917377,California
+634,Louisville,2021-05-01,1018.113878,Kentucky
+635,Madison,2021-05-01,1359.590121,Wisconsin
+636,Melbourne,2021-05-01,1574.762416,Florida
+637,Memphis,2021-05-01,1349.032391,Tennessee
+638,Miami,2021-05-01,1933.444722,Florida
+639,Milwaukee,2021-05-01,1244.773286,Wisconsin
+640,Minneapolis,2021-05-01,1573.38504,Minnesota
+641,Nashville,2021-05-01,1640.789822,Tennessee
+642,New Haven,2021-05-01,1499.643227,Connecticut
+643,New Orleans,2021-05-01,1429.37662,Louisiana
+644,New York,2021-05-01,2631.196251,New York
+645,North Port,2021-05-01,2153.641169,Florida
+646,Ogden,2021-05-01,1380.340439,Utah
+647,Oklahoma City,2021-05-01,1117.526013,Oklahoma
+648,Omaha,2021-05-01,1272.242008,Nebraska
+649,Orlando,2021-05-01,1610.582699,Florida
+650,Philadelphia,2021-05-01,1634.700855,Pennsylvania
+651,Phoenix,2021-05-01,1577.610864,Arizona
+652,Pittsburgh,2021-05-01,1216.756945,Pennsylvania
+653,Port St. Lucie,2021-05-01,1788.670482,Florida
+654,Portland,2021-05-01,1687.605583,Oregon
+655,Providence,2021-05-01,1632.003279,Rhode Island
+656,Provo,2021-05-01,1385.285396,Utah
+657,Raleigh,2021-05-01,1531.866676,North Carolina
+658,Richmond,2021-05-01,1352.919101,Virginia
+659,Riverside,2021-05-01,2206.490211,California
+660,Rochester,2021-05-01,1188.63297,New York
+661,Sacramento,2021-05-01,1957.4509,California
+662,Salem,2021-05-01,1291.530181,North Carolina
+663,Salt Lake City,2021-05-01,1428.676522,Utah
+664,San Antonio,2021-05-01,1349.208585,Texas
+665,San Diego,2021-05-01,2360.261269,California
+666,San Francisco,2021-05-01,3070.1276,California
+667,San Jose,2021-05-01,3027.659473,California
+668,Sarasota,2021-05-01,2153.641169,Florida
+669,Scranton,2021-05-01,939.9293644,Pennsylvania
+670,Seattle,2021-05-01,1998.379119,Washington
+671,Spokane,2021-05-01,1369.801677,Washington
+672,Springfield,2021-05-01,1368.36083,Massachusetts
+673,St. Louis,2021-05-01,1177.20281,Missouri
+674,St. Paul,2021-05-01,1573.38504,Minnesota
+675,Stamford,2021-05-01,2234.937046,Connecticut
+676,Stockton,2021-05-01,2141.284881,California
+677,Syracuse,2021-05-01,1214.615924,New York
+678,Tampa,2021-05-01,1588.201364,Florida
+679,Toledo,2021-05-01,907.977738,Ohio
+680,Tucson,2021-05-01,1270.965425,Arizona
+681,Tulsa,2021-05-01,1199.88276,Oklahoma
+682,United States,2021-05-01,1762.758919,United States
+683,Ventura,2021-05-01,2751.701021,California
+684,Virginia Beach,2021-05-01,1403.346822,Virginia
+685,Washington,2021-05-01,2074.502643,District of Columbia
+686,Wichita,2021-05-01,846.8821508,Kansas
+687,Winston,2021-05-01,1291.530181,North Carolina
+688,Worcester,2021-05-01,1500.757466,Massachusetts
+689,Youngstown,2021-05-01,735.0215903,Ohio
+690,Akron,2021-06-01,938.9559564,Ohio
+691,Albany,2021-06-01,1373.032908,New York
+692,Albuquerque,2021-06-01,1256.41175,New Mexico
+693,Allentown,2021-06-01,1386.505237,Pennsylvania
+694,Anaheim,2021-06-01,2592.094954,California
+695,Atlanta,2021-06-01,1624.676109,Georgia
+696,Augusta,2021-06-01,1194.3773,Georgia
+697,Austin,2021-06-01,1557.511084,Texas
+698,Bakersfield,2021-06-01,1419.643969,California
+699,Baltimore,2021-06-01,1668.096647,Maryland
+700,Baton Rouge,2021-06-01,1198.808799,Louisiana
+701,Birmingham,2021-06-01,1118.216843,Alabama
+702,Boise City,2021-06-01,1416.218332,Idaho
+703,Boston,2021-06-01,2380.757711,Massachusetts
+704,Boulder,2021-06-01,2079.790852,Colorado
+705,Bradenton,2021-06-01,2145.36429,Florida
+706,Buffalo,2021-06-01,1171.404616,New York
+707,Charleston,2021-06-01,1588.609702,South Carolina
+708,Charlotte,2021-06-01,1541.822878,North Carolina
+709,Chattanooga,2021-06-01,1320.454225,Tennessee
+710,Chicago,2021-06-01,1709.993636,Illinois
+711,Cincinnati,2021-06-01,1339.046501,Ohio
+712,Cleveland,2021-06-01,1166.746898,Ohio
+713,Colorado Springs,2021-06-01,1603.758138,Colorado
+714,Columbia,2021-06-01,1206.899015,South Carolina
+715,Columbus,2021-06-01,1368.989845,Ohio
+716,Dallas,2021-06-01,1583.453272,Texas
+717,Dayton,2021-06-01,1068.978165,Ohio
+718,Daytona Beach,2021-06-01,1495.849195,Florida
+719,Denver,2021-06-01,1770.931369,Colorado
+720,Des Moines,2021-06-01,1178.662215,Iowa
+721,Detroit,2021-06-01,1336.138409,Michigan
+722,Durham,2021-06-01,1435.96352,North Carolina
+723,El Paso,2021-06-01,1210.486162,Texas
+724,Fort Collins,2021-06-01,1600.813406,Colorado
+725,Fort Lauderdale,2021-06-01,1933.695535,Florida
+726,Fort Myers,2021-06-01,1922.723537,Florida
+727,Fort Worth,2021-06-01,1583.453272,Texas
+728,Fresno,2021-06-01,1611.631972,California
+729,Gainesville,2021-06-01,1409.898739,Georgia
+730,Grand Rapids,2021-06-01,1313.24428,Michigan
+731,Greeley,2021-06-01,1612.607833,Colorado
+732,Greensboro,2021-06-01,1270.625604,North Carolina
+733,Greenville,2021-06-01,1329.779054,South Carolina
+734,Harrisburg,2021-06-01,1167.166442,Pennsylvania
+735,Hartford,2021-06-01,1419.226699,Connecticut
+736,Honolulu,2021-06-01,2120.403466,Hawaii
+737,Houston,2021-06-01,1497.90835,Texas
+738,Indianapolis,2021-06-01,1308.727675,Indiana
+739,Jackson,2021-06-01,1281.114667,Mississippi
+740,Jacksonville,2021-06-01,1413.47228,Florida
+741,Jefferson County,2021-06-01,1024.304378,Kentucky
+742,Kansas City,2021-06-01,1235.895602,Missouri
+743,Knoxville,2021-06-01,1390.24793,Tennessee
+744,Lakeland,2021-06-01,1499.217254,Florida
+745,Las Vegas,2021-06-01,1485.106968,Nevada
+746,Little Rock,2021-06-01,944.298121,Arkansas
+747,Long Beach,2021-06-01,2592.094954,California
+748,Los Angeles,2021-06-01,2592.094954,California
+749,Louisville,2021-06-01,1024.304378,Kentucky
+750,Madison,2021-06-01,1362.167285,Wisconsin
+751,Melbourne,2021-06-01,1583.825587,Florida
+752,Memphis,2021-06-01,1360.697198,Tennessee
+753,Miami,2021-06-01,1933.695535,Florida
+754,Milwaukee,2021-06-01,1250.041869,Wisconsin
+755,Minneapolis,2021-06-01,1577.700157,Minnesota
+756,Nashville,2021-06-01,1649.407283,Tennessee
+757,New Haven,2021-06-01,1502.225111,Connecticut
+758,New Orleans,2021-06-01,1432.354927,Louisiana
+759,New York,2021-06-01,2630.296041,New York
+760,North Port,2021-06-01,2145.36429,Florida
+761,Ogden,2021-06-01,1404.057989,Utah
+762,Oklahoma City,2021-06-01,1121.064512,Oklahoma
+763,Omaha,2021-06-01,1282.022079,Nebraska
+764,Orlando,2021-06-01,1614.937043,Florida
+765,Philadelphia,2021-06-01,1637.891537,Pennsylvania
+766,Phoenix,2021-06-01,1585.488654,Arizona
+767,Pittsburgh,2021-06-01,1222.207955,Pennsylvania
+768,Port St. Lucie,2021-06-01,1784.332409,Florida
+769,Portland,2021-06-01,1698.710961,Oregon
+770,Providence,2021-06-01,1640.091878,Rhode Island
+771,Provo,2021-06-01,1398.85475,Utah
+772,Raleigh,2021-06-01,1539.969823,North Carolina
+773,Richmond,2021-06-01,1356.492466,Virginia
+774,Riverside,2021-06-01,2217.534898,California
+775,Rochester,2021-06-01,1195.25731,New York
+776,Sacramento,2021-06-01,1972.222337,California
+777,Salem,2021-06-01,1296.562347,North Carolina
+778,Salt Lake City,2021-06-01,1430.86694,Utah
+779,San Antonio,2021-06-01,1354.257462,Texas
+780,San Diego,2021-06-01,2370.559348,California
+781,San Francisco,2021-06-01,3077.939858,California
+782,San Jose,2021-06-01,3044.281986,California
+783,Sarasota,2021-06-01,2145.36429,Florida
+784,Scranton,2021-06-01,942.5730588,Pennsylvania
+785,Seattle,2021-06-01,2006.57895,Washington
+786,Spokane,2021-06-01,1383.405634,Washington
+787,Springfield,2021-06-01,1368.185825,Massachusetts
+788,St. Louis,2021-06-01,1181.439494,Missouri
+789,St. Paul,2021-06-01,1577.700157,Minnesota
+790,Stamford,2021-06-01,2239.638514,Connecticut
+791,Stockton,2021-06-01,2154.493797,California
+792,Syracuse,2021-06-01,1225.691962,New York
+793,Tampa,2021-06-01,1595.43588,Florida
+794,Toledo,2021-06-01,907.7483927,Ohio
+795,Tucson,2021-06-01,1274.406629,Arizona
+796,Tulsa,2021-06-01,1206.660107,Oklahoma
+797,United States,2021-06-01,1767.810001,United States
+798,Ventura,2021-06-01,2763.309983,California
+799,Virginia Beach,2021-06-01,1407.761592,Virginia
+800,Washington,2021-06-01,2078.468212,District of Columbia
+801,Wichita,2021-06-01,853.9832281,Kansas
+802,Winston,2021-06-01,1296.562347,North Carolina
+803,Worcester,2021-06-01,1506.558763,Massachusetts
+804,Youngstown,2021-06-01,733.6720686,Ohio
+805,Akron,2021-07-01,942.6945967,Ohio
+806,Albany,2021-07-01,1373.627788,New York
+807,Albuquerque,2021-07-01,1265.223763,New Mexico
+808,Allentown,2021-07-01,1414.204363,Pennsylvania
+809,Anaheim,2021-07-01,2595.490286,California
+810,Atlanta,2021-07-01,1632.253872,Georgia
+811,Augusta,2021-07-01,1196.888651,Georgia
+812,Austin,2021-07-01,1564.900865,Texas
+813,Bakersfield,2021-07-01,1428.216279,California
+814,Baltimore,2021-07-01,1669.851606,Maryland
+815,Baton Rouge,2021-07-01,1192.176233,Louisiana
+816,Birmingham,2021-07-01,1119.625142,Alabama
+817,Boise City,2021-07-01,1426.374477,Idaho
+818,Boston,2021-07-01,2377.751051,Massachusetts
+819,Boulder,2021-07-01,2086.362255,Colorado
+820,Bradenton,2021-07-01,2153.120702,Florida
+821,Buffalo,2021-07-01,1172.88926,New York
+822,Charleston,2021-07-01,1599.086572,South Carolina
+823,Charlotte,2021-07-01,1548.735753,North Carolina
+824,Chattanooga,2021-07-01,1324.287392,Tennessee
+825,Chicago,2021-07-01,1712.320954,Illinois
+826,Cincinnati,2021-07-01,1341.561379,Ohio
+827,Cleveland,2021-07-01,1165.49015,Ohio
+828,Colorado Springs,2021-07-01,1609.751012,Colorado
+829,Columbia,2021-07-01,1217.779495,South Carolina
+830,Columbus,2021-07-01,1371.917993,Ohio
+831,Dallas,2021-07-01,1586.931106,Texas
+832,Dayton,2021-07-01,1076.165561,Ohio
+833,Daytona Beach,2021-07-01,1499.555323,Florida
+834,Denver,2021-07-01,1774.9159,Colorado
+835,Des Moines,2021-07-01,1180.464334,Iowa
+836,Detroit,2021-07-01,1341.750051,Michigan
+837,Durham,2021-07-01,1436.288979,North Carolina
+838,El Paso,2021-07-01,1211.219319,Texas
+839,Fort Collins,2021-07-01,1599.098474,Colorado
+840,Fort Lauderdale,2021-07-01,1938.909846,Florida
+841,Fort Myers,2021-07-01,1929.797851,Florida
+842,Fort Worth,2021-07-01,1586.931106,Texas
+843,Fresno,2021-07-01,1619.745194,California
+844,Gainesville,2021-07-01,1416.784346,Georgia
+845,Grand Rapids,2021-07-01,1320.457642,Michigan
+846,Greeley,2021-07-01,1615.338798,Colorado
+847,Greensboro,2021-07-01,1279.915448,North Carolina
+848,Greenville,2021-07-01,1330.702226,South Carolina
+849,Harrisburg,2021-07-01,1173.149895,Pennsylvania
+850,Hartford,2021-07-01,1424.269284,Connecticut
+851,Honolulu,2021-07-01,2124.314318,Hawaii
+852,Houston,2021-07-01,1499.24032,Texas
+853,Indianapolis,2021-07-01,1314.509451,Indiana
+854,Jackson,2021-07-01,1284.540677,Mississippi
+855,Jacksonville,2021-07-01,1418.715053,Florida
+856,Jefferson County,2021-07-01,1026.568692,Kentucky
+857,Kansas City,2021-07-01,1244.374267,Missouri
+858,Knoxville,2021-07-01,1395.783616,Tennessee
+859,Lakeland,2021-07-01,1502.706473,Florida
+860,Las Vegas,2021-07-01,1491.763088,Nevada
+861,Little Rock,2021-07-01,948.1129504,Arkansas
+862,Long Beach,2021-07-01,2595.490286,California
+863,Los Angeles,2021-07-01,2595.490286,California
+864,Louisville,2021-07-01,1026.568692,Kentucky
+865,Madison,2021-07-01,1361.702038,Wisconsin
+866,Melbourne,2021-07-01,1589.454239,Florida
+867,Memphis,2021-07-01,1369.844882,Tennessee
+868,Miami,2021-07-01,1938.909846,Florida
+869,Milwaukee,2021-07-01,1250.751272,Wisconsin
+870,Minneapolis,2021-07-01,1580.097553,Minnesota
+871,Nashville,2021-07-01,1656.236408,Tennessee
+872,New Haven,2021-07-01,1508.081533,Connecticut
+873,New Orleans,2021-07-01,1434.227122,Louisiana
+874,New York,2021-07-01,2619.124821,New York
+875,North Port,2021-07-01,2153.120702,Florida
+876,Ogden,2021-07-01,1404.248196,Utah
+877,Oklahoma City,2021-07-01,1118.689419,Oklahoma
+878,Omaha,2021-07-01,1285.69334,Nebraska
+879,Orlando,2021-07-01,1623.281,Florida
+880,Philadelphia,2021-07-01,1642.497487,Pennsylvania
+881,Phoenix,2021-07-01,1593.69793,Arizona
+882,Pittsburgh,2021-07-01,1227.681898,Pennsylvania
+883,Port St. Lucie,2021-07-01,1787.238622,Florida
+884,Portland,2021-07-01,1706.477591,Oregon
+885,Providence,2021-07-01,1644.879618,Rhode Island
+886,Provo,2021-07-01,1400.10425,Utah
+887,Raleigh,2021-07-01,1544.635197,North Carolina
+888,Richmond,2021-07-01,1363.960991,Virginia
+889,Riverside,2021-07-01,2228.229354,California
+890,Rochester,2021-07-01,1202.752233,New York
+891,Sacramento,2021-07-01,1981.608563,California
+892,Salem,2021-07-01,1304.302545,North Carolina
+893,Salt Lake City,2021-07-01,1432.494723,Utah
+894,San Antonio,2021-07-01,1358.758721,Texas
+895,San Diego,2021-07-01,2376.174902,California
+896,San Francisco,2021-07-01,3066.00907,California
+897,San Jose,2021-07-01,3040.109304,California
+898,Sarasota,2021-07-01,2153.120702,Florida
+899,Scranton,2021-07-01,949.6532338,Pennsylvania
+900,Seattle,2021-07-01,2009.153401,Washington
+901,Spokane,2021-07-01,1392.434004,Washington
+902,Springfield,2021-07-01,1381.281526,Massachusetts
+903,St. Louis,2021-07-01,1185.771588,Missouri
+904,St. Paul,2021-07-01,1580.097553,Minnesota
+905,Stamford,2021-07-01,2249.875033,Connecticut
+906,Stockton,2021-07-01,2171.072463,California
+907,Syracuse,2021-07-01,1226.478435,New York
+908,Tampa,2021-07-01,1600.745003,Florida
+909,Toledo,2021-07-01,909.037941,Ohio
+910,Tucson,2021-07-01,1280.321921,Arizona
+911,Tulsa,2021-07-01,1211.527643,Oklahoma
+912,United States,2021-07-01,1770.077608,United States
+913,Ventura,2021-07-01,2771.646915,California
+914,Virginia Beach,2021-07-01,1413.440051,Virginia
+915,Washington,2021-07-01,2073.962564,District of Columbia
+916,Wichita,2021-07-01,860.4214539,Kansas
+917,Winston,2021-07-01,1304.302545,North Carolina
+918,Worcester,2021-07-01,1514.97671,Massachusetts
+919,Youngstown,2021-07-01,737.6648061,Ohio
+920,Akron,2021-08-01,944.073656,Ohio
+921,Albany,2021-08-01,1371.150519,New York
+922,Albuquerque,2021-08-01,1269.745393,New Mexico
+923,Allentown,2021-08-01,1404.880277,Pennsylvania
+924,Anaheim,2021-08-01,2598.409646,California
+925,Atlanta,2021-08-01,1637.191849,Georgia
+926,Augusta,2021-08-01,1200.216846,Georgia
+927,Austin,2021-08-01,1560.17118,Texas
+928,Bakersfield,2021-08-01,1440.850283,California
+929,Baltimore,2021-08-01,1667.211455,Maryland
+930,Baton Rouge,2021-08-01,1192.372979,Louisiana
+931,Birmingham,2021-08-01,1122.336868,Alabama
+932,Boise City,2021-08-01,1434.679761,Idaho
+933,Boston,2021-08-01,2360.94373,Massachusetts
+934,Boulder,2021-08-01,2081.731592,Colorado
+935,Bradenton,2021-08-01,2154.968963,Florida
+936,Buffalo,2021-08-01,1173.498852,New York
+937,Charleston,2021-08-01,1597.089608,South Carolina
+938,Charlotte,2021-08-01,1550.146939,North Carolina
+939,Chattanooga,2021-08-01,1320.004478,Tennessee
+940,Chicago,2021-08-01,1708.133919,Illinois
+941,Cincinnati,2021-08-01,1345.898105,Ohio
+942,Cleveland,2021-08-01,1167.911669,Ohio
+943,Colorado Springs,2021-08-01,1618.069556,Colorado
+944,Columbia,2021-08-01,1221.388082,South Carolina
+945,Columbus,2021-08-01,1372.23365,Ohio
+946,Dallas,2021-08-01,1585.93478,Texas
+947,Dayton,2021-08-01,1083.044188,Ohio
+948,Daytona Beach,2021-08-01,1505.748783,Florida
+949,Denver,2021-08-01,1773.987662,Colorado
+950,Des Moines,2021-08-01,1182.284187,Iowa
+951,Detroit,2021-08-01,1346.389007,Michigan
+952,Durham,2021-08-01,1429.85548,North Carolina
+953,El Paso,2021-08-01,1221.579487,Texas
+954,Fort Collins,2021-08-01,1592.523932,Colorado
+955,Fort Lauderdale,2021-08-01,1944.013926,Florida
+956,Fort Myers,2021-08-01,1934.799405,Florida
+957,Fort Worth,2021-08-01,1585.93478,Texas
+958,Fresno,2021-08-01,1625.208935,California
+959,Gainesville,2021-08-01,1427.426014,Georgia
+960,Grand Rapids,2021-08-01,1317.235915,Michigan
+961,Greeley,2021-08-01,1615.304762,Colorado
+962,Greensboro,2021-08-01,1282.152195,North Carolina
+963,Greenville,2021-08-01,1333.099559,South Carolina
+964,Harrisburg,2021-08-01,1171.689438,Pennsylvania
+965,Hartford,2021-08-01,1426.422082,Connecticut
+966,Honolulu,2021-08-01,2123.34019,Hawaii
+967,Houston,2021-08-01,1496.552934,Texas
+968,Indianapolis,2021-08-01,1319.457101,Indiana
+969,Jackson,2021-08-01,1295.202372,Mississippi
+970,Jacksonville,2021-08-01,1423.617943,Florida
+971,Jefferson County,2021-08-01,1028.809148,Kentucky
+972,Kansas City,2021-08-01,1248.320798,Missouri
+973,Knoxville,2021-08-01,1392.105388,Tennessee
+974,Lakeland,2021-08-01,1508.186738,Florida
+975,Las Vegas,2021-08-01,1499.230522,Nevada
+976,Little Rock,2021-08-01,950.9715263,Arkansas
+977,Long Beach,2021-08-01,2598.409646,California
+978,Los Angeles,2021-08-01,2598.409646,California
+979,Louisville,2021-08-01,1028.809148,Kentucky
+980,Madison,2021-08-01,1363.857317,Wisconsin
+981,Melbourne,2021-08-01,1593.796895,Florida
+982,Memphis,2021-08-01,1377.677511,Tennessee
+983,Miami,2021-08-01,1944.013926,Florida
+984,Milwaukee,2021-08-01,1251.682613,Wisconsin
+985,Minneapolis,2021-08-01,1578.000403,Minnesota
+986,Nashville,2021-08-01,1655.487922,Tennessee
+987,New Haven,2021-08-01,1508.195413,Connecticut
+988,New Orleans,2021-08-01,1431.678977,Louisiana
+989,New York,2021-08-01,2603.673334,New York
+990,North Port,2021-08-01,2154.968963,Florida
+991,Ogden,2021-08-01,1407.811757,Utah
+992,Oklahoma City,2021-08-01,1119.787991,Oklahoma
+993,Omaha,2021-08-01,1288.147195,Nebraska
+994,Orlando,2021-08-01,1621.514427,Florida
+995,Philadelphia,2021-08-01,1640.287431,Pennsylvania
+996,Phoenix,2021-08-01,1600.832276,Arizona
+997,Pittsburgh,2021-08-01,1224.886291,Pennsylvania
+998,Port St. Lucie,2021-08-01,1799.411506,Florida
+999,Portland,2021-08-01,1709.110793,Oregon
+1000,Providence,2021-08-01,1640.643148,Rhode Island
+1001,Provo,2021-08-01,1400.747686,Utah
+1002,Raleigh,2021-08-01,1546.520601,North Carolina
+1003,Richmond,2021-08-01,1362.582772,Virginia
+1004,Riverside,2021-08-01,2241.001061,California
+1005,Rochester,2021-08-01,1201.859873,New York
+1006,Sacramento,2021-08-01,1990.04783,California
+1007,Salem,2021-08-01,1310.560557,North Carolina
+1008,Salt Lake City,2021-08-01,1437.211487,Utah
+1009,San Antonio,2021-08-01,1362.549303,Texas
+1010,San Diego,2021-08-01,2382.606387,California
+1011,San Francisco,2021-08-01,3056.862177,California
+1012,San Jose,2021-08-01,3028.921954,California
+1013,Sarasota,2021-08-01,2154.968963,Florida
+1014,Scranton,2021-08-01,952.3686902,Pennsylvania
+1015,Seattle,2021-08-01,2012.547866,Washington
+1016,Spokane,2021-08-01,1396.216717,Washington
+1017,Springfield,2021-08-01,1378.46037,Massachusetts
+1018,St. Louis,2021-08-01,1187.248653,Missouri
+1019,St. Paul,2021-08-01,1578.000403,Minnesota
+1020,Stamford,2021-08-01,2245.56537,Connecticut
+1021,Stockton,2021-08-01,2186.64404,California
+1022,Syracuse,2021-08-01,1233.435496,New York
+1023,Tampa,2021-08-01,1605.193988,Florida
+1024,Toledo,2021-08-01,906.7433287,Ohio
+1025,Tucson,2021-08-01,1285.284141,Arizona
+1026,Tulsa,2021-08-01,1217.7018,Oklahoma
+1027,United States,2021-08-01,1768.513325,United States
+1028,Ventura,2021-08-01,2775.626847,California
+1029,Virginia Beach,2021-08-01,1417.605299,Virginia
+1030,Washington,2021-08-01,2071.986498,District of Columbia
+1031,Wichita,2021-08-01,859.465386,Kansas
+1032,Winston,2021-08-01,1310.560557,North Carolina
+1033,Worcester,2021-08-01,1515.33991,Massachusetts
+1034,Youngstown,2021-08-01,743.4259699,Ohio
+1035,Akron,2021-09-01,943.9126384,Ohio
+1036,Albany,2021-09-01,1374.002989,New York
+1037,Albuquerque,2021-09-01,1270.79029,New Mexico
+1038,Allentown,2021-09-01,1425.410506,Pennsylvania
+1039,Anaheim,2021-09-01,2597.797016,California
+1040,Atlanta,2021-09-01,1640.352604,Georgia
+1041,Augusta,2021-09-01,1204.484441,Georgia
+1042,Austin,2021-09-01,1552.085725,Texas
+1043,Bakersfield,2021-09-01,1438.922181,California
+1044,Baltimore,2021-09-01,1663.240364,Maryland
+1045,Baton Rouge,2021-09-01,1196.224727,Louisiana
+1046,Birmingham,2021-09-01,1134.763353,Alabama
+1047,Boise City,2021-09-01,1437.406102,Idaho
+1048,Boston,2021-09-01,2333.594321,Massachusetts
+1049,Boulder,2021-09-01,2084.918195,Colorado
+1050,Bradenton,2021-09-01,2163.224223,Florida
+1051,Buffalo,2021-09-01,1175.133655,New York
+1052,Charleston,2021-09-01,1595.790416,South Carolina
+1053,Charlotte,2021-09-01,1552.587018,North Carolina
+1054,Chattanooga,2021-09-01,1322.583141,Tennessee
+1055,Chicago,2021-09-01,1696.262124,Illinois
+1056,Cincinnati,2021-09-01,1348.429712,Ohio
+1057,Cleveland,2021-09-01,1166.623965,Ohio
+1058,Colorado Springs,2021-09-01,1624.173445,Colorado
+1059,Columbia,2021-09-01,1221.474354,South Carolina
+1060,Columbus,2021-09-01,1374.599301,Ohio
+1061,Dallas,2021-09-01,1583.345044,Texas
+1062,Dayton,2021-09-01,1080.849792,Ohio
+1063,Daytona Beach,2021-09-01,1512.46469,Florida
+1064,Denver,2021-09-01,1768.225652,Colorado
+1065,Des Moines,2021-09-01,1178.522623,Iowa
+1066,Detroit,2021-09-01,1346.692983,Michigan
+1067,Durham,2021-09-01,1426.588789,North Carolina
+1068,El Paso,2021-09-01,1220.759362,Texas
+1069,Fort Collins,2021-09-01,1583.447929,Colorado
+1070,Fort Lauderdale,2021-09-01,1947.476637,Florida
+1071,Fort Myers,2021-09-01,1940.795795,Florida
+1072,Fort Worth,2021-09-01,1583.345044,Texas
+1073,Fresno,2021-09-01,1629.935922,California
+1074,Gainesville,2021-09-01,1433.90392,Georgia
+1075,Grand Rapids,2021-09-01,1310.520967,Michigan
+1076,Greeley,2021-09-01,1626.09634,Colorado
+1077,Greensboro,2021-09-01,1288.715267,North Carolina
+1078,Greenville,2021-09-01,1334.545696,South Carolina
+1079,Harrisburg,2021-09-01,1170.575467,Pennsylvania
+1080,Hartford,2021-09-01,1427.309699,Connecticut
+1081,Honolulu,2021-09-01,2121.15823,Hawaii
+1082,Houston,2021-09-01,1494.084774,Texas
+1083,Indianapolis,2021-09-01,1320.00269,Indiana
+1084,Jackson,2021-09-01,1296.769821,Mississippi
+1085,Jacksonville,2021-09-01,1425.469641,Florida
+1086,Jefferson County,2021-09-01,1026.38956,Kentucky
+1087,Kansas City,2021-09-01,1248.66119,Missouri
+1088,Knoxville,2021-09-01,1399.356013,Tennessee
+1089,Lakeland,2021-09-01,1507.710602,Florida
+1090,Las Vegas,2021-09-01,1504.355265,Nevada
+1091,Little Rock,2021-09-01,951.8218792,Arkansas
+1092,Long Beach,2021-09-01,2597.797016,California
+1093,Los Angeles,2021-09-01,2597.797016,California
+1094,Louisville,2021-09-01,1026.38956,Kentucky
+1095,Madison,2021-09-01,1361.970614,Wisconsin
+1096,Melbourne,2021-09-01,1592.544973,Florida
+1097,Memphis,2021-09-01,1381.582184,Tennessee
+1098,Miami,2021-09-01,1947.476637,Florida
+1099,Milwaukee,2021-09-01,1247.500441,Wisconsin
+1100,Minneapolis,2021-09-01,1574.619904,Minnesota
+1101,Nashville,2021-09-01,1651.648385,Tennessee
+1102,New Haven,2021-09-01,1507.710911,Connecticut
+1103,New Orleans,2021-09-01,1429.764728,Louisiana
+1104,New York,2021-09-01,2589.118442,New York
+1105,North Port,2021-09-01,2163.224223,Florida
+1106,Ogden,2021-09-01,1407.819755,Utah
+1107,Oklahoma City,2021-09-01,1117.167809,Oklahoma
+1108,Omaha,2021-09-01,1286.291202,Nebraska
+1109,Orlando,2021-09-01,1618.878646,Florida
+1110,Philadelphia,2021-09-01,1640.81894,Pennsylvania
+1111,Phoenix,2021-09-01,1607.49656,Arizona
+1112,Pittsburgh,2021-09-01,1219.275848,Pennsylvania
+1113,Port St. Lucie,2021-09-01,1795.94656,Florida
+1114,Portland,2021-09-01,1709.522396,Oregon
+1115,Providence,2021-09-01,1632.470902,Rhode Island
+1116,Provo,2021-09-01,1395.999609,Utah
+1117,Raleigh,2021-09-01,1546.333683,North Carolina
+1118,Richmond,2021-09-01,1362.282214,Virginia
+1119,Riverside,2021-09-01,2254.298328,California
+1120,Rochester,2021-09-01,1200.566676,New York
+1121,Sacramento,2021-09-01,1992.670612,California
+1122,Salem,2021-09-01,1311.328733,North Carolina
+1123,Salt Lake City,2021-09-01,1439.543555,Utah
+1124,San Antonio,2021-09-01,1361.24477,Texas
+1125,San Diego,2021-09-01,2385.522953,California
+1126,San Francisco,2021-09-01,3033.782538,California
+1127,San Jose,2021-09-01,3003.933501,California
+1128,Sarasota,2021-09-01,2163.224223,Florida
+1129,Scranton,2021-09-01,959.83253,Pennsylvania
+1130,Seattle,2021-09-01,2001.344868,Washington
+1131,Spokane,2021-09-01,1399.088355,Washington
+1132,Springfield,2021-09-01,1375.663666,Massachusetts
+1133,St. Louis,2021-09-01,1189.483228,Missouri
+1134,St. Paul,2021-09-01,1574.619904,Minnesota
+1135,Stamford,2021-09-01,2251.590245,Connecticut
+1136,Stockton,2021-09-01,2186.638672,California
+1137,Syracuse,2021-09-01,1224.930907,New York
+1138,Tampa,2021-09-01,1608.964778,Florida
+1139,Toledo,2021-09-01,907.7417896,Ohio
+1140,Tucson,2021-09-01,1290.905835,Arizona
+1141,Tulsa,2021-09-01,1217.333007,Oklahoma
+1142,United States,2021-09-01,1764.963711,United States
+1143,Ventura,2021-09-01,2775.249973,California
+1144,Virginia Beach,2021-09-01,1418.186801,Virginia
+1145,Washington,2021-09-01,2063.944165,District of Columbia
+1146,Wichita,2021-09-01,858.2931816,Kansas
+1147,Winston,2021-09-01,1311.328733,North Carolina
+1148,Worcester,2021-09-01,1521.743148,Massachusetts
+1149,Youngstown,2021-09-01,744.9169883,Ohio
+1150,Akron,2021-10-01,946.4765213,Ohio
+1151,Albany,2021-10-01,1369.419128,New York
+1152,Albuquerque,2021-10-01,1273.935923,New Mexico
+1153,Allentown,2021-10-01,1441.313143,Pennsylvania
+1154,Anaheim,2021-10-01,2596.964876,California
+1155,Atlanta,2021-10-01,1641.668944,Georgia
+1156,Augusta,2021-10-01,1208.469261,Georgia
+1157,Austin,2021-10-01,1545.262133,Texas
+1158,Bakersfield,2021-10-01,1440.898915,California
+1159,Baltimore,2021-10-01,1662.901716,Maryland
+1160,Baton Rouge,2021-10-01,1195.135602,Louisiana
+1161,Birmingham,2021-10-01,1128.279626,Alabama
+1162,Boise City,2021-10-01,1438.791629,Idaho
+1163,Boston,2021-10-01,2311.612277,Massachusetts
+1164,Boulder,2021-10-01,2080.911432,Colorado
+1165,Bradenton,2021-10-01,2178.114838,Florida
+1166,Buffalo,2021-10-01,1173.529809,New York
+1167,Charleston,2021-10-01,1595.279009,South Carolina
+1168,Charlotte,2021-10-01,1549.615996,North Carolina
+1169,Chattanooga,2021-10-01,1334.415319,Tennessee
+1170,Chicago,2021-10-01,1682.476364,Illinois
+1171,Cincinnati,2021-10-01,1349.155217,Ohio
+1172,Cleveland,2021-10-01,1160.181417,Ohio
+1173,Colorado Springs,2021-10-01,1626.10889,Colorado
+1174,Columbia,2021-10-01,1221.55399,South Carolina
+1175,Columbus,2021-10-01,1375.745097,Ohio
+1176,Dallas,2021-10-01,1582.479333,Texas
+1177,Dayton,2021-10-01,1083.03633,Ohio
+1178,Daytona Beach,2021-10-01,1515.142354,Florida
+1179,Denver,2021-10-01,1756.943035,Colorado
+1180,Des Moines,2021-10-01,1182.972328,Iowa
+1181,Detroit,2021-10-01,1347.460934,Michigan
+1182,Durham,2021-10-01,1432.96084,North Carolina
+1183,El Paso,2021-10-01,1222.204523,Texas
+1184,Fort Collins,2021-10-01,1581.972311,Colorado
+1185,Fort Lauderdale,2021-10-01,1953.167571,Florida
+1186,Fort Myers,2021-10-01,1949.390764,Florida
+1187,Fort Worth,2021-10-01,1582.479333,Texas
+1188,Fresno,2021-10-01,1636.571493,California
+1189,Gainesville,2021-10-01,1438.642199,Georgia
+1190,Grand Rapids,2021-10-01,1306.949988,Michigan
+1191,Greeley,2021-10-01,1620.374614,Colorado
+1192,Greensboro,2021-10-01,1285.242171,North Carolina
+1193,Greenville,2021-10-01,1326.551286,South Carolina
+1194,Harrisburg,2021-10-01,1172.857816,Pennsylvania
+1195,Hartford,2021-10-01,1428.835755,Connecticut
+1196,Honolulu,2021-10-01,2108.493115,Hawaii
+1197,Houston,2021-10-01,1490.540926,Texas
+1198,Indianapolis,2021-10-01,1323.796275,Indiana
+1199,Jackson,2021-10-01,1292.412625,Mississippi
+1200,Jacksonville,2021-10-01,1426.58136,Florida
+1201,Jefferson County,2021-10-01,1025.069975,Kentucky
+1202,Kansas City,2021-10-01,1246.195226,Missouri
+1203,Knoxville,2021-10-01,1401.72619,Tennessee
+1204,Lakeland,2021-10-01,1512.873976,Florida
+1205,Las Vegas,2021-10-01,1507.175879,Nevada
+1206,Little Rock,2021-10-01,952.9385149,Arkansas
+1207,Long Beach,2021-10-01,2596.964876,California
+1208,Los Angeles,2021-10-01,2596.964876,California
+1209,Louisville,2021-10-01,1025.069975,Kentucky
+1210,Madison,2021-10-01,1364.983284,Wisconsin
+1211,Melbourne,2021-10-01,1596.908887,Florida
+1212,Memphis,2021-10-01,1382.484551,Tennessee
+1213,Miami,2021-10-01,1953.167571,Florida
+1214,Milwaukee,2021-10-01,1248.656536,Wisconsin
+1215,Minneapolis,2021-10-01,1569.895062,Minnesota
+1216,Nashville,2021-10-01,1648.721358,Tennessee
+1217,New Haven,2021-10-01,1511.002336,Connecticut
+1218,New Orleans,2021-10-01,1430.36025,Louisiana
+1219,New York,2021-10-01,2563.941834,New York
+1220,North Port,2021-10-01,2178.114838,Florida
+1221,Ogden,2021-10-01,1428.844726,Utah
+1222,Oklahoma City,2021-10-01,1114.142122,Oklahoma
+1223,Omaha,2021-10-01,1282.896855,Nebraska
+1224,Orlando,2021-10-01,1615.420745,Florida
+1225,Philadelphia,2021-10-01,1635.982341,Pennsylvania
+1226,Phoenix,2021-10-01,1615.101728,Arizona
+1227,Pittsburgh,2021-10-01,1218.50926,Pennsylvania
+1228,Port St. Lucie,2021-10-01,1811.87357,Florida
+1229,Portland,2021-10-01,1700.345838,Oregon
+1230,Providence,2021-10-01,1632.570563,Rhode Island
+1231,Provo,2021-10-01,1393.474653,Utah
+1232,Raleigh,2021-10-01,1542.172681,North Carolina
+1233,Richmond,2021-10-01,1357.537042,Virginia
+1234,Riverside,2021-10-01,2266.080918,California
+1235,Rochester,2021-10-01,1201.171299,New York
+1236,Sacramento,2021-10-01,1996.582704,California
+1237,Salem,2021-10-01,1311.379074,North Carolina
+1238,Salt Lake City,2021-10-01,1439.919529,Utah
+1239,San Antonio,2021-10-01,1355.852133,Texas
+1240,San Diego,2021-10-01,2384.84734,California
+1241,San Francisco,2021-10-01,3004.705001,California
+1242,San Jose,2021-10-01,2968.342845,California
+1243,Sarasota,2021-10-01,2178.114838,Florida
+1244,Scranton,2021-10-01,969.3944134,Pennsylvania
+1245,Seattle,2021-10-01,1984.965101,Washington
+1246,Spokane,2021-10-01,1407.570722,Washington
+1247,Springfield,2021-10-01,1382.662919,Massachusetts
+1248,St. Louis,2021-10-01,1190.745505,Missouri
+1249,St. Paul,2021-10-01,1569.895062,Minnesota
+1250,Stamford,2021-10-01,2246.729151,Connecticut
+1251,Stockton,2021-10-01,2202.569235,California
+1252,Syracuse,2021-10-01,1230.909526,New York
+1253,Tampa,2021-10-01,1612.081611,Florida
+1254,Toledo,2021-10-01,902.0441408,Ohio
+1255,Tucson,2021-10-01,1299.408561,Arizona
+1256,Tulsa,2021-10-01,1220.297756,Oklahoma
+1257,United States,2021-10-01,1761.604298,United States
+1258,Ventura,2021-10-01,2773.375156,California
+1259,Virginia Beach,2021-10-01,1419.032909,Virginia
+1260,Washington,2021-10-01,2050.692879,District of Columbia
+1261,Wichita,2021-10-01,860.8694089,Kansas
+1262,Winston,2021-10-01,1311.379074,North Carolina
+1263,Worcester,2021-10-01,1528.115651,Massachusetts
+1264,Youngstown,2021-10-01,745.5182001,Ohio
+1265,Akron,2021-11-01,949.1080991,Ohio
+1266,Albany,2021-11-01,1363.60327,New York
+1267,Albuquerque,2021-11-01,1276.568102,New Mexico
+1268,Allentown,2021-11-01,1422.922471,Pennsylvania
+1269,Anaheim,2021-11-01,2595.374801,California
+1270,Atlanta,2021-11-01,1643.343511,Georgia
+1271,Augusta,2021-11-01,1211.866461,Georgia
+1272,Austin,2021-11-01,1544.829598,Texas
+1273,Bakersfield,2021-11-01,1444.401895,California
+1274,Baltimore,2021-11-01,1661.40506,Maryland
+1275,Baton Rouge,2021-11-01,1194.713742,Louisiana
+1276,Birmingham,2021-11-01,1130.041233,Alabama
+1277,Boise City,2021-11-01,1439.821722,Idaho
+1278,Boston,2021-11-01,2291.772534,Massachusetts
+1279,Boulder,2021-11-01,2087.843556,Colorado
+1280,Bradenton,2021-11-01,2209.177882,Florida
+1281,Buffalo,2021-11-01,1172.176519,New York
+1282,Charleston,2021-11-01,1592.232809,South Carolina
+1283,Charlotte,2021-11-01,1553.405706,North Carolina
+1284,Chattanooga,2021-11-01,1325.837837,Tennessee
+1285,Chicago,2021-11-01,1671.254313,Illinois
+1286,Cincinnati,2021-11-01,1352.291892,Ohio
+1287,Cleveland,2021-11-01,1165.166231,Ohio
+1288,Colorado Springs,2021-11-01,1631.359631,Colorado
+1289,Columbia,2021-11-01,1225.29939,South Carolina
+1290,Columbus,2021-11-01,1380.038346,Ohio
+1291,Dallas,2021-11-01,1583.731149,Texas
+1292,Dayton,2021-11-01,1091.296655,Ohio
+1293,Daytona Beach,2021-11-01,1522.346363,Florida
+1294,Denver,2021-11-01,1752.607712,Colorado
+1295,Des Moines,2021-11-01,1178.372078,Iowa
+1296,Detroit,2021-11-01,1346.000651,Michigan
+1297,Durham,2021-11-01,1434.124589,North Carolina
+1298,El Paso,2021-11-01,1232.233431,Texas
+1299,Fort Collins,2021-11-01,1581.117057,Colorado
+1300,Fort Lauderdale,2021-11-01,1960.296265,Florida
+1301,Fort Myers,2021-11-01,1962.499245,Florida
+1302,Fort Worth,2021-11-01,1583.731149,Texas
+1303,Fresno,2021-11-01,1645.376912,California
+1304,Gainesville,2021-11-01,1442.523632,Georgia
+1305,Grand Rapids,2021-11-01,1305.002354,Michigan
+1306,Greeley,2021-11-01,1609.930119,Colorado
+1307,Greensboro,2021-11-01,1285.045399,North Carolina
+1308,Greenville,2021-11-01,1328.880298,South Carolina
+1309,Harrisburg,2021-11-01,1176.579944,Pennsylvania
+1310,Hartford,2021-11-01,1429.854079,Connecticut
+1311,Honolulu,2021-11-01,2110.154833,Hawaii
+1312,Houston,2021-11-01,1489.961907,Texas
+1313,Indianapolis,2021-11-01,1324.892418,Indiana
+1314,Jackson,2021-11-01,1290.358314,Mississippi
+1315,Jacksonville,2021-11-01,1429.843465,Florida
+1316,Jefferson County,2021-11-01,1023.685416,Kentucky
+1317,Kansas City,2021-11-01,1248.654572,Missouri
+1318,Knoxville,2021-11-01,1405.485342,Tennessee
+1319,Lakeland,2021-11-01,1519.963451,Florida
+1320,Las Vegas,2021-11-01,1509.628896,Nevada
+1321,Little Rock,2021-11-01,953.2190757,Arkansas
+1322,Long Beach,2021-11-01,2595.374801,California
+1323,Los Angeles,2021-11-01,2595.374801,California
+1324,Louisville,2021-11-01,1023.685416,Kentucky
+1325,Madison,2021-11-01,1372.846497,Wisconsin
+1326,Melbourne,2021-11-01,1608.908057,Florida
+1327,Memphis,2021-11-01,1388.501239,Tennessee
+1328,Miami,2021-11-01,1960.296265,Florida
+1329,Milwaukee,2021-11-01,1244.607708,Wisconsin
+1330,Minneapolis,2021-11-01,1570.992755,Minnesota
+1331,Nashville,2021-11-01,1644.344566,Tennessee
+1332,New Haven,2021-11-01,1513.247396,Connecticut
+1333,New Orleans,2021-11-01,1432.095992,Louisiana
+1334,New York,2021-11-01,2545.401217,New York
+1335,North Port,2021-11-01,2209.177882,Florida
+1336,Ogden,2021-11-01,1433.798746,Utah
+1337,Oklahoma City,2021-11-01,1112.195233,Oklahoma
+1338,Omaha,2021-11-01,1283.960804,Nebraska
+1339,Orlando,2021-11-01,1613.030609,Florida
+1340,Philadelphia,2021-11-01,1637.499707,Pennsylvania
+1341,Phoenix,2021-11-01,1627.800546,Arizona
+1342,Pittsburgh,2021-11-01,1221.027396,Pennsylvania
+1343,Port St. Lucie,2021-11-01,1830.399484,Florida
+1344,Portland,2021-11-01,1694.55611,Oregon
+1345,Providence,2021-11-01,1642.98983,Rhode Island
+1346,Provo,2021-11-01,1395.321646,Utah
+1347,Raleigh,2021-11-01,1541.18499,North Carolina
+1348,Richmond,2021-11-01,1363.099737,Virginia
+1349,Riverside,2021-11-01,2276.070488,California
+1350,Rochester,2021-11-01,1196.250841,New York
+1351,Sacramento,2021-11-01,2001.331628,California
+1352,Salem,2021-11-01,1312.556789,North Carolina
+1353,Salt Lake City,2021-11-01,1435.05375,Utah
+1354,San Antonio,2021-11-01,1358.783306,Texas
+1355,San Diego,2021-11-01,2386.761063,California
+1356,San Francisco,2021-11-01,2982.872131,California
+1357,San Jose,2021-11-01,2944.171274,California
+1358,Sarasota,2021-11-01,2209.177882,Florida
+1359,Scranton,2021-11-01,965.4681482,Pennsylvania
+1360,Seattle,2021-11-01,1969.982977,Washington
+1361,Spokane,2021-11-01,1401.956861,Washington
+1362,Springfield,2021-11-01,1377.032709,Massachusetts
+1363,St. Louis,2021-11-01,1188.570159,Missouri
+1364,St. Paul,2021-11-01,1570.992755,Minnesota
+1365,Stamford,2021-11-01,2256.326634,Connecticut
+1366,Stockton,2021-11-01,2209.840265,California
+1367,Syracuse,2021-11-01,1246.832446,New York
+1368,Tampa,2021-11-01,1621.689103,Florida
+1369,Toledo,2021-11-01,905.828993,Ohio
+1370,Tucson,2021-11-01,1303.328719,Arizona
+1371,Tulsa,2021-11-01,1219.036464,Oklahoma
+1372,United States,2021-11-01,1761.184442,United States
+1373,Ventura,2021-11-01,2784.910269,California
+1374,Virginia Beach,2021-11-01,1421.943652,Virginia
+1375,Washington,2021-11-01,2042.498837,District of Columbia
+1376,Wichita,2021-11-01,856.6133905,Kansas
+1377,Winston,2021-11-01,1312.556789,North Carolina
+1378,Worcester,2021-11-01,1531.691675,Massachusetts
+1379,Youngstown,2021-11-01,749.8046151,Ohio
+1380,Akron,2021-12-01,951.3123332,Ohio
+1381,Albany,2021-12-01,1358.048649,New York
+1382,Albuquerque,2021-12-01,1269.312828,New Mexico
+1383,Allentown,2021-12-01,1395.11888,Pennsylvania
+1384,Anaheim,2021-12-01,2592.760983,California
+1385,Atlanta,2021-12-01,1636.031341,Georgia
+1386,Augusta,2021-12-01,1206.126993,Georgia
+1387,Austin,2021-12-01,1541.052683,Texas
+1388,Bakersfield,2021-12-01,1450.526852,California
+1389,Baltimore,2021-12-01,1652.01283,Maryland
+1390,Baton Rouge,2021-12-01,1189.495108,Louisiana
+1391,Birmingham,2021-12-01,1131.192365,Alabama
+1392,Boise City,2021-12-01,1426.200394,Idaho
+1393,Boston,2021-12-01,2305.66879,Massachusetts
+1394,Boulder,2021-12-01,2075.675875,Colorado
+1395,Bradenton,2021-12-01,2208.476037,Florida
+1396,Buffalo,2021-12-01,1182.67488,New York
+1397,Charleston,2021-12-01,1580.954519,South Carolina
+1398,Charlotte,2021-12-01,1545.612303,North Carolina
+1399,Chattanooga,2021-12-01,1320.375085,Tennessee
+1400,Chicago,2021-12-01,1672.225673,Illinois
+1401,Cincinnati,2021-12-01,1356.545361,Ohio
+1402,Cleveland,2021-12-01,1161.810389,Ohio
+1403,Colorado Springs,2021-12-01,1630.988877,Colorado
+1404,Columbia,2021-12-01,1218.902314,South Carolina
+1405,Columbus,2021-12-01,1381.295872,Ohio
+1406,Dallas,2021-12-01,1578.228068,Texas
+1407,Dayton,2021-12-01,1086.977073,Ohio
+1408,Daytona Beach,2021-12-01,1517.109821,Florida
+1409,Denver,2021-12-01,1747.811836,Colorado
+1410,Des Moines,2021-12-01,1167.587004,Iowa
+1411,Detroit,2021-12-01,1336.027197,Michigan
+1412,Durham,2021-12-01,1426.831884,North Carolina
+1413,El Paso,2021-12-01,1236.634805,Texas
+1414,Fort Collins,2021-12-01,1583.690261,Colorado
+1415,Fort Lauderdale,2021-12-01,1960.13374,Florida
+1416,Fort Myers,2021-12-01,1962.773631,Florida
+1417,Fort Worth,2021-12-01,1578.228068,Texas
+1418,Fresno,2021-12-01,1646.912211,California
+1419,Gainesville,2021-12-01,1434.190903,Georgia
+1420,Grand Rapids,2021-12-01,1304.301627,Michigan
+1421,Greeley,2021-12-01,1611.460473,Colorado
+1422,Greensboro,2021-12-01,1282.479568,North Carolina
+1423,Greenville,2021-12-01,1328.318572,South Carolina
+1424,Harrisburg,2021-12-01,1164.727492,Pennsylvania
+1425,Hartford,2021-12-01,1429.967139,Connecticut
+1426,Honolulu,2021-12-01,2113.442746,Hawaii
+1427,Houston,2021-12-01,1485.521657,Texas
+1428,Indianapolis,2021-12-01,1321.54447,Indiana
+1429,Jackson,2021-12-01,1288.861699,Mississippi
+1430,Jacksonville,2021-12-01,1423.713649,Florida
+1431,Jefferson County,2021-12-01,1026.181141,Kentucky
+1432,Kansas City,2021-12-01,1248.834195,Missouri
+1433,Knoxville,2021-12-01,1406.19146,Tennessee
+1434,Lakeland,2021-12-01,1522.834543,Florida
+1435,Las Vegas,2021-12-01,1500.558807,Nevada
+1436,Little Rock,2021-12-01,950.7714311,Arkansas
+1437,Long Beach,2021-12-01,2592.760983,California
+1438,Los Angeles,2021-12-01,2592.760983,California
+1439,Louisville,2021-12-01,1026.181141,Kentucky
+1440,Madison,2021-12-01,1370.111131,Wisconsin
+1441,Melbourne,2021-12-01,1617.872451,Florida
+1442,Memphis,2021-12-01,1387.962983,Tennessee
+1443,Miami,2021-12-01,1960.13374,Florida
+1444,Milwaukee,2021-12-01,1245.67668,Wisconsin
+1445,Minneapolis,2021-12-01,1566.817462,Minnesota
+1446,Nashville,2021-12-01,1644.306064,Tennessee
+1447,New Haven,2021-12-01,1514.480876,Connecticut
+1448,New Orleans,2021-12-01,1435.296083,Louisiana
+1449,New York,2021-12-01,2558.450304,New York
+1450,North Port,2021-12-01,2208.476037,Florida
+1451,Ogden,2021-12-01,1433.370978,Utah
+1452,Oklahoma City,2021-12-01,1107.246689,Oklahoma
+1453,Omaha,2021-12-01,1288.550735,Nebraska
+1454,Orlando,2021-12-01,1611.864442,Florida
+1455,Philadelphia,2021-12-01,1635.027912,Pennsylvania
+1456,Phoenix,2021-12-01,1621.835109,Arizona
+1457,Pittsburgh,2021-12-01,1220.550491,Pennsylvania
+1458,Port St. Lucie,2021-12-01,1834.13957,Florida
+1459,Portland,2021-12-01,1688.517035,Oregon
+1460,Providence,2021-12-01,1633.940087,Rhode Island
+1461,Provo,2021-12-01,1388.71377,Utah
+1462,Raleigh,2021-12-01,1532.350038,North Carolina
+1463,Richmond,2021-12-01,1359.653429,Virginia
+1464,Riverside,2021-12-01,2266.104533,California
+1465,Rochester,2021-12-01,1196.066667,New York
+1466,Sacramento,2021-12-01,1995.594025,California
+1467,Salem,2021-12-01,1306.871086,North Carolina
+1468,Salt Lake City,2021-12-01,1425.241447,Utah
+1469,San Antonio,2021-12-01,1354.485937,Texas
+1470,San Diego,2021-12-01,2376.694068,California
+1471,San Francisco,2021-12-01,2995.637806,California
+1472,San Jose,2021-12-01,2946.356432,California
+1473,Sarasota,2021-12-01,2208.476037,Florida
+1474,Scranton,2021-12-01,964.8547406,Pennsylvania
+1475,Seattle,2021-12-01,1980.10142,Washington
+1476,Spokane,2021-12-01,1395.737496,Washington
+1477,Springfield,2021-12-01,1370.075017,Massachusetts
+1478,St. Louis,2021-12-01,1186.572146,Missouri
+1479,St. Paul,2021-12-01,1566.817462,Minnesota
+1480,Stamford,2021-12-01,2232.622554,Connecticut
+1481,Stockton,2021-12-01,2203.772928,California
+1482,Syracuse,2021-12-01,1244.105845,New York
+1483,Tampa,2021-12-01,1616.270187,Florida
+1484,Toledo,2021-12-01,908.1149511,Ohio
+1485,Tucson,2021-12-01,1299.852583,Arizona
+1486,Tulsa,2021-12-01,1221.902063,Oklahoma
+1487,United States,2021-12-01,1760.885235,United States
+1488,Ventura,2021-12-01,2767.675849,California
+1489,Virginia Beach,2021-12-01,1417.636786,Virginia
+1490,Washington,2021-12-01,2040.949485,District of Columbia
+1491,Wichita,2021-12-01,852.6626894,Kansas
+1492,Winston,2021-12-01,1306.871086,North Carolina
+1493,Worcester,2021-12-01,1535.09319,Massachusetts
+1494,Youngstown,2021-12-01,735.4391291,Ohio
+1495,Akron,2022-01-01,953.5027919,Ohio
+1496,Albany,2022-01-01,1367.051015,New York
+1497,Albuquerque,2022-01-01,1275.931269,New Mexico
+1498,Allentown,2022-01-01,1406.538558,Pennsylvania
+1499,Anaheim,2022-01-01,2589.757894,California
+1500,Atlanta,2022-01-01,1641.9622,Georgia
+1501,Augusta,2022-01-01,1230.489993,Georgia
+1502,Austin,2022-01-01,1538.614884,Texas
+1503,Bakersfield,2022-01-01,1460.590432,California
+1504,Baltimore,2022-01-01,1654.147413,Maryland
+1505,Baton Rouge,2022-01-01,1196.585613,Louisiana
+1506,Birmingham,2022-01-01,1134.003454,Alabama
+1507,Boise City,2022-01-01,1431.274911,Idaho
+1508,Boston,2022-01-01,2311.893728,Massachusetts
+1509,Boulder,2022-01-01,2085.078228,Colorado
+1510,Bradenton,2022-01-01,2220.939439,Florida
+1511,Buffalo,2022-01-01,1190.972481,New York
+1512,Charleston,2022-01-01,1587.791702,South Carolina
+1513,Charlotte,2022-01-01,1549.879113,North Carolina
+1514,Chattanooga,2022-01-01,1313.368896,Tennessee
+1515,Chicago,2022-01-01,1668.630124,Illinois
+1516,Cincinnati,2022-01-01,1357.252555,Ohio
+1517,Cleveland,2022-01-01,1163.898627,Ohio
+1518,Colorado Springs,2022-01-01,1641.342597,Colorado
+1519,Columbia,2022-01-01,1240.261711,South Carolina
+1520,Columbus,2022-01-01,1379.185237,Ohio
+1521,Dallas,2022-01-01,1579.06188,Texas
+1522,Dayton,2022-01-01,1138.708721,Ohio
+1523,Daytona Beach,2022-01-01,1524.718948,Florida
+1524,Denver,2022-01-01,1748.110151,Colorado
+1525,Des Moines,2022-01-01,1169.142675,Iowa
+1526,Detroit,2022-01-01,1341.799781,Michigan
+1527,Durham,2022-01-01,1422.603301,North Carolina
+1528,El Paso,2022-01-01,1236.26331,Texas
+1529,Fort Collins,2022-01-01,1579.50256,Colorado
+1530,Fort Lauderdale,2022-01-01,1961.499141,Florida
+1531,Fort Myers,2022-01-01,1976.822648,Florida
+1532,Fort Worth,2022-01-01,1579.06188,Texas
+1533,Fresno,2022-01-01,1650.966127,California
+1534,Gainesville,2022-01-01,1442.315999,Georgia
+1535,Grand Rapids,2022-01-01,1302.305742,Michigan
+1536,Greeley,2022-01-01,1620.855153,Colorado
+1537,Greensboro,2022-01-01,1297.331954,North Carolina
+1538,Greenville,2022-01-01,1331.063628,South Carolina
+1539,Harrisburg,2022-01-01,1176.858752,Pennsylvania
+1540,Hartford,2022-01-01,1433.684829,Connecticut
+1541,Honolulu,2022-01-01,2109.041659,Hawaii
+1542,Houston,2022-01-01,1484.713298,Texas
+1543,Indianapolis,2022-01-01,1327.217331,Indiana
+1544,Jackson,2022-01-01,1294.706463,Mississippi
+1545,Jacksonville,2022-01-01,1427.569916,Florida
+1546,Jefferson County,2022-01-01,1025.701493,Kentucky
+1547,Kansas City,2022-01-01,1249.682094,Missouri
+1548,Knoxville,2022-01-01,1410.56725,Tennessee
+1549,Lakeland,2022-01-01,1526.347177,Florida
+1550,Las Vegas,2022-01-01,1503.9707,Nevada
+1551,Little Rock,2022-01-01,956.6611077,Arkansas
+1552,Long Beach,2022-01-01,2589.757894,California
+1553,Los Angeles,2022-01-01,2589.757894,California
+1554,Louisville,2022-01-01,1025.701493,Kentucky
+1555,Madison,2022-01-01,1376.886695,Wisconsin
+1556,Melbourne,2022-01-01,1623.540885,Florida
+1557,Memphis,2022-01-01,1397.810326,Tennessee
+1558,Miami,2022-01-01,1961.499141,Florida
+1559,Milwaukee,2022-01-01,1252.220222,Wisconsin
+1560,Minneapolis,2022-01-01,1572.210788,Minnesota
+1561,Nashville,2022-01-01,1649.417551,Tennessee
+1562,New Haven,2022-01-01,1521.286493,Connecticut
+1563,New Orleans,2022-01-01,1436.243591,Louisiana
+1564,New York,2022-01-01,2534.64899,New York
+1565,North Port,2022-01-01,2220.939439,Florida
+1566,Ogden,2022-01-01,1433.35993,Utah
+1567,Oklahoma City,2022-01-01,1109.259153,Oklahoma
+1568,Omaha,2022-01-01,1298.199229,Nebraska
+1569,Orlando,2022-01-01,1614.236975,Florida
+1570,Philadelphia,2022-01-01,1635.294729,Pennsylvania
+1571,Phoenix,2022-01-01,1627.678784,Arizona
+1572,Pittsburgh,2022-01-01,1235.275288,Pennsylvania
+1573,Port St. Lucie,2022-01-01,1851.398521,Florida
+1574,Portland,2022-01-01,1689.496422,Oregon
+1575,Providence,2022-01-01,1642.983004,Rhode Island
+1576,Provo,2022-01-01,1394.049079,Utah
+1577,Raleigh,2022-01-01,1533.535041,North Carolina
+1578,Richmond,2022-01-01,1363.562505,Virginia
+1579,Riverside,2022-01-01,2278.651343,California
+1580,Rochester,2022-01-01,1205.095423,New York
+1581,Sacramento,2022-01-01,2000.931,California
+1582,Salem,2022-01-01,1306.740799,North Carolina
+1583,Salt Lake City,2022-01-01,1428.184674,Utah
+1584,San Antonio,2022-01-01,1355.507001,Texas
+1585,San Diego,2022-01-01,2383.381237,California
+1586,San Francisco,2022-01-01,2974.097677,California
+1587,San Jose,2022-01-01,2937.930213,California
+1588,Sarasota,2022-01-01,2220.939439,Florida
+1589,Scranton,2022-01-01,961.0207999,Pennsylvania
+1590,Seattle,2022-01-01,1977.982903,Washington
+1591,Spokane,2022-01-01,1407.068644,Washington
+1592,Springfield,2022-01-01,1361.624483,Massachusetts
+1593,St. Louis,2022-01-01,1192.555291,Missouri
+1594,St. Paul,2022-01-01,1572.210788,Minnesota
+1595,Stamford,2022-01-01,2234.984494,Connecticut
+1596,Stockton,2022-01-01,2207.24823,California
+1597,Syracuse,2022-01-01,1227.10883,New York
+1598,Tampa,2022-01-01,1622.400789,Florida
+1599,Toledo,2022-01-01,913.6631377,Ohio
+1600,Tucson,2022-01-01,1306.493708,Arizona
+1601,Tulsa,2022-01-01,1225.369483,Oklahoma
+1602,United States,2022-01-01,1761.695503,United States
+1603,Ventura,2022-01-01,2788.257531,California
+1604,Virginia Beach,2022-01-01,1423.125493,Virginia
+1605,Washington,2022-01-01,2038.016878,District of Columbia
+1606,Wichita,2022-01-01,913.7586813,Kansas
+1607,Winston,2022-01-01,1306.740799,North Carolina
+1608,Worcester,2022-01-01,1533.511182,Massachusetts
+1609,Youngstown,2022-01-01,829.7221901,Ohio
+1610,Akron,2022-02-01,960.2992175,Ohio
+1611,Albany,2022-02-01,1369.44388,New York
+1612,Albuquerque,2022-02-01,1284.169541,New Mexico
+1613,Allentown,2022-02-01,1411.101606,Pennsylvania
+1614,Anaheim,2022-02-01,2591.158319,California
+1615,Atlanta,2022-02-01,1648.593016,Georgia
+1616,Augusta,2022-02-01,1209.266736,Georgia
+1617,Austin,2022-02-01,1543.398718,Texas
+1618,Bakersfield,2022-02-01,1469.685817,California
+1619,Baltimore,2022-02-01,1657.322947,Maryland
+1620,Baton Rouge,2022-02-01,1196.16321,Louisiana
+1621,Birmingham,2022-02-01,1139.612498,Alabama
+1622,Boise City,2022-02-01,1446.235004,Idaho
+1623,Boston,2022-02-01,2316.523644,Massachusetts
+1624,Boulder,2022-02-01,2073.36922,Colorado
+1625,Bradenton,2022-02-01,2229.449807,Florida
+1626,Buffalo,2022-02-01,1194.633295,New York
+1627,Charleston,2022-02-01,1594.459754,South Carolina
+1628,Charlotte,2022-02-01,1553.256283,North Carolina
+1629,Chattanooga,2022-02-01,1332.595317,Tennessee
+1630,Chicago,2022-02-01,1672.253501,Illinois
+1631,Cincinnati,2022-02-01,1363.630858,Ohio
+1632,Cleveland,2022-02-01,1173.843016,Ohio
+1633,Colorado Springs,2022-02-01,1648.856932,Colorado
+1634,Columbia,2022-02-01,1223.362647,South Carolina
+1635,Columbus,2022-02-01,1390.40789,Ohio
+1636,Dallas,2022-02-01,1581.586171,Texas
+1637,Dayton,2022-02-01,1083.290927,Ohio
+1638,Daytona Beach,2022-02-01,1534.639518,Florida
+1639,Denver,2022-02-01,1752.332568,Colorado
+1640,Des Moines,2022-02-01,1175.210819,Iowa
+1641,Detroit,2022-02-01,1347.209586,Michigan
+1642,Durham,2022-02-01,1426.34955,North Carolina
+1643,El Paso,2022-02-01,1240.452399,Texas
+1644,Fort Collins,2022-02-01,1586.863141,Colorado
+1645,Fort Lauderdale,2022-02-01,1960.81895,Florida
+1646,Fort Myers,2022-02-01,1972.449643,Florida
+1647,Fort Worth,2022-02-01,1581.586171,Texas
+1648,Fresno,2022-02-01,1661.301149,California
+1649,Gainesville,2022-02-01,1449.963087,Georgia
+1650,Grand Rapids,2022-02-01,1313.517176,Michigan
+1651,Greeley,2022-02-01,1620.45907,Colorado
+1652,Greensboro,2022-02-01,1304.310846,North Carolina
+1653,Greenville,2022-02-01,1330.714114,South Carolina
+1654,Harrisburg,2022-02-01,1182.385201,Pennsylvania
+1655,Hartford,2022-02-01,1440.462283,Connecticut
+1656,Honolulu,2022-02-01,2101.735451,Hawaii
+1657,Houston,2022-02-01,1482.98351,Texas
+1658,Indianapolis,2022-02-01,1336.084848,Indiana
+1659,Jackson,2022-02-01,1289.122719,Mississippi
+1660,Jacksonville,2022-02-01,1431.701704,Florida
+1661,Jefferson County,2022-02-01,1039.816727,Kentucky
+1662,Kansas City,2022-02-01,1259.7877,Missouri
+1663,Knoxville,2022-02-01,1423.581598,Tennessee
+1664,Lakeland,2022-02-01,1539.016387,Florida
+1665,Las Vegas,2022-02-01,1512.01926,Nevada
+1666,Little Rock,2022-02-01,959.6899075,Arkansas
+1667,Long Beach,2022-02-01,2591.158319,California
+1668,Los Angeles,2022-02-01,2591.158319,California
+1669,Louisville,2022-02-01,1039.816727,Kentucky
+1670,Madison,2022-02-01,1374.440801,Wisconsin
+1671,Melbourne,2022-02-01,1636.141003,Florida
+1672,Memphis,2022-02-01,1406.509032,Tennessee
+1673,Miami,2022-02-01,1960.81895,Florida
+1674,Milwaukee,2022-02-01,1256.808432,Wisconsin
+1675,Minneapolis,2022-02-01,1576.06346,Minnesota
+1676,Nashville,2022-02-01,1650.358538,Tennessee
+1677,New Haven,2022-02-01,1527.627123,Connecticut
+1678,New Orleans,2022-02-01,1440.293198,Louisiana
+1679,New York,2022-02-01,2523.534471,New York
+1680,North Port,2022-02-01,2229.449807,Florida
+1681,Ogden,2022-02-01,1433.83638,Utah
+1682,Oklahoma City,2022-02-01,1116.649711,Oklahoma
+1683,Omaha,2022-02-01,1299.278763,Nebraska
+1684,Orlando,2022-02-01,1617.211086,Florida
+1685,Philadelphia,2022-02-01,1637.611747,Pennsylvania
+1686,Phoenix,2022-02-01,1639.090176,Arizona
+1687,Pittsburgh,2022-02-01,1222.202203,Pennsylvania
+1688,Port St. Lucie,2022-02-01,1867.506336,Florida
+1689,Portland,2022-02-01,1690.610377,Oregon
+1690,Providence,2022-02-01,1665.302341,Rhode Island
+1691,Provo,2022-02-01,1406.232754,Utah
+1692,Raleigh,2022-02-01,1542.577212,North Carolina
+1693,Richmond,2022-02-01,1369.425755,Virginia
+1694,Riverside,2022-02-01,2292.932456,California
+1695,Rochester,2022-02-01,1213.01605,New York
+1696,Sacramento,2022-02-01,2009.425739,California
+1697,Salem,2022-02-01,1323.448294,North Carolina
+1698,Salt Lake City,2022-02-01,1434.845265,Utah
+1699,San Antonio,2022-02-01,1359.549583,Texas
+1700,San Diego,2022-02-01,2390.878665,California
+1701,San Francisco,2022-02-01,2967.015069,California
+1702,San Jose,2022-02-01,2919.54261,California
+1703,Sarasota,2022-02-01,2229.449807,Florida
+1704,Scranton,2022-02-01,970.0807223,Pennsylvania
+1705,Seattle,2022-02-01,1979.627579,Washington
+1706,Spokane,2022-02-01,1412.609291,Washington
+1707,Springfield,2022-02-01,1380.280573,Massachusetts
+1708,St. Louis,2022-02-01,1194.997607,Missouri
+1709,St. Paul,2022-02-01,1576.06346,Minnesota
+1710,Stamford,2022-02-01,2256.724385,Connecticut
+1711,Stockton,2022-02-01,2222.832582,California
+1712,Syracuse,2022-02-01,1246.417719,New York
+1713,Tampa,2022-02-01,1631.140283,Florida
+1714,Toledo,2022-02-01,918.6836009,Ohio
+1715,Tucson,2022-02-01,1316.172376,Arizona
+1716,Tulsa,2022-02-01,1227.199086,Oklahoma
+1717,United States,2022-02-01,1764.660277,United States
+1718,Ventura,2022-02-01,2798.354205,California
+1719,Virginia Beach,2022-02-01,1432.037285,Virginia
+1720,Washington,2022-02-01,2037.066602,District of Columbia
+1721,Wichita,2022-02-01,848.5710245,Kansas
+1722,Winston,2022-02-01,1323.448294,North Carolina
+1723,Worcester,2022-02-01,1545.622114,Massachusetts
+1724,Youngstown,2022-02-01,735.4612576,Ohio
+1725,Akron,2022-03-01,963.2718587,Ohio
+1726,Albany,2022-03-01,1378.757072,New York
+1727,Albuquerque,2022-03-01,1288.918059,New Mexico
+1728,Allentown,2022-03-01,1417.537376,Pennsylvania
+1729,Anaheim,2022-03-01,2593.592132,California
+1730,Atlanta,2022-03-01,1656.941027,Georgia
+1731,Augusta,2022-03-01,1222.702937,Georgia
+1732,Austin,2022-03-01,1546.700488,Texas
+1733,Bakersfield,2022-03-01,1476.044193,California
+1734,Baltimore,2022-03-01,1662.582626,Maryland
+1735,Baton Rouge,2022-03-01,1200.671216,Louisiana
+1736,Birmingham,2022-03-01,1140.159562,Alabama
+1737,Boise City,2022-03-01,1455.055409,Idaho
+1738,Boston,2022-03-01,2327.388357,Massachusetts
+1739,Boulder,2022-03-01,2087.853988,Colorado
+1740,Bradenton,2022-03-01,2228.73767,Florida
+1741,Buffalo,2022-03-01,1203.124486,New York
+1742,Charleston,2022-03-01,1603.503305,South Carolina
+1743,Charlotte,2022-03-01,1559.114187,North Carolina
+1744,Chattanooga,2022-03-01,1339.695692,Tennessee
+1745,Chicago,2022-03-01,1678.284208,Illinois
+1746,Cincinnati,2022-03-01,1372.512818,Ohio
+1747,Cleveland,2022-03-01,1174.772073,Ohio
+1748,Colorado Springs,2022-03-01,1654.343148,Colorado
+1749,Columbia,2022-03-01,1232.688729,South Carolina
+1750,Columbus,2022-03-01,1399.302795,Ohio
+1751,Dallas,2022-03-01,1588.411938,Texas
+1752,Dayton,2022-03-01,1104.885267,Ohio
+1753,Daytona Beach,2022-03-01,1535.813525,Florida
+1754,Denver,2022-03-01,1758.89548,Colorado
+1755,Des Moines,2022-03-01,1180.030061,Iowa
+1756,Detroit,2022-03-01,1352.787915,Michigan
+1757,Durham,2022-03-01,1436.656999,North Carolina
+1758,El Paso,2022-03-01,1247.607309,Texas
+1759,Fort Collins,2022-03-01,1603.717729,Colorado
+1760,Fort Lauderdale,2022-03-01,1962.633047,Florida
+1761,Fort Myers,2022-03-01,1978.353327,Florida
+1762,Fort Worth,2022-03-01,1588.411938,Texas
+1763,Fresno,2022-03-01,1663.528326,California
+1764,Gainesville,2022-03-01,1446.830189,Georgia
+1765,Grand Rapids,2022-03-01,1320.974395,Michigan
+1766,Greeley,2022-03-01,1636.324077,Colorado
+1767,Greensboro,2022-03-01,1308.553514,North Carolina
+1768,Greenville,2022-03-01,1341.316292,South Carolina
+1769,Harrisburg,2022-03-01,1189.112517,Pennsylvania
+1770,Hartford,2022-03-01,1447.870176,Connecticut
+1771,Honolulu,2022-03-01,2105.630887,Hawaii
+1772,Houston,2022-03-01,1488.60525,Texas
+1773,Indianapolis,2022-03-01,1343.945756,Indiana
+1774,Jackson,2022-03-01,1297.414486,Mississippi
+1775,Jacksonville,2022-03-01,1440.02754,Florida
+1776,Jefferson County,2022-03-01,1041.060746,Kentucky
+1777,Kansas City,2022-03-01,1266.33773,Missouri
+1778,Knoxville,2022-03-01,1429.715097,Tennessee
+1779,Lakeland,2022-03-01,1547.233021,Florida
+1780,Las Vegas,2022-03-01,1518.303964,Nevada
+1781,Little Rock,2022-03-01,963.4005878,Arkansas
+1782,Long Beach,2022-03-01,2593.592132,California
+1783,Los Angeles,2022-03-01,2593.592132,California
+1784,Louisville,2022-03-01,1041.060746,Kentucky
+1785,Madison,2022-03-01,1382.008076,Wisconsin
+1786,Melbourne,2022-03-01,1643.34213,Florida
+1787,Memphis,2022-03-01,1415.0632,Tennessee
+1788,Miami,2022-03-01,1962.633047,Florida
+1789,Milwaukee,2022-03-01,1262.324983,Wisconsin
+1790,Minneapolis,2022-03-01,1585.979955,Minnesota
+1791,Nashville,2022-03-01,1661.401133,Tennessee
+1792,New Haven,2022-03-01,1536.312574,Connecticut
+1793,New Orleans,2022-03-01,1447.304452,Louisiana
+1794,New York,2022-03-01,2535.702418,New York
+1795,North Port,2022-03-01,2228.73767,Florida
+1796,Ogden,2022-03-01,1431.492171,Utah
+1797,Oklahoma City,2022-03-01,1121.387432,Oklahoma
+1798,Omaha,2022-03-01,1308.978079,Nebraska
+1799,Orlando,2022-03-01,1620.024374,Florida
+1800,Philadelphia,2022-03-01,1649.086067,Pennsylvania
+1801,Phoenix,2022-03-01,1650.983486,Arizona
+1802,Pittsburgh,2022-03-01,1241.977629,Pennsylvania
+1803,Port St. Lucie,2022-03-01,1874.512318,Florida
+1804,Portland,2022-03-01,1700.532207,Oregon
+1805,Providence,2022-03-01,1685.589284,Rhode Island
+1806,Provo,2022-03-01,1403.414439,Utah
+1807,Raleigh,2022-03-01,1546.713941,North Carolina
+1808,Richmond,2022-03-01,1375.90807,Virginia
+1809,Riverside,2022-03-01,2300.930257,California
+1810,Rochester,2022-03-01,1215.8274,New York
+1811,Sacramento,2022-03-01,2019.126915,California
+1812,Salem,2022-03-01,1329.290456,North Carolina
+1813,Salt Lake City,2022-03-01,1444.002226,Utah
+1814,San Antonio,2022-03-01,1364.492418,Texas
+1815,San Diego,2022-03-01,2397.877585,California
+1816,San Francisco,2022-03-01,2971.050808,California
+1817,San Jose,2022-03-01,2927.529437,California
+1818,Sarasota,2022-03-01,2228.73767,Florida
+1819,Scranton,2022-03-01,971.4147394,Pennsylvania
+1820,Seattle,2022-03-01,1994.310928,Washington
+1821,Spokane,2022-03-01,1427.161493,Washington
+1822,Springfield,2022-03-01,1384.744895,Massachusetts
+1823,St. Louis,2022-03-01,1204.009342,Missouri
+1824,St. Paul,2022-03-01,1585.979955,Minnesota
+1825,Stamford,2022-03-01,2266.193638,Connecticut
+1826,Stockton,2022-03-01,2232.322148,California
+1827,Syracuse,2022-03-01,1255.076272,New York
+1828,Tampa,2022-03-01,1639.360095,Florida
+1829,Toledo,2022-03-01,919.4114908,Ohio
+1830,Tucson,2022-03-01,1321.902589,Arizona
+1831,Tulsa,2022-03-01,1234.049601,Oklahoma
+1832,United States,2022-03-01,1771.884254,United States
+1833,Ventura,2022-03-01,2801.62138,California
+1834,Virginia Beach,2022-03-01,1437.162891,Virginia
+1835,Washington,2022-03-01,2043.917893,District of Columbia
+1836,Wichita,2022-03-01,858.2314924,Kansas
+1837,Winston,2022-03-01,1329.290456,North Carolina
+1838,Worcester,2022-03-01,1553.687365,Massachusetts
+1839,Youngstown,2022-03-01,755.6114607,Ohio
+1840,Akron,2022-04-01,969.178333,Ohio
+1841,Albany,2022-04-01,1395.97257,New York
+1842,Albuquerque,2022-04-01,1296.668265,New Mexico
+1843,Allentown,2022-04-01,1424.04195,Pennsylvania
+1844,Anaheim,2022-04-01,2599.185639,California
+1845,Atlanta,2022-04-01,1664.824146,Georgia
+1846,Augusta,2022-04-01,1229.493456,Georgia
+1847,Austin,2022-04-01,1552.564459,Texas
+1848,Bakersfield,2022-04-01,1485.048177,California
+1849,Baltimore,2022-04-01,1670.507404,Maryland
+1850,Baton Rouge,2022-04-01,1210.434509,Louisiana
+1851,Birmingham,2022-04-01,1143.092482,Alabama
+1852,Boise City,2022-04-01,1466.377017,Idaho
+1853,Boston,2022-04-01,2337.250393,Massachusetts
+1854,Boulder,2022-04-01,2093.479327,Colorado
+1855,Bradenton,2022-04-01,2229.321193,Florida
+1856,Buffalo,2022-04-01,1211.693963,New York
+1857,Charleston,2022-04-01,1610.822902,South Carolina
+1858,Charlotte,2022-04-01,1565.67054,North Carolina
+1859,Chattanooga,2022-04-01,1357.778843,Tennessee
+1860,Chicago,2022-04-01,1686.792488,Illinois
+1861,Cincinnati,2022-04-01,1377.460504,Ohio
+1862,Cleveland,2022-04-01,1183.43619,Ohio
+1863,Colorado Springs,2022-04-01,1664.570008,Colorado
+1864,Columbia,2022-04-01,1241.470671,South Carolina
+1865,Columbus,2022-04-01,1406.492276,Ohio
+1866,Dallas,2022-04-01,1594.18604,Texas
+1867,Dayton,2022-04-01,1103.442825,Ohio
+1868,Daytona Beach,2022-04-01,1544.070284,Florida
+1869,Denver,2022-04-01,1766.810217,Colorado
+1870,Des Moines,2022-04-01,1190.123442,Iowa
+1871,Detroit,2022-04-01,1360.457639,Michigan
+1872,Durham,2022-04-01,1441.841827,North Carolina
+1873,El Paso,2022-04-01,1254.91961,Texas
+1874,Fort Collins,2022-04-01,1617.13681,Colorado
+1875,Fort Lauderdale,2022-04-01,1962.450052,Florida
+1876,Fort Myers,2022-04-01,1980.881582,Florida
+1877,Fort Worth,2022-04-01,1594.18604,Texas
+1878,Fresno,2022-04-01,1675.585986,California
+1879,Gainesville,2022-04-01,1454.01378,Georgia
+1880,Grand Rapids,2022-04-01,1340.279694,Michigan
+1881,Greeley,2022-04-01,1640.357975,Colorado
+1882,Greensboro,2022-04-01,1314.16176,North Carolina
+1883,Greenville,2022-04-01,1353.159641,South Carolina
+1884,Harrisburg,2022-04-01,1194.876688,Pennsylvania
+1885,Hartford,2022-04-01,1454.698265,Connecticut
+1886,Honolulu,2022-04-01,2112.679142,Hawaii
+1887,Houston,2022-04-01,1495.404425,Texas
+1888,Indianapolis,2022-04-01,1353.644502,Indiana
+1889,Jackson,2022-04-01,1303.931117,Mississippi
+1890,Jacksonville,2022-04-01,1446.213831,Florida
+1891,Jefferson County,2022-04-01,1048.649398,Kentucky
+1892,Kansas City,2022-04-01,1274.277326,Missouri
+1893,Knoxville,2022-04-01,1436.43361,Tennessee
+1894,Lakeland,2022-04-01,1550.833314,Florida
+1895,Las Vegas,2022-04-01,1526.254095,Nevada
+1896,Little Rock,2022-04-01,971.0364939,Arkansas
+1897,Long Beach,2022-04-01,2599.185639,California
+1898,Los Angeles,2022-04-01,2599.185639,California
+1899,Louisville,2022-04-01,1048.649398,Kentucky
+1900,Madison,2022-04-01,1386.942285,Wisconsin
+1901,Melbourne,2022-04-01,1643.420297,Florida
+1902,Memphis,2022-04-01,1427.459298,Tennessee
+1903,Miami,2022-04-01,1962.450052,Florida
+1904,Milwaukee,2022-04-01,1269.904674,Wisconsin
+1905,Minneapolis,2022-04-01,1594.789598,Minnesota
+1906,Nashville,2022-04-01,1672.505389,Tennessee
+1907,New Haven,2022-04-01,1556.615513,Connecticut
+1908,New Orleans,2022-04-01,1448.317888,Louisiana
+1909,New York,2022-04-01,2542.777206,New York
+1910,North Port,2022-04-01,2229.321193,Florida
+1911,Ogden,2022-04-01,1426.037502,Utah
+1912,Oklahoma City,2022-04-01,1129.26947,Oklahoma
+1913,Omaha,2022-04-01,1322.346537,Nebraska
+1914,Orlando,2022-04-01,1625.515379,Florida
+1915,Philadelphia,2022-04-01,1656.394719,Pennsylvania
+1916,Phoenix,2022-04-01,1661.845533,Arizona
+1917,Pittsburgh,2022-04-01,1245.612081,Pennsylvania
+1918,Port St. Lucie,2022-04-01,1874.113515,Florida
+1919,Portland,2022-04-01,1706.555384,Oregon
+1920,Providence,2022-04-01,1693.66216,Rhode Island
+1921,Provo,2022-04-01,1411.726983,Utah
+1922,Raleigh,2022-04-01,1551.976449,North Carolina
+1923,Richmond,2022-04-01,1387.582257,Virginia
+1924,Riverside,2022-04-01,2316.768337,California
+1925,Rochester,2022-04-01,1221.321078,New York
+1926,Sacramento,2022-04-01,2031.358373,California
+1927,Salem,2022-04-01,1336.633792,North Carolina
+1928,Salt Lake City,2022-04-01,1450.12178,Utah
+1929,San Antonio,2022-04-01,1369.968618,Texas
+1930,San Diego,2022-04-01,2404.595423,California
+1931,San Francisco,2022-04-01,2968.458599,California
+1932,San Jose,2022-04-01,2942.607531,California
+1933,Sarasota,2022-04-01,2229.321193,Florida
+1934,Scranton,2022-04-01,973.6106705,Pennsylvania
+1935,Seattle,2022-04-01,2007.18763,Washington
+1936,Spokane,2022-04-01,1433.007991,Washington
+1937,Springfield,2022-04-01,1394.169464,Massachusetts
+1938,St. Louis,2022-04-01,1210.965074,Missouri
+1939,St. Paul,2022-04-01,1594.789598,Minnesota
+1940,Stamford,2022-04-01,2288.014871,Connecticut
+1941,Stockton,2022-04-01,2242.285075,California
+1942,Syracuse,2022-04-01,1272.550659,New York
+1943,Tampa,2022-04-01,1645.364406,Florida
+1944,Toledo,2022-04-01,935.6865906,Ohio
+1945,Tucson,2022-04-01,1331.706558,Arizona
+1946,Tulsa,2022-04-01,1237.747029,Oklahoma
+1947,United States,2022-04-01,1779.519303,United States
+1948,Ventura,2022-04-01,2804.649478,California
+1949,Virginia Beach,2022-04-01,1443.705277,Virginia
+1950,Washington,2022-04-01,2050.954832,District of Columbia
+1951,Wichita,2022-04-01,860.9249709,Kansas
+1952,Winston,2022-04-01,1336.633792,North Carolina
+1953,Worcester,2022-04-01,1559.259992,Massachusetts
+1954,Youngstown,2022-04-01,752.2993791,Ohio
+1955,Akron,2022-05-01,972.3752888,Ohio
+1956,Albany,2022-05-01,1398.163923,New York
+1957,Albuquerque,2022-05-01,1304.677503,New Mexico
+1958,Allentown,2022-05-01,1435.838251,Pennsylvania
+1959,Anaheim,2022-05-01,2601.392684,California
+1960,Atlanta,2022-05-01,1673.138267,Georgia
+1961,Augusta,2022-05-01,1242.755592,Georgia
+1962,Austin,2022-05-01,1557.66562,Texas
+1963,Bakersfield,2022-05-01,1492.601245,California
+1964,Baltimore,2022-05-01,1678.333984,Maryland
+1965,Baton Rouge,2022-05-01,1213.422095,Louisiana
+1966,Birmingham,2022-05-01,1146.996888,Alabama
+1967,Boise City,2022-05-01,1477.712108,Idaho
+1968,Boston,2022-05-01,2342.791913,Massachusetts
+1969,Boulder,2022-05-01,2105.978863,Colorado
+1970,Bradenton,2022-05-01,2226.450991,Florida
+1971,Buffalo,2022-05-01,1215.817785,New York
+1972,Charleston,2022-05-01,1618.344331,South Carolina
+1973,Charlotte,2022-05-01,1574.271989,North Carolina
+1974,Chattanooga,2022-05-01,1360.055655,Tennessee
+1975,Chicago,2022-05-01,1697.35634,Illinois
+1976,Cincinnati,2022-05-01,1385.147589,Ohio
+1977,Cleveland,2022-05-01,1188.314715,Ohio
+1978,Colorado Springs,2022-05-01,1676.131741,Colorado
+1979,Columbia,2022-05-01,1247.664531,South Carolina
+1980,Columbus,2022-05-01,1417.630341,Ohio
+1981,Dallas,2022-05-01,1600.032396,Texas
+1982,Dayton,2022-05-01,1108.953218,Ohio
+1983,Daytona Beach,2022-05-01,1556.846776,Florida
+1984,Denver,2022-05-01,1776.367261,Colorado
+1985,Des Moines,2022-05-01,1199.43606,Iowa
+1986,Detroit,2022-05-01,1368.079174,Michigan
+1987,Durham,2022-05-01,1450.204429,North Carolina
+1988,El Paso,2022-05-01,1260.969767,Texas
+1989,Fort Collins,2022-05-01,1632.629774,Colorado
+1990,Fort Lauderdale,2022-05-01,1964.686798,Florida
+1991,Fort Myers,2022-05-01,1982.986523,Florida
+1992,Fort Worth,2022-05-01,1600.032396,Texas
+1993,Fresno,2022-05-01,1687.408261,California
+1994,Gainesville,2022-05-01,1456.147917,Georgia
+1995,Grand Rapids,2022-05-01,1356.42322,Michigan
+1996,Greeley,2022-05-01,1645.481437,Colorado
+1997,Greensboro,2022-05-01,1324.795083,North Carolina
+1998,Greenville,2022-05-01,1360.647094,South Carolina
+1999,Harrisburg,2022-05-01,1196.778483,Pennsylvania
+2000,Hartford,2022-05-01,1459.828181,Connecticut
+2001,Honolulu,2022-05-01,2120.408488,Hawaii
+2002,Houston,2022-05-01,1500.660567,Texas
+2003,Indianapolis,2022-05-01,1362.023836,Indiana
+2004,Jackson,2022-05-01,1311.434111,Mississippi
+2005,Jacksonville,2022-05-01,1453.694695,Florida
+2006,Jefferson County,2022-05-01,1054.785562,Kentucky
+2007,Kansas City,2022-05-01,1281.03777,Missouri
+2008,Knoxville,2022-05-01,1447.634759,Tennessee
+2009,Lakeland,2022-05-01,1561.840352,Florida
+2010,Las Vegas,2022-05-01,1534.256959,Nevada
+2011,Little Rock,2022-05-01,973.3779885,Arkansas
+2012,Long Beach,2022-05-01,2601.392684,California
+2013,Los Angeles,2022-05-01,2601.392684,California
+2014,Louisville,2022-05-01,1054.785562,Kentucky
+2015,Madison,2022-05-01,1388.704592,Wisconsin
+2016,Melbourne,2022-05-01,1650.688195,Florida
+2017,Memphis,2022-05-01,1435.340081,Tennessee
+2018,Miami,2022-05-01,1964.686798,Florida
+2019,Milwaukee,2022-05-01,1275.983872,Wisconsin
+2020,Minneapolis,2022-05-01,1600.471191,Minnesota
+2021,Nashville,2022-05-01,1682.918663,Tennessee
+2022,New Haven,2022-05-01,1561.778138,Connecticut
+2023,New Orleans,2022-05-01,1456.378261,Louisiana
+2024,New York,2022-05-01,2547.207765,New York
+2025,North Port,2022-05-01,2226.450991,Florida
+2026,Ogden,2022-05-01,1445.825766,Utah
+2027,Oklahoma City,2022-05-01,1144.28563,Oklahoma
+2028,Omaha,2022-05-01,1329.426273,Nebraska
+2029,Orlando,2022-05-01,1632.305127,Florida
+2030,Philadelphia,2022-05-01,1662.658884,Pennsylvania
+2031,Phoenix,2022-05-01,1672.542594,Arizona
+2032,Pittsburgh,2022-05-01,1249.120924,Pennsylvania
+2033,Port St. Lucie,2022-05-01,1886.254288,Florida
+2034,Portland,2022-05-01,1719.315686,Oregon
+2035,Providence,2022-05-01,1708.332106,Rhode Island
+2036,Provo,2022-05-01,1419.613306,Utah
+2037,Raleigh,2022-05-01,1560.567695,North Carolina
+2038,Richmond,2022-05-01,1397.479691,Virginia
+2039,Riverside,2022-05-01,2324.728256,California
+2040,Rochester,2022-05-01,1230.558196,New York
+2041,Sacramento,2022-05-01,2043.889113,California
+2042,Salem,2022-05-01,1347.600748,North Carolina
+2043,Salt Lake City,2022-05-01,1458.509272,Utah
+2044,San Antonio,2022-05-01,1376.86687,Texas
+2045,San Diego,2022-05-01,2420.185246,California
+2046,San Francisco,2022-05-01,2970.289653,California
+2047,San Jose,2022-05-01,2951.981115,California
+2048,Sarasota,2022-05-01,2226.450991,Florida
+2049,Scranton,2022-05-01,978.426672,Pennsylvania
+2050,Seattle,2022-05-01,2021.288851,Washington
+2051,Spokane,2022-05-01,1443.908547,Washington
+2052,Springfield,2022-05-01,1406.538375,Massachusetts
+2053,St. Louis,2022-05-01,1216.781325,Missouri
+2054,St. Paul,2022-05-01,1600.471191,Minnesota
+2055,Stamford,2022-05-01,2310.866221,Connecticut
+2056,Stockton,2022-05-01,2255.923396,California
+2057,Syracuse,2022-05-01,1280.204291,New York
+2058,Tampa,2022-05-01,1652.809656,Florida
+2059,Toledo,2022-05-01,936.6103276,Ohio
+2060,Tucson,2022-05-01,1339.733393,Arizona
+2061,Tulsa,2022-05-01,1242.625646,Oklahoma
+2062,United States,2022-05-01,1785.817719,United States
+2063,Ventura,2022-05-01,2821.67774,California
+2064,Virginia Beach,2022-05-01,1449.694448,Virginia
+2065,Washington,2022-05-01,2057.88166,District of Columbia
+2066,Wichita,2022-05-01,865.1613487,Kansas
+2067,Winston,2022-05-01,1347.600748,North Carolina
+2068,Worcester,2022-05-01,1570.307356,Massachusetts
+2069,Youngstown,2022-05-01,755.8639859,Ohio
+2070,Akron,2022-06-01,978.7850132,Ohio
+2071,Albany,2022-06-01,1406.056004,New York
+2072,Albuquerque,2022-06-01,1314.988767,New Mexico
+2073,Allentown,2022-06-01,1440.175393,Pennsylvania
+2074,Anaheim,2022-06-01,2605.94301,California
+2075,Atlanta,2022-06-01,1682.525848,Georgia
+2076,Augusta,2022-06-01,1249.190575,Georgia
+2077,Austin,2022-06-01,1561.274558,Texas
+2078,Bakersfield,2022-06-01,1503.276604,California
+2079,Baltimore,2022-06-01,1682.869388,Maryland
+2080,Baton Rouge,2022-06-01,1213.940546,Louisiana
+2081,Birmingham,2022-06-01,1151.311363,Alabama
+2082,Boise City,2022-06-01,1491.126317,Idaho
+2083,Boston,2022-06-01,2344.221803,Massachusetts
+2084,Boulder,2022-06-01,2107.109847,Colorado
+2085,Bradenton,2022-06-01,2217.168168,Florida
+2086,Buffalo,2022-06-01,1215.973742,New York
+2087,Charleston,2022-06-01,1627.098736,South Carolina
+2088,Charlotte,2022-06-01,1582.126899,North Carolina
+2089,Chattanooga,2022-06-01,1371.727255,Tennessee
+2090,Chicago,2022-06-01,1702.726287,Illinois
+2091,Cincinnati,2022-06-01,1390.853709,Ohio
+2092,Cleveland,2022-06-01,1197.363167,Ohio
+2093,Colorado Springs,2022-06-01,1683.723409,Colorado
+2094,Columbia,2022-06-01,1252.98778,South Carolina
+2095,Columbus,2022-06-01,1422.852764,Ohio
+2096,Dallas,2022-06-01,1607.600512,Texas
+2097,Dayton,2022-06-01,1113.304473,Ohio
+2098,Daytona Beach,2022-06-01,1554.564635,Florida
+2099,Denver,2022-06-01,1784.533177,Colorado
+2100,Des Moines,2022-06-01,1208.799053,Iowa
+2101,Detroit,2022-06-01,1375.991201,Michigan
+2102,Durham,2022-06-01,1452.244243,North Carolina
+2103,El Paso,2022-06-01,1267.742046,Texas
+2104,Fort Collins,2022-06-01,1629.126255,Colorado
+2105,Fort Lauderdale,2022-06-01,1965.046507,Florida
+2106,Fort Myers,2022-06-01,1983.868332,Florida
+2107,Fort Worth,2022-06-01,1607.600512,Texas
+2108,Fresno,2022-06-01,1695.845141,California
+2109,Gainesville,2022-06-01,1456.442413,Georgia
+2110,Grand Rapids,2022-06-01,1364.398125,Michigan
+2111,Greeley,2022-06-01,1648.01712,Colorado
+2112,Greensboro,2022-06-01,1327.028169,North Carolina
+2113,Greenville,2022-06-01,1362.639273,South Carolina
+2114,Harrisburg,2022-06-01,1199.919012,Pennsylvania
+2115,Hartford,2022-06-01,1472.854087,Connecticut
+2116,Honolulu,2022-06-01,2125.178197,Hawaii
+2117,Houston,2022-06-01,1503.14578,Texas
+2118,Indianapolis,2022-06-01,1371.118706,Indiana
+2119,Jackson,2022-06-01,1311.876216,Mississippi
+2120,Jacksonville,2022-06-01,1460.425036,Florida
+2121,Jefferson County,2022-06-01,1058.529425,Kentucky
+2122,Kansas City,2022-06-01,1288.395281,Missouri
+2123,Knoxville,2022-06-01,1449.178006,Tennessee
+2124,Lakeland,2022-06-01,1570.450566,Florida
+2125,Las Vegas,2022-06-01,1541.767057,Nevada
+2126,Little Rock,2022-06-01,978.4061919,Arkansas
+2127,Long Beach,2022-06-01,2605.94301,California
+2128,Los Angeles,2022-06-01,2605.94301,California
+2129,Louisville,2022-06-01,1058.529425,Kentucky
+2130,Madison,2022-06-01,1391.965996,Wisconsin
+2131,Melbourne,2022-06-01,1659.139992,Florida
+2132,Memphis,2022-06-01,1446.281979,Tennessee
+2133,Miami,2022-06-01,1965.046507,Florida
+2134,Milwaukee,2022-06-01,1281.326931,Wisconsin
+2135,Minneapolis,2022-06-01,1605.693494,Minnesota
+2136,Nashville,2022-06-01,1692.733073,Tennessee
+2137,New Haven,2022-06-01,1565.545096,Connecticut
+2138,New Orleans,2022-06-01,1457.695588,Louisiana
+2139,New York,2022-06-01,2545.9882,New York
+2140,North Port,2022-06-01,2217.168168,Florida
+2141,Ogden,2022-06-01,1465.070602,Utah
+2142,Oklahoma City,2022-06-01,1146.476172,Oklahoma
+2143,Omaha,2022-06-01,1337.646155,Nebraska
+2144,Orlando,2022-06-01,1636.763614,Florida
+2145,Philadelphia,2022-06-01,1665.75231,Pennsylvania
+2146,Phoenix,2022-06-01,1682.023109,Arizona
+2147,Pittsburgh,2022-06-01,1254.467418,Pennsylvania
+2148,Port St. Lucie,2022-06-01,1885.794522,Florida
+2149,Portland,2022-06-01,1730.063448,Oregon
+2150,Providence,2022-06-01,1715.797773,Rhode Island
+2151,Provo,2022-06-01,1433.598081,Utah
+2152,Raleigh,2022-06-01,1570.689251,North Carolina
+2153,Richmond,2022-06-01,1399.643598,Virginia
+2154,Riverside,2022-06-01,2334.645472,California
+2155,Rochester,2022-06-01,1238.336646,New York
+2156,Sacramento,2022-06-01,2057.483539,California
+2157,Salem,2022-06-01,1353.420626,North Carolina
+2158,Salt Lake City,2022-06-01,1460.635476,Utah
+2159,San Antonio,2022-06-01,1382.449795,Texas
+2160,San Diego,2022-06-01,2429.779554,California
+2161,San Francisco,2022-06-01,2978.097359,California
+2162,San Jose,2022-06-01,2965.705319,California
+2163,Sarasota,2022-06-01,2217.168168,Florida
+2164,Scranton,2022-06-01,983.3921596,Pennsylvania
+2165,Seattle,2022-06-01,2031.794902,Washington
+2166,Spokane,2022-06-01,1458.984709,Washington
+2167,Springfield,2022-06-01,1410.559025,Massachusetts
+2168,St. Louis,2022-06-01,1220.871905,Missouri
+2169,St. Paul,2022-06-01,1605.693494,Minnesota
+2170,Stamford,2022-06-01,2321.759176,Connecticut
+2171,Stockton,2022-06-01,2273.301134,California
+2172,Syracuse,2022-06-01,1289.492908,New York
+2173,Tampa,2022-06-01,1660.827461,Florida
+2174,Toledo,2022-06-01,933.7517637,Ohio
+2175,Tucson,2022-06-01,1345.415088,Arizona
+2176,Tulsa,2022-06-01,1250.500806,Oklahoma
+2177,United States,2022-06-01,1790.841433,United States
+2178,Ventura,2022-06-01,2829.237377,California
+2179,Virginia Beach,2022-06-01,1455.529753,Virginia
+2180,Washington,2022-06-01,2061.305199,District of Columbia
+2181,Wichita,2022-06-01,869.5472448,Kansas
+2182,Winston,2022-06-01,1353.420626,North Carolina
+2183,Worcester,2022-06-01,1572.432756,Massachusetts
+2184,Youngstown,2022-06-01,749.6117809,Ohio
+2185,Akron,2022-07-01,978.9322813,Ohio
+2186,Albany,2022-07-01,1411.230715,New York
+2187,Albuquerque,2022-07-01,1321.830004,New Mexico
+2188,Allentown,2022-07-01,1455.268191,Pennsylvania
+2189,Anaheim,2022-07-01,2610.936413,California
+2190,Atlanta,2022-07-01,1690.984863,Georgia
+2191,Augusta,2022-07-01,1250.974144,Georgia
+2192,Austin,2022-07-01,1568.724259,Texas
+2193,Bakersfield,2022-07-01,1508.970985,California
+2194,Baltimore,2022-07-01,1685.813777,Maryland
+2195,Baton Rouge,2022-07-01,1208.611338,Louisiana
+2196,Birmingham,2022-07-01,1151.937118,Alabama
+2197,Boise City,2022-07-01,1501.807923,Idaho
+2198,Boston,2022-07-01,2339.537556,Massachusetts
+2199,Boulder,2022-07-01,2110.285815,Colorado
+2200,Bradenton,2022-07-01,2224.795235,Florida
+2201,Buffalo,2022-07-01,1219.234694,New York
+2202,Charleston,2022-07-01,1634.347861,South Carolina
+2203,Charlotte,2022-07-01,1587.832291,North Carolina
+2204,Chattanooga,2022-07-01,1375.938947,Tennessee
+2205,Chicago,2022-07-01,1704.28575,Illinois
+2206,Cincinnati,2022-07-01,1395.293982,Ohio
+2207,Cleveland,2022-07-01,1194.044015,Ohio
+2208,Colorado Springs,2022-07-01,1691.984095,Colorado
+2209,Columbia,2022-07-01,1264.190768,South Carolina
+2210,Columbus,2022-07-01,1424.852108,Ohio
+2211,Dallas,2022-07-01,1610.689573,Texas
+2212,Dayton,2022-07-01,1121.348005,Ohio
+2213,Daytona Beach,2022-07-01,1560.958228,Florida
+2214,Denver,2022-07-01,1788.188212,Colorado
+2215,Des Moines,2022-07-01,1210.727148,Iowa
+2216,Detroit,2022-07-01,1381.875169,Michigan
+2217,Durham,2022-07-01,1455.496915,North Carolina
+2218,El Paso,2022-07-01,1268.628844,Texas
+2219,Fort Collins,2022-07-01,1627.006715,Colorado
+2220,Fort Lauderdale,2022-07-01,1969.398444,Florida
+2221,Fort Myers,2022-07-01,1987.676425,Florida
+2222,Fort Worth,2022-07-01,1610.689573,Texas
+2223,Fresno,2022-07-01,1701.050182,California
+2224,Gainesville,2022-07-01,1466.430619,Georgia
+2225,Grand Rapids,2022-07-01,1370.163584,Michigan
+2226,Greeley,2022-07-01,1652.094872,Colorado
+2227,Greensboro,2022-07-01,1335.006361,North Carolina
+2228,Greenville,2022-07-01,1364.726686,South Carolina
+2229,Harrisburg,2022-07-01,1204.041913,Pennsylvania
+2230,Hartford,2022-07-01,1476.560982,Connecticut
+2231,Honolulu,2022-07-01,2128.930218,Hawaii
+2232,Houston,2022-07-01,1505.756214,Texas
+2233,Indianapolis,2022-07-01,1377.609712,Indiana
+2234,Jackson,2022-07-01,1318.15258,Mississippi
+2235,Jacksonville,2022-07-01,1466.911093,Florida
+2236,Jefferson County,2022-07-01,1061.952453,Kentucky
+2237,Kansas City,2022-07-01,1296.792834,Missouri
+2238,Knoxville,2022-07-01,1454.479724,Tennessee
+2239,Lakeland,2022-07-01,1575.319353,Florida
+2240,Las Vegas,2022-07-01,1548.767137,Nevada
+2241,Little Rock,2022-07-01,981.4342676,Arkansas
+2242,Long Beach,2022-07-01,2610.936413,California
+2243,Los Angeles,2022-07-01,2610.936413,California
+2244,Louisville,2022-07-01,1061.952453,Kentucky
+2245,Madison,2022-07-01,1391.578882,Wisconsin
+2246,Melbourne,2022-07-01,1661.667497,Florida
+2247,Memphis,2022-07-01,1455.544334,Tennessee
+2248,Miami,2022-07-01,1969.398444,Florida
+2249,Milwaukee,2022-07-01,1281.427821,Wisconsin
+2250,Minneapolis,2022-07-01,1609.323209,Minnesota
+2251,Nashville,2022-07-01,1698.178424,Tennessee
+2252,New Haven,2022-07-01,1573.142228,Connecticut
+2253,New Orleans,2022-07-01,1460.954099,Louisiana
+2254,New York,2022-07-01,2537.109673,New York
+2255,North Port,2022-07-01,2224.795235,Florida
+2256,Ogden,2022-07-01,1466.52706,Utah
+2257,Oklahoma City,2022-07-01,1142.280287,Oklahoma
+2258,Omaha,2022-07-01,1342.49252,Nebraska
+2259,Orlando,2022-07-01,1645.432134,Florida
+2260,Philadelphia,2022-07-01,1670.704221,Pennsylvania
+2261,Phoenix,2022-07-01,1689.830837,Arizona
+2262,Pittsburgh,2022-07-01,1259.549832,Pennsylvania
+2263,Port St. Lucie,2022-07-01,1890.19344,Florida
+2264,Portland,2022-07-01,1738.661568,Oregon
+2265,Providence,2022-07-01,1717.983402,Rhode Island
+2266,Provo,2022-07-01,1433.338135,Utah
+2267,Raleigh,2022-07-01,1574.198542,North Carolina
+2268,Richmond,2022-07-01,1405.020015,Virginia
+2269,Riverside,2022-07-01,2347.506554,California
+2270,Rochester,2022-07-01,1247.545813,New York
+2271,Sacramento,2022-07-01,2068.907468,California
+2272,Salem,2022-07-01,1360.380448,North Carolina
+2273,Salt Lake City,2022-07-01,1464.267559,Utah
+2274,San Antonio,2022-07-01,1386.042447,Texas
+2275,San Diego,2022-07-01,2438.972571,California
+2276,San Francisco,2022-07-01,2975.554406,California
+2277,San Jose,2022-07-01,2965.208834,California
+2278,Sarasota,2022-07-01,2224.795235,Florida
+2279,Scranton,2022-07-01,987.4480389,Pennsylvania
+2280,Seattle,2022-07-01,2034.609338,Washington
+2281,Spokane,2022-07-01,1467.815056,Washington
+2282,Springfield,2022-07-01,1419.600529,Massachusetts
+2283,St. Louis,2022-07-01,1225.06551,Missouri
+2284,St. Paul,2022-07-01,1609.323209,Minnesota
+2285,Stamford,2022-07-01,2329.956387,Connecticut
+2286,Stockton,2022-07-01,2285.091193,California
+2287,Syracuse,2022-07-01,1291.627723,New York
+2288,Tampa,2022-07-01,1667.013998,Florida
+2289,Toledo,2022-07-01,933.7269284,Ohio
+2290,Tucson,2022-07-01,1351.818318,Arizona
+2291,Tulsa,2022-07-01,1255.186938,Oklahoma
+2292,United States,2022-07-01,1793.3598,United States
+2293,Ventura,2022-07-01,2835.235796,California
+2294,Virginia Beach,2022-07-01,1460.833661,Virginia
+2295,Washington,2022-07-01,2059.896285,District of Columbia
+2296,Wichita,2022-07-01,876.3411869,Kansas
+2297,Winston,2022-07-01,1360.380448,North Carolina
+2298,Worcester,2022-07-01,1582.17444,Massachusetts
+2299,Youngstown,2022-07-01,752.9620125,Ohio
+2300,Akron,2022-08-01,981.0902118,Ohio
+2301,Albany,2022-08-01,1405.182116,New York
+2302,Albuquerque,2022-08-01,1328.266043,New Mexico
+2303,Allentown,2022-08-01,1461.001438,Pennsylvania
+2304,Anaheim,2022-08-01,2613.137073,California
+2305,Atlanta,2022-08-01,1695.155622,Georgia
+2306,Augusta,2022-08-01,1255.291786,Georgia
+2307,Austin,2022-08-01,1565.116544,Texas
+2308,Bakersfield,2022-08-01,1518.409404,California
+2309,Baltimore,2022-08-01,1682.519001,Maryland
+2310,Baton Rouge,2022-08-01,1212.057719,Louisiana
+2311,Birmingham,2022-08-01,1156.649695,Alabama
+2312,Boise City,2022-08-01,1507.126214,Idaho
+2313,Boston,2022-08-01,2324.506869,Massachusetts
+2314,Boulder,2022-08-01,2106.048648,Colorado
+2315,Bradenton,2022-08-01,2231.744715,Florida
+2316,Buffalo,2022-08-01,1221.287906,New York
+2317,Charleston,2022-08-01,1633.12664,South Carolina
+2318,Charlotte,2022-08-01,1589.670605,North Carolina
+2319,Chattanooga,2022-08-01,1378.183483,Tennessee
+2320,Chicago,2022-08-01,1700.52287,Illinois
+2321,Cincinnati,2022-08-01,1399.698791,Ohio
+2322,Cleveland,2022-08-01,1196.184682,Ohio
+2323,Colorado Springs,2022-08-01,1698.97219,Colorado
+2324,Columbia,2022-08-01,1269.720444,South Carolina
+2325,Columbus,2022-08-01,1424.82268,Ohio
+2326,Dallas,2022-08-01,1610.670746,Texas
+2327,Dayton,2022-08-01,1127.716757,Ohio
+2328,Daytona Beach,2022-08-01,1565.712633,Florida
+2329,Denver,2022-08-01,1786.193995,Colorado
+2330,Des Moines,2022-08-01,1211.396599,Iowa
+2331,Detroit,2022-08-01,1386.402612,Michigan
+2332,Durham,2022-08-01,1450.3389,North Carolina
+2333,El Paso,2022-08-01,1278.721182,Texas
+2334,Fort Collins,2022-08-01,1621.867666,Colorado
+2335,Fort Lauderdale,2022-08-01,1974.446054,Florida
+2336,Fort Myers,2022-08-01,1997.2809,Florida
+2337,Fort Worth,2022-08-01,1610.670746,Texas
+2338,Fresno,2022-08-01,1707.559035,California
+2339,Gainesville,2022-08-01,1476.727287,Georgia
+2340,Grand Rapids,2022-08-01,1367.371018,Michigan
+2341,Greeley,2022-08-01,1654.446933,Colorado
+2342,Greensboro,2022-08-01,1339.421019,North Carolina
+2343,Greenville,2022-08-01,1362.348299,South Carolina
+2344,Harrisburg,2022-08-01,1202.776254,Pennsylvania
+2345,Hartford,2022-08-01,1477.923576,Connecticut
+2346,Honolulu,2022-08-01,2130.57056,Hawaii
+2347,Houston,2022-08-01,1503.832967,Texas
+2348,Indianapolis,2022-08-01,1382.135015,Indiana
+2349,Jackson,2022-08-01,1329.343485,Mississippi
+2350,Jacksonville,2022-08-01,1470.939691,Florida
+2351,Jefferson County,2022-08-01,1062.664486,Kentucky
+2352,Kansas City,2022-08-01,1300.892519,Missouri
+2353,Knoxville,2022-08-01,1453.869262,Tennessee
+2354,Lakeland,2022-08-01,1581.514852,Florida
+2355,Las Vegas,2022-08-01,1555.776405,Nevada
+2356,Little Rock,2022-08-01,985.0340963,Arkansas
+2357,Long Beach,2022-08-01,2613.137073,California
+2358,Los Angeles,2022-08-01,2613.137073,California
+2359,Louisville,2022-08-01,1062.664486,Kentucky
+2360,Madison,2022-08-01,1390.078868,Wisconsin
+2361,Melbourne,2022-08-01,1669.131731,Florida
+2362,Memphis,2022-08-01,1462.756254,Tennessee
+2363,Miami,2022-08-01,1974.446054,Florida
+2364,Milwaukee,2022-08-01,1283.634796,Wisconsin
+2365,Minneapolis,2022-08-01,1604.684397,Minnesota
+2366,Nashville,2022-08-01,1695.785402,Tennessee
+2367,New Haven,2022-08-01,1571.600073,Connecticut
+2368,New Orleans,2022-08-01,1460.550805,Louisiana
+2369,New York,2022-08-01,2521.620519,New York
+2370,North Port,2022-08-01,2231.744715,Florida
+2371,Ogden,2022-08-01,1475.895429,Utah
+2372,Oklahoma City,2022-08-01,1142.64198,Oklahoma
+2373,Omaha,2022-08-01,1343.834551,Nebraska
+2374,Orlando,2022-08-01,1643.2757,Florida
+2375,Philadelphia,2022-08-01,1668.744701,Pennsylvania
+2376,Phoenix,2022-08-01,1697.809476,Arizona
+2377,Pittsburgh,2022-08-01,1261.475655,Pennsylvania
+2378,Port St. Lucie,2022-08-01,1904.748782,Florida
+2379,Portland,2022-08-01,1742.74454,Oregon
+2380,Providence,2022-08-01,1716.534967,Rhode Island
+2381,Provo,2022-08-01,1430.576095,Utah
+2382,Raleigh,2022-08-01,1574.947523,North Carolina
+2383,Richmond,2022-08-01,1405.940801,Virginia
+2384,Riverside,2022-08-01,2360.371605,California
+2385,Rochester,2022-08-01,1243.218614,New York
+2386,Sacramento,2022-08-01,2076.985811,California
+2387,Salem,2022-08-01,1364.724043,North Carolina
+2388,Salt Lake City,2022-08-01,1463.762525,Utah
+2389,San Antonio,2022-08-01,1389.096465,Texas
+2390,San Diego,2022-08-01,2444.204522,California
+2391,San Francisco,2022-08-01,2961.566133,California
+2392,San Jose,2022-08-01,2956.854487,California
+2393,Sarasota,2022-08-01,2231.744715,Florida
+2394,Scranton,2022-08-01,992.0799539,Pennsylvania
+2395,Seattle,2022-08-01,2035.221098,Washington
+2396,Spokane,2022-08-01,1472.448531,Washington
+2397,Springfield,2022-08-01,1419.773168,Massachusetts
+2398,St. Louis,2022-08-01,1227.633118,Missouri
+2399,St. Paul,2022-08-01,1604.684397,Minnesota
+2400,Stamford,2022-08-01,2331.205698,Connecticut
+2401,Stockton,2022-08-01,2300.681903,California
+2402,Syracuse,2022-08-01,1299.054206,New York
+2403,Tampa,2022-08-01,1671.128591,Florida
+2404,Toledo,2022-08-01,929.3576033,Ohio
+2405,Tucson,2022-08-01,1355.160366,Arizona
+2406,Tulsa,2022-08-01,1263.270944,Oklahoma
+2407,United States,2022-08-01,1792.372259,United States
+2408,Ventura,2022-08-01,2839.340836,California
+2409,Virginia Beach,2022-08-01,1463.837027,Virginia
+2410,Washington,2022-08-01,2055.377456,District of Columbia
+2411,Wichita,2022-08-01,875.9818538,Kansas
+2412,Winston,2022-08-01,1364.724043,North Carolina
+2413,Worcester,2022-08-01,1585.855086,Massachusetts
+2414,Youngstown,2022-08-01,761.3533812,Ohio
+2415,Akron,2022-09-01,980.1728465,Ohio
+2416,Albany,2022-09-01,1405.521088,New York
+2417,Albuquerque,2022-09-01,1328.599112,New Mexico
+2418,Allentown,2022-09-01,1468.486687,Pennsylvania
+2419,Anaheim,2022-09-01,2611.530685,California
+2420,Atlanta,2022-09-01,1697.38152,Georgia
+2421,Augusta,2022-09-01,1259.929029,Georgia
+2422,Austin,2022-09-01,1557.066145,Texas
+2423,Bakersfield,2022-09-01,1521.553769,California
+2424,Baltimore,2022-09-01,1678.970568,Maryland
+2425,Baton Rouge,2022-09-01,1213.780797,Louisiana
+2426,Birmingham,2022-09-01,1165.803769,Alabama
+2427,Boise City,2022-09-01,1511.354048,Idaho
+2428,Boston,2022-09-01,2297.731458,Massachusetts
+2429,Boulder,2022-09-01,2109.220487,Colorado
+2430,Bradenton,2022-09-01,2242.072058,Florida
+2431,Buffalo,2022-09-01,1220.793123,New York
+2432,Charleston,2022-09-01,1630.131808,South Carolina
+2433,Charlotte,2022-09-01,1590.031887,North Carolina
+2434,Chattanooga,2022-09-01,1370.480096,Tennessee
+2435,Chicago,2022-09-01,1688.030617,Illinois
+2436,Cincinnati,2022-09-01,1401.182686,Ohio
+2437,Cleveland,2022-09-01,1196.646646,Ohio
+2438,Colorado Springs,2022-09-01,1702.337859,Colorado
+2439,Columbia,2022-09-01,1269.686383,South Carolina
+2440,Columbus,2022-09-01,1427.337404,Ohio
+2441,Dallas,2022-09-01,1607.194852,Texas
+2442,Dayton,2022-09-01,1126.117259,Ohio
+2443,Daytona Beach,2022-09-01,1572.944102,Florida
+2444,Denver,2022-09-01,1779.026471,Colorado
+2445,Des Moines,2022-09-01,1206.205083,Iowa
+2446,Detroit,2022-09-01,1386.749573,Michigan
+2447,Durham,2022-09-01,1445.663099,North Carolina
+2448,El Paso,2022-09-01,1279.465756,Texas
+2449,Fort Collins,2022-09-01,1615.438702,Colorado
+2450,Fort Lauderdale,2022-09-01,1977.988516,Florida
+2451,Fort Myers,2022-09-01,2004.783108,Florida
+2452,Fort Worth,2022-09-01,1607.194852,Texas
+2453,Fresno,2022-09-01,1713.939503,California
+2454,Gainesville,2022-09-01,1484.006553,Georgia
+2455,Grand Rapids,2022-09-01,1361.731976,Michigan
+2456,Greeley,2022-09-01,1664.222072,Colorado
+2457,Greensboro,2022-09-01,1345.483914,North Carolina
+2458,Greenville,2022-09-01,1362.80085,South Carolina
+2459,Harrisburg,2022-09-01,1203.021087,Pennsylvania
+2460,Hartford,2022-09-01,1475.13946,Connecticut
+2461,Honolulu,2022-09-01,2125.120275,Hawaii
+2462,Houston,2022-09-01,1499.476821,Texas
+2463,Indianapolis,2022-09-01,1384.97472,Indiana
+2464,Jackson,2022-09-01,1325.065583,Mississippi
+2465,Jacksonville,2022-09-01,1472.033163,Florida
+2466,Jefferson County,2022-09-01,1062.628526,Kentucky
+2467,Kansas City,2022-09-01,1299.41099,Missouri
+2468,Knoxville,2022-09-01,1456.529637,Tennessee
+2469,Lakeland,2022-09-01,1580.535242,Florida
+2470,Las Vegas,2022-09-01,1559.512972,Nevada
+2471,Little Rock,2022-09-01,984.625251,Arkansas
+2472,Long Beach,2022-09-01,2611.530685,California
+2473,Los Angeles,2022-09-01,2611.530685,California
+2474,Louisville,2022-09-01,1062.628526,Kentucky
+2475,Madison,2022-09-01,1389.553858,Wisconsin
+2476,Melbourne,2022-09-01,1667.955523,Florida
+2477,Memphis,2022-09-01,1467.756976,Tennessee
+2478,Miami,2022-09-01,1977.988516,Florida
+2479,Milwaukee,2022-09-01,1282.462818,Wisconsin
+2480,Minneapolis,2022-09-01,1601.456619,Minnesota
+2481,Nashville,2022-09-01,1692.813455,Tennessee
+2482,New Haven,2022-09-01,1570.551233,Connecticut
+2483,New Orleans,2022-09-01,1455.40797,Louisiana
+2484,New York,2022-09-01,2505.144034,New York
+2485,North Port,2022-09-01,2242.072058,Florida
+2486,Ogden,2022-09-01,1476.055789,Utah
+2487,Oklahoma City,2022-09-01,1139.263584,Oklahoma
+2488,Omaha,2022-09-01,1341.869985,Nebraska
+2489,Orlando,2022-09-01,1640.76859,Florida
+2490,Philadelphia,2022-09-01,1667.486517,Pennsylvania
+2491,Phoenix,2022-09-01,1703.150889,Arizona
+2492,Pittsburgh,2022-09-01,1253.054359,Pennsylvania
+2493,Port St. Lucie,2022-09-01,1897.250413,Florida
+2494,Portland,2022-09-01,1739.958276,Oregon
+2495,Providence,2022-09-01,1708.883423,Rhode Island
+2496,Provo,2022-09-01,1428.091643,Utah
+2497,Raleigh,2022-09-01,1574.715858,North Carolina
+2498,Richmond,2022-09-01,1404.87084,Virginia
+2499,Riverside,2022-09-01,2372.25529,California
+2500,Rochester,2022-09-01,1241.683439,New York
+2501,Sacramento,2022-09-01,2080.695358,California
+2502,Salem,2022-09-01,1366.056449,North Carolina
+2503,Salt Lake City,2022-09-01,1466.201902,Utah
+2504,San Antonio,2022-09-01,1386.425178,Texas
+2505,San Diego,2022-09-01,2445.104866,California
+2506,San Francisco,2022-09-01,2941.215964,California
+2507,San Jose,2022-09-01,2924.507004,California
+2508,Sarasota,2022-09-01,2242.072058,Florida
+2509,Scranton,2022-09-01,996.2499332,Pennsylvania
+2510,Seattle,2022-09-01,2023.966878,Washington
+2511,Spokane,2022-09-01,1471.928313,Washington
+2512,Springfield,2022-09-01,1414.968349,Massachusetts
+2513,St. Louis,2022-09-01,1228.891588,Missouri
+2514,St. Paul,2022-09-01,1601.456619,Minnesota
+2515,Stamford,2022-09-01,2332.49263,Connecticut
+2516,Stockton,2022-09-01,2303.052839,California
+2517,Syracuse,2022-09-01,1288.24768,New York
+2518,Tampa,2022-09-01,1673.930594,Florida
+2519,Toledo,2022-09-01,934.8086746,Ohio
+2520,Tucson,2022-09-01,1360.721896,Arizona
+2521,Tulsa,2022-09-01,1263.827708,Oklahoma
+2522,United States,2022-09-01,1788.144025,United States
+2523,Ventura,2022-09-01,2841.043298,California
+2524,Virginia Beach,2022-09-01,1464.368625,Virginia
+2525,Washington,2022-09-01,2046.066663,District of Columbia
+2526,Wichita,2022-09-01,876.5683417,Kansas
+2527,Winston,2022-09-01,1366.056449,North Carolina
+2528,Worcester,2022-09-01,1591.819642,Massachusetts
+2529,Youngstown,2022-09-01,761.9453101,Ohio
+2530,Akron,2022-10-01,982.6173529,Ohio
+2531,Albany,2022-10-01,1399.366266,New York
+2532,Albuquerque,2022-10-01,1330.467332,New Mexico
+2533,Allentown,2022-10-01,1477.151526,Pennsylvania
+2534,Anaheim,2022-10-01,2607.551602,California
+2535,Atlanta,2022-10-01,1696.911814,Georgia
+2536,Augusta,2022-10-01,1264.692864,Georgia
+2537,Austin,2022-10-01,1547.68718,Texas
+2538,Bakersfield,2022-10-01,1525.039654,California
+2539,Baltimore,2022-10-01,1676.06156,Maryland
+2540,Baton Rouge,2022-10-01,1211.935484,Louisiana
+2541,Birmingham,2022-10-01,1160.989014,Alabama
+2542,Boise City,2022-10-01,1511.914947,Idaho
+2543,Boston,2022-10-01,2277.049689,Massachusetts
+2544,Boulder,2022-10-01,2108.322937,Colorado
+2545,Bradenton,2022-10-01,2248.215813,Florida
+2546,Buffalo,2022-10-01,1221.70797,New York
+2547,Charleston,2022-10-01,1630.336326,South Carolina
+2548,Charlotte,2022-10-01,1586.712819,North Carolina
+2549,Chattanooga,2022-10-01,1376.837238,Tennessee
+2550,Chicago,2022-10-01,1673.587175,Illinois
+2551,Cincinnati,2022-10-01,1401.469701,Ohio
+2552,Cleveland,2022-10-01,1190.24541,Ohio
+2553,Colorado Springs,2022-10-01,1706.299436,Colorado
+2554,Columbia,2022-10-01,1266.768258,South Carolina
+2555,Columbus,2022-10-01,1431.117732,Ohio
+2556,Dallas,2022-10-01,1605.493556,Texas
+2557,Dayton,2022-10-01,1130.973822,Ohio
+2558,Daytona Beach,2022-10-01,1577.691467,Florida
+2559,Denver,2022-10-01,1768.77074,Colorado
+2560,Des Moines,2022-10-01,1211.65212,Iowa
+2561,Detroit,2022-10-01,1385.122949,Michigan
+2562,Durham,2022-10-01,1447.231519,North Carolina
+2563,El Paso,2022-10-01,1281.343594,Texas
+2564,Fort Collins,2022-10-01,1615.294635,Colorado
+2565,Fort Lauderdale,2022-10-01,1982.435114,Florida
+2566,Fort Myers,2022-10-01,2011.440968,Florida
+2567,Fort Worth,2022-10-01,1605.493556,Texas
+2568,Fresno,2022-10-01,1720.614539,California
+2569,Gainesville,2022-10-01,1486.379286,Georgia
+2570,Grand Rapids,2022-10-01,1358.671652,Michigan
+2571,Greeley,2022-10-01,1654.663849,Colorado
+2572,Greensboro,2022-10-01,1340.271815,North Carolina
+2573,Greenville,2022-10-01,1358.166605,South Carolina
+2574,Harrisburg,2022-10-01,1209.003283,Pennsylvania
+2575,Hartford,2022-10-01,1478.549023,Connecticut
+2576,Honolulu,2022-10-01,2110.156879,Hawaii
+2577,Houston,2022-10-01,1493.880429,Texas
+2578,Indianapolis,2022-10-01,1387.812117,Indiana
+2579,Jackson,2022-10-01,1318.406094,Mississippi
+2580,Jacksonville,2022-10-01,1472.604876,Florida
+2581,Jefferson County,2022-10-01,1061.805598,Kentucky
+2582,Kansas City,2022-10-01,1296.674917,Missouri
+2583,Knoxville,2022-10-01,1461.216082,Tennessee
+2584,Lakeland,2022-10-01,1585.319777,Florida
+2585,Las Vegas,2022-10-01,1560.922972,Nevada
+2586,Little Rock,2022-10-01,986.6931207,Arkansas
+2587,Long Beach,2022-10-01,2607.551602,California
+2588,Los Angeles,2022-10-01,2607.551602,California
+2589,Louisville,2022-10-01,1061.805598,Kentucky
+2590,Madison,2022-10-01,1395.223389,Wisconsin
+2591,Melbourne,2022-10-01,1673.582709,Florida
+2592,Memphis,2022-10-01,1468.710165,Tennessee
+2593,Miami,2022-10-01,1982.435114,Florida
+2594,Milwaukee,2022-10-01,1280.010615,Wisconsin
+2595,Minneapolis,2022-10-01,1596.304271,Minnesota
+2596,Nashville,2022-10-01,1689.768286,Tennessee
+2597,New Haven,2022-10-01,1573.298974,Connecticut
+2598,New Orleans,2022-10-01,1453.224136,Louisiana
+2599,New York,2022-10-01,2484.646121,New York
+2600,North Port,2022-10-01,2248.215813,Florida
+2601,Ogden,2022-10-01,1492.23008,Utah
+2602,Oklahoma City,2022-10-01,1137.422598,Oklahoma
+2603,Omaha,2022-10-01,1340.027993,Nebraska
+2604,Orlando,2022-10-01,1637.077938,Florida
+2605,Philadelphia,2022-10-01,1664.286472,Pennsylvania
+2606,Phoenix,2022-10-01,1708.381144,Arizona
+2607,Pittsburgh,2022-10-01,1250.580438,Pennsylvania
+2608,Port St. Lucie,2022-10-01,1909.828476,Florida
+2609,Portland,2022-10-01,1730.439389,Oregon
+2610,Providence,2022-10-01,1704.853131,Rhode Island
+2611,Provo,2022-10-01,1426.722027,Utah
+2612,Raleigh,2022-10-01,1571.42696,North Carolina
+2613,Richmond,2022-10-01,1402.656469,Virginia
+2614,Riverside,2022-10-01,2380.087555,California
+2615,Rochester,2022-10-01,1239.878418,New York
+2616,Sacramento,2022-10-01,2081.795166,California
+2617,Salem,2022-10-01,1366.651298,North Carolina
+2618,Salt Lake City,2022-10-01,1464.551255,Utah
+2619,San Antonio,2022-10-01,1382.616952,Texas
+2620,San Diego,2022-10-01,2443.02328,California
+2621,San Francisco,2022-10-01,2908.585513,California
+2622,San Jose,2022-10-01,2887.282036,California
+2623,Sarasota,2022-10-01,2248.215813,Florida
+2624,Scranton,2022-10-01,1004.682624,Pennsylvania
+2625,Seattle,2022-10-01,2007.819064,Washington
+2626,Spokane,2022-10-01,1480.311869,Washington
+2627,Springfield,2022-10-01,1420.453948,Massachusetts
+2628,St. Louis,2022-10-01,1229.297452,Missouri
+2629,St. Paul,2022-10-01,1596.304271,Minnesota
+2630,Stamford,2022-10-01,2325.988861,Connecticut
+2631,Stockton,2022-10-01,2312.136228,California
+2632,Syracuse,2022-10-01,1300.552413,New York
+2633,Tampa,2022-10-01,1676.048567,Florida
+2634,Toledo,2022-10-01,932.4508787,Ohio
+2635,Tucson,2022-10-01,1364.938889,Arizona
+2636,Tulsa,2022-10-01,1263.396783,Oklahoma
+2637,United States,2022-10-01,1784.087026,United States
+2638,Ventura,2022-10-01,2837.396247,California
+2639,Virginia Beach,2022-10-01,1465.127446,Virginia
+2640,Washington,2022-10-01,2034.040469,District of Columbia
+2641,Wichita,2022-10-01,880.373789,Kansas
+2642,Winston,2022-10-01,1366.651298,North Carolina
+2643,Worcester,2022-10-01,1596.973628,Massachusetts
+2644,Youngstown,2022-10-01,768.2599968,Ohio
+2645,Akron,2022-11-01,986.8551546,Ohio
+2646,Albany,2022-11-01,1391.468308,New York
+2647,Albuquerque,2022-11-01,1331.233882,New Mexico
+2648,Allentown,2022-11-01,1458.659049,Pennsylvania
+2649,Anaheim,2022-11-01,2605.989568,California
+2650,Atlanta,2022-11-01,1697.81561,Georgia
+2651,Augusta,2022-11-01,1267.888998,Georgia
+2652,Austin,2022-11-01,1545.990509,Texas
+2653,Bakersfield,2022-11-01,1527.24177,California
+2654,Baltimore,2022-11-01,1671.644116,Maryland
+2655,Baton Rouge,2022-11-01,1211.259344,Louisiana
+2656,Birmingham,2022-11-01,1161.524412,Alabama
+2657,Boise City,2022-11-01,1509.868305,Idaho
+2658,Boston,2022-11-01,2257.23812,Massachusetts
+2659,Boulder,2022-11-01,2109.972293,Colorado
+2660,Bradenton,2022-11-01,2274.715393,Florida
+2661,Buffalo,2022-11-01,1221.933089,New York
+2662,Charleston,2022-11-01,1628.41105,South Carolina
+2663,Charlotte,2022-11-01,1588.210529,North Carolina
+2664,Chattanooga,2022-11-01,1378.388961,Tennessee
+2665,Chicago,2022-11-01,1662.767294,Illinois
+2666,Cincinnati,2022-11-01,1403.230689,Ohio
+2667,Cleveland,2022-11-01,1193.285658,Ohio
+2668,Colorado Springs,2022-11-01,1708.269766,Colorado
+2669,Columbia,2022-11-01,1267.139693,South Carolina
+2670,Columbus,2022-11-01,1433.846364,Ohio
+2671,Dallas,2022-11-01,1605.687816,Texas
+2672,Dayton,2022-11-01,1138.890057,Ohio
+2673,Daytona Beach,2022-11-01,1579.66698,Florida
+2674,Denver,2022-11-01,1762.272562,Colorado
+2675,Des Moines,2022-11-01,1203.853543,Iowa
+2676,Detroit,2022-11-01,1384.623749,Michigan
+2677,Durham,2022-11-01,1448.072129,North Carolina
+2678,El Paso,2022-11-01,1286.602291,Texas
+2679,Fort Collins,2022-11-01,1606.818497,Colorado
+2680,Fort Lauderdale,2022-11-01,1987.655926,Florida
+2681,Fort Myers,2022-11-01,2022.761764,Florida
+2682,Fort Worth,2022-11-01,1605.687816,Texas
+2683,Fresno,2022-11-01,1723.97906,California
+2684,Gainesville,2022-11-01,1489.746546,Georgia
+2685,Grand Rapids,2022-11-01,1354.194624,Michigan
+2686,Greeley,2022-11-01,1643.097134,Colorado
+2687,Greensboro,2022-11-01,1342.440456,North Carolina
+2688,Greenville,2022-11-01,1358.810937,South Carolina
+2689,Harrisburg,2022-11-01,1206.063168,Pennsylvania
+2690,Hartford,2022-11-01,1479.435433,Connecticut
+2691,Honolulu,2022-11-01,2111.907321,Hawaii
+2692,Houston,2022-11-01,1492.682813,Texas
+2693,Indianapolis,2022-11-01,1389.234063,Indiana
+2694,Jackson,2022-11-01,1321.431106,Mississippi
+2695,Jacksonville,2022-11-01,1473.243488,Florida
+2696,Jefferson County,2022-11-01,1059.494813,Kentucky
+2697,Kansas City,2022-11-01,1298.815816,Missouri
+2698,Knoxville,2022-11-01,1466.755864,Tennessee
+2699,Lakeland,2022-11-01,1591.306551,Florida
+2700,Las Vegas,2022-11-01,1562.009288,Nevada
+2701,Little Rock,2022-11-01,986.7183448,Arkansas
+2702,Long Beach,2022-11-01,2605.989568,California
+2703,Los Angeles,2022-11-01,2605.989568,California
+2704,Louisville,2022-11-01,1059.494813,Kentucky
+2705,Madison,2022-11-01,1400.748128,Wisconsin
+2706,Melbourne,2022-11-01,1681.281009,Florida
+2707,Memphis,2022-11-01,1473.731333,Tennessee
+2708,Miami,2022-11-01,1987.655926,Florida
+2709,Milwaukee,2022-11-01,1277.01971,Wisconsin
+2710,Minneapolis,2022-11-01,1595.95802,Minnesota
+2711,Nashville,2022-11-01,1683.967397,Tennessee
+2712,New Haven,2022-11-01,1579.776561,Connecticut
+2713,New Orleans,2022-11-01,1457.85781,Louisiana
+2714,New York,2022-11-01,2463.610673,New York
+2715,North Port,2022-11-01,2274.715393,Florida
+2716,Ogden,2022-11-01,1497.606029,Utah
+2717,Oklahoma City,2022-11-01,1136.086181,Oklahoma
+2718,Omaha,2022-11-01,1342.207968,Nebraska
+2719,Orlando,2022-11-01,1633.65636,Florida
+2720,Philadelphia,2022-11-01,1664.017126,Pennsylvania
+2721,Phoenix,2022-11-01,1717.230326,Arizona
+2722,Pittsburgh,2022-11-01,1256.007122,Pennsylvania
+2723,Port St. Lucie,2022-11-01,1925.230467,Florida
+2724,Portland,2022-11-01,1724.135954,Oregon
+2725,Providence,2022-11-01,1715.043538,Rhode Island
+2726,Provo,2022-11-01,1428.733705,Utah
+2727,Raleigh,2022-11-01,1566.885794,North Carolina
+2728,Richmond,2022-11-01,1404.443989,Virginia
+2729,Riverside,2022-11-01,2388.456445,California
+2730,Rochester,2022-11-01,1239.029738,New York
+2731,Sacramento,2022-11-01,2082.286628,California
+2732,Salem,2022-11-01,1365.675469,North Carolina
+2733,Salt Lake City,2022-11-01,1461.718274,Utah
+2734,San Antonio,2022-11-01,1384.29344,Texas
+2735,San Diego,2022-11-01,2443.822019,California
+2736,San Francisco,2022-11-01,2883.517796,California
+2737,San Jose,2022-11-01,2864.028613,California
+2738,Sarasota,2022-11-01,2274.715393,Florida
+2739,Scranton,2022-11-01,1003.819404,Pennsylvania
+2740,Seattle,2022-11-01,1995.271734,Washington
+2741,Spokane,2022-11-01,1477.391786,Washington
+2742,Springfield,2022-11-01,1415.65154,Massachusetts
+2743,St. Louis,2022-11-01,1227.312333,Missouri
+2744,St. Paul,2022-11-01,1595.95802,Minnesota
+2745,Stamford,2022-11-01,2322.169617,Connecticut
+2746,Stockton,2022-11-01,2317.431705,California
+2747,Syracuse,2022-11-01,1312.384354,New York
+2748,Tampa,2022-11-01,1682.458768,Florida
+2749,Toledo,2022-11-01,936.2846035,Ohio
+2750,Tucson,2022-11-01,1370.624258,Arizona
+2751,Tulsa,2022-11-01,1264.081698,Oklahoma
+2752,United States,2022-11-01,1782.592252,United States
+2753,Ventura,2022-11-01,2844.999781,California
+2754,Virginia Beach,2022-11-01,1466.878716,Virginia
+2755,Washington,2022-11-01,2024.58958,District of Columbia
+2756,Wichita,2022-11-01,875.5540894,Kansas
+2757,Winston,2022-11-01,1365.675469,North Carolina
+2758,Worcester,2022-11-01,1598.170594,Massachusetts
+2759,Youngstown,2022-11-01,774.9498049,Ohio
