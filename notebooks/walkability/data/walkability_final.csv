@@ -1,15 +1,15 @@
-,City,State,Walk_Score,Transit_Score,Bike_Score,Population
+DataId,City,State,Walk_Score,Transit_Score,Bike_Score,Population
 0,New York,New York,88.3,84.3,70,8175133
 1,Los Angeles,California,68.2,52.6,59,3792621
 2,Chicago,Illinois,77.4,65.3,73,2695598
 3,Houston,Texas,47.9,36.9,51,2099451
 4,Philadelphia,Pennsylvania,78.8,66.8,67,1526006
-5,Phoenix,Arizona,41.0,36.0,56,1445632
+5,Phoenix,Arizona,41,36,56,1445632
 6,San Antonio,Texas,34.8,35.7,45,1327407
 7,San Diego,California,51.3,36.9,43,1307402
-8,Dallas,Texas,46.0,39.7,51,1197816
-9,San Jose,California,49.0,41.2,62,945942
-10,Jacksonville,Florida,25.7,23.0,43,821784
+8,Dallas,Texas,46,39.7,51,1197816
+9,San Jose,California,49,41.2,62,945942
+10,Jacksonville,Florida,25.7,23,43,821784
 11,Indianapolis,Indiana,30.5,23.3,45,820445
 12,San Francisco,California,87.4,80.3,72,805235
 13,Austin,Texas,41.1,33.5,54,790390
@@ -18,79 +18,79 @@
 16,Charlotte,North Carolina,26.3,28.7,34,731424
 17,Detroit,Michigan,53.2,38.8,55,713777
 18,El Paso,Texas,40.9,30.7,42,649121
-19,Memphis,Tennessee,36.1,0.0,44,646889
+19,Memphis,Tennessee,36.1,0,44,646889
 20,Baltimore,Maryland,64.8,56.9,56,620961
-21,Boston,Massachusetts,82.0,72.5,71,617594
-22,Seattle,Washington,74.0,60.1,70,608660
+21,Boston,Massachusetts,82,72.5,71,617594
+22,Seattle,Washington,74,60.1,70,608660
 23,Washington D.C.,District of Columbia,75.9,70.7,69,601723
 24,Nashville-Davidson,Tennessee,28.3,24.3,30,601222
-25,Denver,Colorado,61.0,47.5,73,600158
+25,Denver,Colorado,61,47.5,73,600158
 26,Louisville-Jefferson,Kentucky,33.9,28.2,43,597337
 27,Milwaukee,Wisconsin,62.7,48.4,59,594833
 28,Portland,Oregon,66.6,51.6,82,583776
 29,Las Vegas,Nevada,40.6,33.9,47,583756
 30,Oklahoma City,Oklahoma,33.6,16.5,43,579999
-31,Albuquerque,New Mexico,41.6,30.0,62,545852
+31,Albuquerque,New Mexico,41.6,30,62,545852
 32,Tucson,Arizona,42.2,35.1,67,520116
 33,Fresno,California,44.9,31.5,59,494665
 34,Sacramento,California,45.3,33.9,68,466488
 35,Long Beach,California,72.4,51.7,69,462257
-36,Kansas City,Missouri,34.7,29.0,35,459787
+36,Kansas City,Missouri,34.7,29,35,459787
 37,Mesa,Arizona,37.3,27.1,61,439041
 38,Virginia Beach,Virginia,32.1,20.6,44,437994
 39,Atlanta,Georgia,47.8,47.2,45,420003
-40,Colorado Springs,Colorado,35.0,18.7,45,416427
+40,Colorado Springs,Colorado,35,18.7,45,416427
 41,Omaha,Nebraska,46.8,26.9,44,408958
 42,Raleigh,North Carolina,30.5,29.9,41,403892
 43,Miami,Florida,77.6,56.8,66,399457
 44,Cleveland,Ohio,59.5,44.6,55,396815
 45,Tulsa,Oklahoma,38.9,22.7,47,391906
 46,Oakland,California,73.8,56.2,65,390724
-47,Minneapolis,Minnesota,70.5,57.0,84,382578
+47,Minneapolis,Minnesota,70.5,57,84,382578
 48,Wichita,Kansas,35.3,19.7,48,382368
 49,Arlington,Texas,37.8,0.3,41,365438
 50,Bakersfield,California,34.1,27.4,44,347483
 51,New Orleans,Louisiana,58.9,43.9,66,343829
 52,Honolulu,Hawaii,64.6,57.3,51,337256
-53,Anaheim,California,54.8,37.0,52,336265
+53,Anaheim,California,54.8,37,52,336265
 54,Tampa,Florida,49.4,33.5,57,335709
 55,Aurora,Colorado,43.1,38.3,55,325078
 56,Santa Ana,California,66.3,45.1,61,324528
 57,St. Louis,Missouri,65.5,45.3,62,319294
-58,Pittsburgh,Pennsylvania,62.9,56.0,57,305704
+58,Pittsburgh,Pennsylvania,62.9,56,57,305704
 59,Corpus Christi,Texas,40.5,29.7,49,305215
 60,Riverside,California,41.9,32.6,50,303871
 61,Cincinnati,Ohio,49.8,43.6,43,296943
 62,Lexington-Fayette,Kentucky,33.6,23.8,46,295803
 63,Anchorage,Alaska,27.8,21.2,52,291826
 64,Stockton,California,42.7,27.8,57,291707
-65,Toledo,Ohio,45.3,0.0,50,287208
+65,Toledo,Ohio,45.3,0,50,287208
 66,St. Paul,Minnesota,59.8,47.8,67,285068
 67,Newark,New Jersey,78.8,65.1,61,277140
-68,Greensboro,North Carolina,29.3,0.0,35,269666
+68,Greensboro,North Carolina,29.3,0,35,269666
 69,Buffalo,New York,67.5,49.2,65,261310
 70,Plano,Texas,39.5,17.3,55,259841
 71,Lincoln,Nebraska,42.7,24.3,61,258379
-72,Henderson,Nevada,29.0,23.7,44,257729
+72,Henderson,Nevada,29,23.7,44,257729
 73,Fort Wayne,Indiana,30.1,21.7,47,253691
 74,Jersey City,New Jersey,86.8,70.6,70,247597
 75,St. Petersburg,Florida,43.7,34.7,61,244769
 76,Chula Vista,California,43.2,35.7,41,243916
-77,Norfolk,Virginia,45.0,35.6,51,242803
+77,Norfolk,Virginia,45,35.6,51,242803
 78,Orlando,Florida,41.1,32.6,60,238300
 79,Chandler,Arizona,34.6,24.3,58,236123
-80,Laredo,Texas,41.4,0.0,45,236091
+80,Laredo,Texas,41.4,0,45,236091
 81,Madison,Wisconsin,48.3,38.6,65,233209
-82,Winston-Salem,North Carolina,23.4,0.0,29,229617
-83,Lubbock,Texas,38.2,22.0,49,229573
-84,Baton Rouge,Louisiana,40.8,0.0,47,229493
-85,Durham,North Carolina,29.0,29.4,41,228330
+82,Winston-Salem,North Carolina,23.4,0,29,229617
+83,Lubbock,Texas,38.2,22,49,229573
+84,Baton Rouge,Louisiana,40.8,0,47,229493
+85,Durham,North Carolina,29,29.4,41,228330
 86,Garland,Texas,39.7,29.3,45,226876
 87,Glendale,Arizona,40.2,34.2,59,226721
 88,Reno,Nevada,38.1,27.6,52,225221
-89,Hialeah,Florida,68.7,39.0,58,224669
+89,Hialeah,Florida,68.7,39,58,224669
 90,Paradise,Nevada,48.4,38.1,54,223167
-91,Chesapeake,Virginia,21.0,13.2,40,222209
+91,Chesapeake,Virginia,21,13.2,40,222209
 92,Scottsdale,Arizona,31.3,25.6,56,217385
 93,North Las Vegas,Nevada,33.1,31.8,49,216961
 94,Irving,Texas,43.8,31.3,46,216290
@@ -104,6 +104,6 @@
 102,Arlington,Virginia,69.2,61.7,72,207627
 103,Montgomery,Alabama,26.1,16.4,38,205764
 104,Boise City,Idaho,39.5,22.5,62,205671
-105,Richmond,Virginia,52.2,0.0,52,204214
-106,Des Moines,Iowa,44.9,30.0,42,203433
-107,Fayetteville,North Carolina,21.4,0.0,33,200564
+105,Richmond,Virginia,52.2,0,52,204214
+106,Des Moines,Iowa,44.9,30,42,203433
+107,Fayetteville,North Carolina,21.4,0,33,200564
