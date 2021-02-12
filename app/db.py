@@ -43,19 +43,117 @@ async def get_url(connection=Depends(get_db)):
     return {'database_url': url_without_password}
 
 
-
-@router.post('/predict-rental')
-async def read_data(city,connection=Depends(get_db)):
-
-    city = city.lower()
+@router.get('/rental-historical-data')
+async def read_historical_rentals(connection=Depends(get_db)):
+    """
+    Fetches historical rental data for 2014-2020 years per city/state
+    for future use when utilizing graphs
+    """
     query = f"""
-            SELECT city, date, price
-                FROM historical_rentals 
-                WHERE city='{city}' AND date >= '2018-01-01'
+            SELECT city, state, price, date
+            FROM historical_rentals; 
             """
     df = pd.read_sql(query, connection)
-    if len(df)> 0:
+
+    if len(df) > 0:
         return df.to_dict(orient='records')
     else:
-        return f'City not found. Try major city'
+        return f'Error. Data is not found.'
+
+
+@router.get('/rental-forecast-cities')
+async def read_rental_cities(connection=Depends(get_db)):
+    """
+    Fetches rental data forecasted for next 2 years  per city/state
+    """
+    query = f"""
+            SELECT city, state, price, date
+            FROM forecasted_rentals_cities; 
+            """
+    df = pd.read_sql(query, connection)
+
+    if len(df) > 0:
+        return df.to_dict(orient='records')
+    else:
+        return f'Error. Data is not found.'
+
+
+
+@router.get('/rental-forecast-states')
+async def read_rental_states(connection=Depends(get_db)):
+    """
+    Fetches rental price average per state forecasted for next 2 years
+    """
+    query = f"""
+            SELECT state, price, date
+            FROM forecasted_rentals_states; 
+            """
+    df = pd.read_sql(query, connection)
+
+    if len(df) > 0:
+        return df.to_dict(orient='records')
+    else:
+        return f'Error. Data is not found.'
+
+
+
+@router.get('/walkability-score')
+async def read_walkability(connection=Depends(get_db)):
+    """
+    Fetches rental price average per state forecasted for next 2 years
+    """
+    query = f"""
+            SELECT city, state, walk_score, transit_score, bike_score, population
+            FROM walkability; 
+            """
+    df = pd.read_sql(query, connection)
+
+    if len(df) > 0:
+        return df.to_dict(orient='records')
+    else:
+        return f'Error. Data is not found.'
+
+
+@router.get('/crime-rate')
+async def read_crime(connection=Depends(get_db)):
+    """
+    Fetches rental price average per state forecasted for next 2 years
+    """
+    query = f"""
+            SELECT *
+            FROM CRIME_DATA
+            LIMIT 100; 
+            """
+    df = pd.read_sql(query, connection)
+
+    if len(df) > 0:
+        return df.to_dict(orient='records')
+    else:
+        return f'Error. Data is not found.'
+
+@router.post('/predict')
+async def read_data(city, state, connection=Depends(get_db)):
+    """
+    Fetches data and combines it in one endpoint. 
+    It's only rental data right now, other features will be added
+    """
+    city = city.lower().title()
+    state = state.lower().title()
+    query = f"""
+            SELECT city, state, price, date
+                FROM forecasted_rentals_cities
+                WHERE city='{city}';
+            """
+    df = pd.read_sql(query, connection)
+    if len(df) > 0:
+        return df.to_dict(orient='records')
+    else:
+        query = f"""
+            SELECT city, price, date
+                FROM forecasted_rentals_cities
+                WHERE state='{state}';
+            """
+        df = pd.read_sql(query, connection)
+        print(f"Specific City not found. Listed cities per state {state}")
+        return df.to_dict(orient='records')
 
