@@ -14,6 +14,7 @@ sqlalchemy = "*"
 joblib = "==1.0.0"
 pandas = "*"
 cython = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3"
