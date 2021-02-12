@@ -27,13 +27,15 @@ class Rent(BaseModel):
     state: str
 
 
-@router.post('/predict_rent')
-async def rentalPricePredict(rent: Rent):
+@router.post('/rent_linear_prediction')
+async def linear_predict(rent: Rent):
     """
     Forecast apartment rent for 3, 6, 12 months 
+    This is just Linear model. It won't show great forecast accuracy 
+    Created to determine base line and for test purposes.
     """
-    city = rent.city
-    state = rent.state
+    city = rent.city.lower().title()
+    state = rent.state.lower().title()
 
     now = datetime.today()
     # get date 3 months, 6 months, 12 months in the future for our forecasting
