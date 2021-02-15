@@ -9,7 +9,7 @@ pytest = "*"
 
 [packages]
 fastapi = "*"
-uvicorn = {extras = ["standard"], version = "*"}
+uvicorn = {extras = ["standard"],version = "*"}
 sqlalchemy = "*"
 joblib = "==1.0.0"
 pandas = "*"
@@ -20,6 +20,7 @@ requests = "*"
 sklearn = "*"
 typing = "*"
 datetime = "*"
+plotly = "*"
 
 [requires]
 python_version = "3"
