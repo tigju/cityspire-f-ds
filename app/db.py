@@ -134,26 +134,52 @@ async def read_crime(connection=Depends(get_db)):
 @router.post('/predict')
 async def read_data(city, state, connection=Depends(get_db)):
     """
-    Fetches data and combines it in one endpoint. 
-    It's only rental data right now, other features will be added
+    Fetches data and combines it in one endpoint  
+
     """
     city = city.lower().title()
     state = state.lower().title()
-    query = f"""
+    query_rental = f"""
             SELECT city, state, price, date
-                FROM forecasted_rentals_cities
-                WHERE city='{city}';
+            FROM forecasted_rentals_cities
+            WHERE city='{city}';
             """
-    df = pd.read_sql(query, connection)
-    if len(df) > 0:
-        return df.to_dict(orient='records')
-    else:
-        query = f"""
-            SELECT city, price, date
-                FROM forecasted_rentals_cities
-                WHERE state='{state}';
+    query_crime = f"""
+            SELECT "Violent_Crime_rate", "Property_Crime_rate", "Crime_Overall"
+            FROM "CRIME_DATA"
+            WHERE "CityName"='{city}';
             """
-        df = pd.read_sql(query, connection)
-        print(f"Specific City not found. Listed cities per state {state}")
-        return df.to_dict(orient='records')
+    query_population = f"""
+            SELECT twenty_nineteen_population, ten_year_population_growth_percentage, us_population_rank
+            FROM population
+            WHERE city='{city}';
+            """
+    query_walkability = f"""
+            SELECT walk_score, bike_score, transit_score
+            FROM walkability
+            WHERE city='{city}';
+            """
+
+    df_rental = pd.read_sql(query_rental, connection)
+    df_crime = pd.read_sql(query_crime, connection)
+    df_population = pd.read_sql(query_population, connection)
+    df_walkability = pd.read_sql(query_walkability, connection)
+
+    city_state = {'city': df_rental['city'][1], 'state': df_rental['state'][1]}
+    dates_prices = {
+        'date_price': df_rental[['date', 'price']].to_dict(orient='records')}
+    crime_rates = {'violent_crime_rate': df_crime['Violent_Crime_rate'][1], 'property_crime_rate':
+                   df_crime['Property_Crime_rate'][1], 'crime_overall':  df_crime['Crime_Overall'][1]}
+    
+    population = {'population': df_population.to_dict(orient='records')}
+
+    walkability = {'walkability': df_walkability.to_dict(orient='records')}
+
+    city_state.update(dates_prices)
+    city_state.update(crime_rates)
+    city_state.update(population)
+    city_state.update(walkability)
+
+
+    return city_state
 
