@@ -146,7 +146,7 @@ async def read_data(city, state, connection=Depends(get_db)):
             """
     query_crime = f"""
             SELECT "Violent_Crime_rate", "Property_Crime_rate", "Crime_Overall"
-            FROM "CRIME_DATA"
+            FROM crime_data
             WHERE "CityName"='{city}';
             """
     query_population = f"""
