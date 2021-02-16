@@ -21,7 +21,7 @@ avg_state_hist = df_cities_historical.groupby('state').resample('M').mean()
 avg_hist = avg_state_hist.reset_index()
 
 
-@router.get('/visualize-price')
+@router.post('/visualize-price')
 async def visualize_rent(city, state):
     """
     Visualize Rental Price Historical and Forecast date per City/State
