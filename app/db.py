@@ -78,7 +78,6 @@ async def read_rental_cities(connection=Depends(get_db)):
         return f'Error. Data is not found.'
 
 
-
 @router.get('/rental-forecast-states')
 async def read_rental_states(connection=Depends(get_db)):
     """
@@ -94,7 +93,6 @@ async def read_rental_states(connection=Depends(get_db)):
         return df.to_dict(orient='records')
     else:
         return f'Error. Data is not found.'
-
 
 
 @router.get('/walkability-score')
@@ -121,7 +119,7 @@ async def read_crime(connection=Depends(get_db)):
     """
     query = f"""
             SELECT *
-            FROM CRIME_DATA
+            FROM crime_data
             LIMIT 100; 
             """
     df = pd.read_sql(query, connection)
@@ -130,6 +128,7 @@ async def read_crime(connection=Depends(get_db)):
         return df.to_dict(orient='records')
     else:
         return f'Error. Data is not found.'
+
 
 @router.post('/predict')
 async def read_data(city, state, connection=Depends(get_db)):
@@ -165,12 +164,19 @@ async def read_data(city, state, connection=Depends(get_db)):
     df_population = pd.read_sql(query_population, connection)
     df_walkability = pd.read_sql(query_walkability, connection)
 
-    city_state = {'city': df_rental['city'][1], 'state': df_rental['state'][1]}
-    dates_prices = {
-        'date_price': df_rental[['date', 'price']].to_dict(orient='records')}
-    crime_rates = {'violent_crime_rate': df_crime['Violent_Crime_rate'][1], 'property_crime_rate':
-                   df_crime['Property_Crime_rate'][1], 'crime_overall':  df_crime['Crime_Overall'][1]}
-    
+    if len(df_rental) < 1:
+        city_state = {'city': f'{city}', 'state': f'{state}'}
+        dates_prices = {
+            'rental_forecast': f'no rental data for {city, state}, try major city'}
+    else:
+        city_state = {'city': df_rental['city']
+                      [0], 'state': df_rental['state'][0]}
+        dates_prices = {'date_price': df_rental[[
+            'date', 'price']].to_dict(orient='records')}
+
+    crime_rates = {'violent_crime_rate': df_crime['Violent_Crime_rate'][0], 'property_crime_rate':
+                   df_crime['Property_Crime_rate'][0], 'crime_overall':  df_crime['Crime_Overall'][0]}
+
     population = {'population': df_population.to_dict(orient='records')}
 
     walkability = {'walkability': df_walkability.to_dict(orient='records')}
@@ -180,6 +186,4 @@ async def read_data(city, state, connection=Depends(get_db)):
     city_state.update(population)
     city_state.update(walkability)
 
-
     return city_state
-
