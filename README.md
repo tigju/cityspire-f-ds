@@ -1,9 +1,9 @@
 ## Data Science team project from Lambda Labs 
 #### Data Scientists: 
 
-[Maxim371](https://github.com/maxim371)
-[yuanjinren](https://github.com/yuanjinren)
-[tigju](https://github.com/tigju)
+- [Maxim371](https://github.com/maxim371)
+- [yuanjinren](https://github.com/yuanjinren)
+- [tigju](https://github.com/tigju)
 
 
 DS part of the project CitySpire: 
